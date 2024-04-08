@@ -1,0 +1,5001 @@
+Id_Transacao,Mes,Loja,Valor
+9c0b245f,Marco,Filial Sul,3535
+666d980f,Novembro,Filial Sul,4181
+af719b85,Junho,Matriz,3249
+cc2a7a7e,Abril,Filial Nordeste,2565
+ae27da3f,Setembro,Filial Nordeste,322
+3621e0b3,Janeiro,Matriz,4020
+82532492,Julho,Filial Sul,2539
+42753293,Janeiro,Filial Sul,4051
+f3705073,Julho,Matriz,2106
+2772c243,Janeiro,Filial Norte,840
+954d8068,Fevereiro,Filial Sul,4295
+b6fa7234,Julho,Filial Norte,4309
+1a0d3463,Outubro,Filial Nordeste,3628
+bc4949e2,Outubro,Filial Sul,111
+8cc0396e,Janeiro,Matriz,3402
+e66b36a7,Maio,Filial Sul,4309
+b542c0c4,Dezembro,Matriz,3441
+2345befe,Fevereiro,Filial Sul,2240
+58510930,Fevereiro,Filial Norte,2028
+6e2446f9,Outubro,Matriz,3452
+a64f7529,Outubro,Filial Sul,4813
+676454b1,Setembro,Filial Norte,1323
+9d6571ab,Marco,Matriz,1583
+d87cf606,Abril,Matriz,2032
+cc62e7db,Agosto,Matriz,951
+798ee79b,Dezembro,Filial Norte,1990
+d8fcd071,Julho,Filial Sul,3898
+bc42b72b,Novembro,Matriz,4593
+85270766,Janeiro,Filial Norte,4293
+55c80c41,Junho,Filial Norte,3720
+9115973d,Marco,Matriz,721
+934f0736,Marco,Filial Sul,2633
+5ca86dfc,Janeiro,Matriz,2700
+197107c9,Junho,Filial Norte,4341
+24643098,Abril,Matriz,1644
+7a560ee9,Novembro,Filial Norte,2058
+d00e60fc,Junho,Filial Norte,1470
+4584eca7,Abril,Filial Norte,420
+5d228632,Fevereiro,Filial Sul,4110
+ac777e62,Outubro,Matriz,101
+d9b45b06,Marco,Filial Sul,3123
+0cbdc2b1,Setembro,Filial Norte,3982
+7a8fe0be,Julho,Filial Norte,178
+afc6668f,Julho,Filial Norte,401
+e27592e4,Marco,Filial Sul,4843
+e006c91a,Janeiro,Matriz,699
+8f6a0d84,Abril,Matriz,1228
+1ebe4229,Agosto,Filial Sul,4465
+8f97e230,Fevereiro,Matriz,4326
+8e159e73,Maio,Filial Norte,614
+a774756b,Novembro,Filial Sul,3273
+b79c8e7e,Outubro,Matriz,2359
+2d9608df,Novembro,Matriz,1534
+f792d21a,Janeiro,Filial Norte,3524
+d3974a66,Julho,Matriz,1085
+a1f48b75,Fevereiro,Filial Nordeste,3395
+665abbc2,Janeiro,Filial Norte,651
+3e73fbc9,Agosto,Filial Nordeste,1108
+3a84a37e,Marco,Filial Norte,3364
+a4142742,Marco,Matriz,511
+de2646a8,Abril,Filial Norte,908
+c1601e68,Dezembro,Filial Nordeste,3619
+12657ac4,Julho,Filial Sul,3135
+046b07e6,Outubro,Matriz,3150
+41ccf940,Novembro,Matriz,4707
+bc0c772e,Agosto,Matriz,308
+ea726c99,Janeiro,Matriz,1266
+c3f4e868,Fevereiro,Filial Norte,4381
+e69630df,Fevereiro,Matriz,3399
+2afc190c,Fevereiro,Matriz,644
+bfb6d1fa,Novembro,Filial Nordeste,346
+c63b66d3,Marco,Matriz,668
+2b69ec10,Junho,Filial Sul,1100
+34481c5e,Fevereiro,Matriz,3408
+92653360,Janeiro,Filial Norte,1638
+eca3a4f2,Abril,Filial Nordeste,3851
+0c55e851,Setembro,Filial Sul,4977
+5bcbf542,Abril,Matriz,2710
+63bbe53c,Abril,Filial Sul,2733
+a57d7ee4,Outubro,Matriz,2124
+a7b56efa,Dezembro,Filial Sul,1739
+72e7bc18,Dezembro,Matriz,1987
+d164101d,Marco,Filial Nordeste,3731
+6a839e04,Setembro,Filial Norte,2712
+c66f32bd,Fevereiro,Filial Sul,3247
+cc014a04,Junho,Filial Nordeste,3349
+016769ad,Marco,Filial Nordeste,532
+dee2a6b6,Junho,Filial Sul,532
+ef2f9aef,Janeiro,Filial Nordeste,1451
+55b553c7,Junho,Filial Nordeste,655
+98f5cc39,Julho,Filial Sul,2564
+6e3f3b7c,Junho,Filial Nordeste,4847
+ffbe58b8,Marco,Filial Nordeste,707
+1bba74a3,Novembro,Filial Sul,302
+168afa4c,Outubro,Filial Sul,124
+426d4c5c,Outubro,Filial Nordeste,524
+6d1ca525,Dezembro,Filial Sul,3831
+4dc96575,Julho,Filial Norte,2327
+a54bad8d,Julho,Matriz,4604
+edcff026,Dezembro,Filial Nordeste,854
+bb41aa0d,Janeiro,Filial Nordeste,1378
+6976648c,Maio,Filial Norte,1340
+1e3d7f46,Agosto,Matriz,2517
+8a906bfa,Fevereiro,Filial Norte,3245
+2947fbc3,Janeiro,Filial Nordeste,3323
+bb8f3acd,Janeiro,Matriz,741
+9732bd4e,Marco,Filial Norte,486
+8ad2008f,Marco,Filial Nordeste,1558
+e3c9d951,Dezembro,Filial Nordeste,2131
+d77b35dd,Setembro,Filial Nordeste,1789
+9fc96212,Fevereiro,Matriz,2301
+d992c102,Maio,Matriz,2247
+aaf9a2d1,Maio,Filial Nordeste,1028
+c0128321,Novembro,Filial Norte,2957
+5a346667,Fevereiro,Filial Norte,2541
+e0e2cead,Outubro,Filial Sul,3970
+dc2dd92a,Abril,Matriz,2934
+2df7795e,Junho,Filial Nordeste,1292
+485655ad,Outubro,Matriz,623
+593211a2,Agosto,Filial Sul,2985
+3d6adc9a,Maio,Matriz,4769
+dfa2e985,Outubro,Matriz,3858
+328ce9e9,Setembro,Matriz,2161
+0a478ea5,Abril,Matriz,1213
+607d249b,Novembro,Filial Norte,1149
+c2879295,Junho,Filial Sul,3169
+35fc8935,Dezembro,Filial Norte,249
+6f53579d,Marco,Matriz,2631
+f629562b,Dezembro,Matriz,2438
+a4131332,Fevereiro,Filial Nordeste,3501
+0bd6597c,Julho,Matriz,3501
+4268ba57,Maio,Filial Nordeste,1743
+98e8cba6,Agosto,Filial Sul,4086
+416c4092,Julho,Filial Norte,1337
+b3503151,Dezembro,Filial Norte,3158
+041e3a35,Marco,Filial Sul,4665
+647ff49d,Fevereiro,Filial Norte,2000
+863cdabb,Marco,Filial Sul,4758
+b26124ee,Junho,Matriz,3539
+9f37a90b,Outubro,Matriz,3754
+f8d849a2,Junho,Filial Nordeste,1522
+a50aef17,Setembro,Filial Norte,1109
+d4fc87f1,Maio,Filial Sul,1209
+22174310,Janeiro,Filial Norte,252
+51953417,Janeiro,Filial Sul,1946
+8dae3033,Janeiro,Filial Norte,4335
+c28a455e,Abril,Filial Nordeste,2846
+02acfb53,Fevereiro,Filial Norte,961
+7fb3b45e,Maio,Filial Nordeste,3526
+3addc0e8,Setembro,Filial Sul,2482
+72918785,Junho,Filial Norte,4704
+f2d124f7,Fevereiro,Filial Sul,3982
+e167910b,Julho,Matriz,2060
+d9a0f144,Julho,Filial Norte,3531
+4377c6be,Setembro,Filial Sul,584
+a4ddfcb9,Julho,Filial Norte,4770
+98cbabae,Abril,Matriz,2903
+b2fcf50d,Fevereiro,Filial Sul,350
+d826fc75,Setembro,Filial Nordeste,2258
+09e5ad1c,Maio,Matriz,3336
+a49520f5,Novembro,Filial Nordeste,3776
+b170b43b,Novembro,Matriz,3517
+b5fde925,Dezembro,Filial Norte,1210
+5938ddbb,Agosto,Filial Nordeste,3141
+3f5ccad5,Fevereiro,Filial Norte,4885
+253a0d8f,Marco,Filial Norte,4249
+9128e8bf,Abril,Filial Sul,1263
+c2d2fa62,Novembro,Filial Norte,263
+6ac6a3b1,Novembro,Filial Nordeste,1844
+8a253eb7,Novembro,Filial Nordeste,3504
+2ca2b721,Fevereiro,Filial Sul,3406
+c41c09aa,Novembro,Filial Sul,3915
+08ccb6da,Setembro,Matriz,511
+35d97985,Marco,Filial Nordeste,344
+4983b944,Outubro,Matriz,588
+2034578f,Novembro,Matriz,1019
+3725e842,Marco,Filial Norte,728
+b78667b9,Agosto,Filial Norte,3644
+b947058c,Maio,Matriz,4199
+37e28aa9,Julho,Filial Norte,2873
+48dea3eb,Junho,Filial Norte,1757
+8205dd55,Setembro,Matriz,678
+788c3f5a,Novembro,Filial Nordeste,4162
+b3d889bc,Junho,Filial Nordeste,1383
+f62de9a8,Novembro,Filial Nordeste,3526
+33ffe8b8,Novembro,Filial Sul,441
+1c9f4be5,Dezembro,Filial Norte,1629
+29f9402c,Maio,Filial Sul,968
+a7e16899,Fevereiro,Filial Nordeste,1409
+cd5a5351,Setembro,Filial Sul,2946
+4a41c4bb,Maio,Matriz,4978
+f79c4029,Agosto,Matriz,795
+fde09713,Novembro,Filial Nordeste,2172
+8bf8c3bd,Agosto,Filial Sul,1216
+899b0711,Maio,Filial Sul,2274
+32a9415e,Abril,Filial Sul,2895
+9709a2a2,Novembro,Filial Norte,1288
+701a72a6,Junho,Filial Norte,4118
+fb2091d8,Outubro,Matriz,1509
+a28373e8,Maio,Matriz,1924
+f2b02aa3,Outubro,Filial Nordeste,127
+1cd7be33,Julho,Filial Sul,1803
+73b05d06,Junho,Filial Sul,699
+7d8e2228,Outubro,Filial Nordeste,2991
+9b97b0c7,Dezembro,Matriz,3538
+56a5f70f,Agosto,Filial Norte,1166
+48ac184f,Fevereiro,Matriz,802
+c67344f2,Abril,Filial Sul,471
+21fd2449,Abril,Filial Norte,556
+1ef446aa,Marco,Matriz,1139
+367e8d68,Setembro,Matriz,4393
+672fd5d4,Maio,Matriz,1289
+4160708c,Junho,Filial Sul,3082
+91179fa1,Novembro,Filial Norte,2516
+48c7e2c1,Dezembro,Filial Sul,3105
+af267152,Dezembro,Filial Nordeste,175
+833a96c9,Maio,Filial Sul,4389
+921d2b1c,Marco,Filial Sul,4413
+67968557,Marco,Filial Norte,1858
+f589c916,Marco,Filial Nordeste,2960
+f83562f8,Maio,Filial Sul,889
+a21191db,Julho,Filial Norte,1718
+7fc8397d,Janeiro,Filial Norte,2609
+2bd4ef1c,Junho,Filial Sul,4713
+bf8377da,Abril,Filial Norte,4072
+4f1bbb12,Junho,Filial Nordeste,3903
+92ed0494,Julho,Matriz,3543
+a377510a,Junho,Filial Sul,1092
+3384923f,Janeiro,Filial Norte,4823
+1144df58,Outubro,Filial Norte,4005
+f9ef2f8b,Abril,Filial Sul,3350
+6ef409db,Abril,Filial Norte,2326
+21f2e3e3,Agosto,Filial Nordeste,416
+ab19a3b5,Fevereiro,Filial Nordeste,3032
+38fd3b5c,Marco,Matriz,2019
+f986e4e3,Agosto,Matriz,236
+d2706ce0,Outubro,Matriz,3689
+67cbc2b5,Marco,Matriz,2958
+2fb5bc47,Agosto,Filial Nordeste,2644
+bfed7479,Outubro,Filial Sul,4242
+4152e1ee,Dezembro,Filial Nordeste,510
+c06e9add,Fevereiro,Filial Nordeste,3842
+115f283d,Dezembro,Filial Sul,3578
+9a9bdb76,Junho,Matriz,3623
+6e6cf344,Novembro,Filial Sul,3522
+e2caaed2,Novembro,Matriz,2969
+b9107b2d,Janeiro,Filial Norte,2098
+8cfab267,Dezembro,Filial Nordeste,1696
+b03cbeb0,Outubro,Matriz,4096
+363bdb29,Fevereiro,Filial Sul,2042
+d69867a7,Agosto,Filial Nordeste,2486
+4384e7ec,Outubro,Filial Nordeste,4318
+56c25f77,Agosto,Matriz,3007
+8af4c551,Junho,Filial Sul,4803
+e336aa95,Dezembro,Filial Nordeste,1135
+7eed5cf0,Dezembro,Matriz,2092
+bdb8044a,Junho,Filial Norte,2798
+a5be286c,Dezembro,Filial Norte,3997
+d0ea6c27,Fevereiro,Filial Norte,353
+c68b901b,Dezembro,Filial Norte,219
+db0505ae,Maio,Filial Nordeste,3371
+3e81ddda,Agosto,Matriz,233
+440c757e,Setembro,Filial Nordeste,3720
+ebb95098,Dezembro,Matriz,823
+e46ca646,Setembro,Matriz,3816
+6cc6639e,Junho,Filial Nordeste,1418
+de075175,Outubro,Filial Sul,4826
+e242414b,Dezembro,Filial Nordeste,1813
+92ab52aa,Julho,Filial Norte,4845
+85267fa6,Outubro,Filial Norte,3179
+84b0bc23,Janeiro,Filial Nordeste,2328
+19fdc1af,Setembro,Filial Norte,3129
+5a1703d9,Julho,Filial Nordeste,2516
+c7e8070c,Agosto,Filial Sul,2936
+b5691b1f,Maio,Matriz,4371
+6d0a678d,Junho,Matriz,2457
+de270fc1,Abril,Filial Sul,1497
+b017c4cb,Janeiro,Filial Nordeste,3495
+18495f64,Janeiro,Filial Norte,3115
+95320327,Abril,Filial Sul,1689
+1a0d3895,Maio,Filial Nordeste,4864
+1e3d883a,Janeiro,Filial Nordeste,2605
+97540766,Abril,Filial Sul,388
+c2824e27,Julho,Filial Norte,2776
+f9895160,Marco,Filial Sul,554
+317ba104,Marco,Filial Nordeste,2332
+6dd16fd8,Maio,Filial Sul,4762
+21226f8b,Abril,Filial Nordeste,549
+d4ea9b99,Junho,Filial Sul,2112
+ee348162,Julho,Filial Nordeste,1737
+14a1484d,Janeiro,Filial Nordeste,4468
+3d978837,Setembro,Matriz,2985
+e20ac695,Junho,Filial Norte,259
+328d39e5,Julho,Filial Nordeste,2312
+5ac39430,Janeiro,Filial Norte,4352
+4f3e0e0e,Marco,Matriz,3167
+07b7a10b,Novembro,Filial Norte,2291
+02a59201,Dezembro,Matriz,513
+8e7ec822,Outubro,Matriz,2882
+2776ab72,Junho,Filial Norte,659
+2dec459b,Julho,Filial Sul,3160
+71cc82ea,Novembro,Filial Nordeste,2764
+b53e3557,Outubro,Filial Norte,4364
+92a0fed4,Novembro,Filial Nordeste,3015
+a1d72b8c,Janeiro,Matriz,1903
+35a77007,Agosto,Matriz,4825
+555f2b04,Agosto,Matriz,1495
+6a56b46c,Novembro,Matriz,619
+2936c406,Agosto,Matriz,4602
+3f278287,Maio,Matriz,4079
+c32e41b0,Junho,Filial Sul,4408
+5ac1dc11,Setembro,Matriz,1380
+7a6137b8,Setembro,Filial Nordeste,4500
+63696afa,Agosto,Matriz,684
+c5064d39,Julho,Matriz,2407
+d2dbe961,Maio,Matriz,1668
+e73167e6,Marco,Filial Norte,2173
+d4fb5a58,Novembro,Filial Sul,574
+a29e2577,Outubro,Matriz,4553
+bdd4b088,Novembro,Filial Nordeste,3941
+4647ffff,Novembro,Filial Nordeste,2799
+fd1ee502,Dezembro,Filial Norte,3013
+405a630f,Marco,Matriz,2546
+05490ea9,Maio,Matriz,2739
+50c05b39,Marco,Filial Norte,3408
+c72906e4,Julho,Filial Nordeste,3009
+c0b82b10,Dezembro,Matriz,1998
+ebacef89,Junho,Filial Nordeste,245
+45a0b4ed,Abril,Filial Sul,3734
+c1882c2d,Dezembro,Filial Nordeste,1518
+f7a1e16a,Maio,Matriz,2647
+8c21c2eb,Outubro,Filial Sul,4791
+e75fee55,Setembro,Filial Norte,1914
+eba1202a,Junho,Matriz,846
+06c2f305,Dezembro,Filial Norte,1929
+2c7247e3,Junho,Filial Sul,1411
+9c20ba8a,Agosto,Filial Norte,4594
+058b40a8,Janeiro,Filial Norte,4100
+3c47c0a4,Outubro,Matriz,537
+c54f5a9a,Junho,Filial Norte,2719
+0c23a17b,Fevereiro,Filial Sul,1218
+ffc97525,Abril,Matriz,4548
+147de633,Dezembro,Filial Sul,297
+5235d253,Marco,Filial Nordeste,2334
+4eeef9c4,Agosto,Matriz,3046
+5daa9a3a,Maio,Filial Sul,194
+500b2ce1,Junho,Matriz,2129
+f2112c78,Fevereiro,Matriz,3069
+94d52bac,Junho,Filial Nordeste,2721
+0aa31024,Dezembro,Filial Sul,1163
+9a93b944,Marco,Filial Nordeste,2143
+90cc8b6d,Dezembro,Filial Nordeste,3095
+380554ef,Outubro,Filial Sul,1973
+1ba3d595,Novembro,Filial Sul,1970
+7b8adf4a,Abril,Matriz,1664
+681e9799,Dezembro,Filial Norte,913
+158b9347,Agosto,Filial Norte,4074
+d259e8a0,Julho,Filial Sul,668
+201e6393,Novembro,Filial Norte,2495
+fa3a2033,Julho,Filial Norte,3041
+ab377bdd,Maio,Filial Sul,1325
+74bde7f6,Dezembro,Filial Norte,528
+8a0bd109,Outubro,Filial Norte,2885
+4555dbdb,Novembro,Filial Sul,1639
+a5cb4aff,Marco,Filial Nordeste,3824
+32d95cf0,Dezembro,Filial Norte,136
+8fa09dee,Novembro,Filial Norte,4310
+17139906,Janeiro,Filial Norte,4985
+4142d4eb,Abril,Filial Norte,3711
+d49ca356,Julho,Matriz,4786
+62334c08,Setembro,Matriz,1609
+1138bd69,Abril,Matriz,2159
+0bcb6296,Setembro,Filial Sul,947
+a9fc7d5a,Junho,Filial Nordeste,1574
+50de6f94,Marco,Matriz,3676
+9b11fcfc,Setembro,Filial Sul,4374
+1527bbec,Marco,Filial Nordeste,4952
+84fa5e35,Maio,Matriz,1983
+eaee220f,Maio,Matriz,164
+ceb343c6,Outubro,Matriz,2235
+a372fa3e,Junho,Filial Norte,3061
+f488b2f5,Junho,Filial Norte,1453
+b04f939e,Fevereiro,Filial Nordeste,809
+2ba550ee,Dezembro,Filial Sul,3213
+56fa8ceb,Abril,Filial Sul,1177
+72bdbe65,Agosto,Filial Nordeste,4189
+c14ad252,Janeiro,Matriz,2435
+bf645bd9,Setembro,Filial Norte,3572
+4abf876b,Setembro,Filial Sul,3273
+68c59951,Dezembro,Filial Nordeste,4781
+86e2f97e,Novembro,Filial Norte,4229
+91131733,Julho,Filial Norte,2804
+6f0d01fc,Janeiro,Filial Norte,3872
+c35e01ed,Julho,Filial Norte,1178
+3ef98ef6,Outubro,Filial Sul,3619
+8eeaac3c,Maio,Filial Norte,595
+082f99dd,Agosto,Filial Norte,622
+d49e61b0,Novembro,Filial Norte,4982
+4059b36c,Junho,Filial Sul,2748
+3de2517e,Julho,Matriz,157
+acc1facf,Maio,Filial Sul,4050
+40a92940,Marco,Filial Nordeste,2183
+4d46e005,Junho,Filial Norte,2937
+016e2498,Marco,Filial Nordeste,1038
+3859670d,Junho,Filial Norte,1776
+7075abef,Julho,Filial Sul,3488
+8abeee35,Fevereiro,Filial Nordeste,1987
+e037d0ed,Agosto,Filial Sul,2626
+e2c3cbf3,Dezembro,Filial Nordeste,718
+ba2f3720,Fevereiro,Filial Nordeste,4138
+8aa17583,Maio,Filial Norte,1456
+5ce18a4a,Julho,Matriz,1228
+f55c0994,Dezembro,Filial Nordeste,968
+96374783,Novembro,Matriz,295
+920ad4d4,Abril,Filial Nordeste,3400
+c7167248,Fevereiro,Filial Sul,3506
+e5740973,Julho,Filial Nordeste,1514
+2a6604c1,Agosto,Filial Norte,813
+3771a15d,Setembro,Filial Norte,1279
+a83fa7b9,Novembro,Matriz,1838
+51f5caef,Fevereiro,Filial Nordeste,3149
+b2be056d,Maio,Filial Sul,1591
+8573e1cf,Setembro,Filial Norte,1878
+7394cb52,Outubro,Matriz,2451
+7bd60b4e,Agosto,Filial Nordeste,4460
+b7174d07,Fevereiro,Filial Nordeste,1520
+18f699ac,Dezembro,Filial Nordeste,203
+38af43b9,Janeiro,Filial Sul,4803
+3321fbdc,Agosto,Filial Sul,407
+3a1b6427,Abril,Filial Sul,248
+2d0734f2,Julho,Matriz,1840
+ff449bff,Janeiro,Matriz,1335
+51e328a3,Janeiro,Filial Norte,3842
+06428fe9,Agosto,Filial Nordeste,1339
+4f7f3bf8,Maio,Filial Sul,2544
+6f1f027d,Agosto,Filial Norte,577
+279fbdc4,Fevereiro,Filial Sul,3192
+475303cb,Dezembro,Filial Nordeste,3136
+76d321a5,Maio,Filial Nordeste,1838
+5fad1f20,Abril,Matriz,2801
+99c54f9a,Junho,Filial Norte,2323
+51fa2cc6,Setembro,Filial Sul,1531
+ea2e7167,Maio,Filial Norte,4793
+cb358d54,Julho,Filial Norte,4259
+aec64aa8,Dezembro,Filial Sul,4137
+623ddacb,Novembro,Matriz,437
+491e1473,Dezembro,Filial Sul,3645
+811faa89,Abril,Filial Norte,1337
+7e300c17,Junho,Matriz,4399
+105302b5,Fevereiro,Filial Norte,1238
+948a8dd6,Novembro,Matriz,2928
+7d8bb1ef,Abril,Matriz,3250
+7f2258d7,Setembro,Matriz,820
+000738f8,Julho,Filial Nordeste,4661
+c61e74cb,Junho,Filial Norte,3470
+aa99ddad,Fevereiro,Filial Sul,2411
+08bda5c7,Abril,Filial Norte,4269
+e8203c24,Fevereiro,Filial Sul,3188
+3fd48f81,Marco,Filial Sul,3830
+331e0917,Julho,Filial Nordeste,464
+5d2121e8,Novembro,Filial Nordeste,3926
+1928925f,Dezembro,Matriz,4199
+1e9b55b2,Janeiro,Filial Nordeste,4251
+f635ce06,Janeiro,Filial Sul,4068
+48553656,Outubro,Filial Sul,2308
+e13bb232,Janeiro,Filial Sul,756
+8b65fc0c,Novembro,Filial Sul,1380
+90aee489,Agosto,Filial Nordeste,3634
+d282a054,Novembro,Filial Sul,800
+2cfb3925,Abril,Filial Nordeste,1471
+dd9b53bd,Maio,Filial Sul,1217
+f7825cbc,Setembro,Filial Norte,958
+98bac24d,Maio,Filial Sul,3584
+7fe85423,Outubro,Filial Nordeste,3159
+0b7267a8,Dezembro,Matriz,675
+13a765ad,Maio,Filial Norte,4589
+d2a15e2f,Marco,Filial Sul,4819
+5529b893,Maio,Filial Sul,4940
+66956357,Agosto,Filial Norte,3692
+ba4372b7,Dezembro,Filial Sul,1640
+b73cd37c,Setembro,Filial Sul,2959
+da1afa8f,Outubro,Filial Nordeste,921
+f76f7a52,Marco,Filial Nordeste,169
+3b0e5f60,Julho,Filial Nordeste,2662
+e2b75c96,Agosto,Matriz,4644
+54d239b9,Dezembro,Filial Sul,756
+39649357,Abril,Filial Sul,2032
+6ff242cc,Junho,Filial Sul,1942
+47be7bdc,Agosto,Filial Norte,2577
+39a7aeb6,Junho,Matriz,3941
+9329471c,Abril,Filial Norte,746
+dfca513d,Julho,Filial Sul,3413
+ac68d30c,Agosto,Filial Nordeste,1226
+bfc70504,Outubro,Filial Norte,1874
+6e92f203,Abril,Matriz,161
+59b4efbf,Novembro,Filial Sul,3208
+f2df0a92,Marco,Filial Nordeste,3175
+5bb0529d,Outubro,Matriz,3576
+a7826617,Setembro,Filial Sul,2356
+ecb13f87,Dezembro,Filial Sul,4524
+ce861cba,Setembro,Matriz,1429
+17b98905,Novembro,Filial Nordeste,4722
+a0fc05e6,Maio,Filial Nordeste,2524
+a83058fe,Maio,Filial Norte,981
+7bc1f73c,Julho,Filial Nordeste,1125
+efb7c54b,Abril,Matriz,2220
+a43e2a50,Junho,Matriz,1063
+4f4edf81,Novembro,Filial Norte,1526
+d4de0c93,Marco,Filial Sul,1530
+100124db,Novembro,Filial Nordeste,1299
+86cd4ecc,Marco,Filial Nordeste,3440
+fe4b935b,Dezembro,Filial Norte,3014
+ff83b4bc,Maio,Filial Sul,2660
+cc426d39,Outubro,Filial Sul,2022
+3490dbc7,Dezembro,Filial Norte,2395
+8c06a254,Janeiro,Matriz,1028
+a3c4e8f9,Fevereiro,Matriz,1712
+f7fff060,Janeiro,Filial Norte,2694
+cbead514,Fevereiro,Filial Nordeste,2444
+c491110e,Junho,Filial Sul,824
+f94b84df,Outubro,Filial Nordeste,3496
+897da218,Outubro,Matriz,133
+f428fce8,Setembro,Matriz,135
+09bff16d,Fevereiro,Filial Norte,3006
+3a48dbb1,Outubro,Filial Nordeste,1718
+ac88a2b6,Junho,Filial Nordeste,2116
+e017fc94,Marco,Filial Sul,2412
+cdcb1dc5,Fevereiro,Filial Sul,1470
+6489af44,Dezembro,Filial Nordeste,3693
+2e1937ea,Maio,Filial Nordeste,4805
+9767553d,Dezembro,Matriz,917
+82560792,Junho,Filial Sul,3089
+173a1e46,Novembro,Filial Sul,1242
+7d9cbd5e,Junho,Filial Norte,3089
+b1a0e591,Outubro,Filial Sul,960
+a891a085,Dezembro,Filial Nordeste,2850
+fc6a15b8,Outubro,Matriz,2544
+0259d26e,Abril,Filial Norte,1262
+585ca26e,Abril,Matriz,3832
+aae86600,Maio,Filial Sul,2020
+7d25587f,Agosto,Matriz,1160
+18f4e35f,Janeiro,Filial Sul,564
+f7eded2f,Maio,Matriz,2028
+469ddb58,Fevereiro,Matriz,2199
+99741d12,Dezembro,Matriz,4560
+403e89cc,Agosto,Filial Norte,3971
+b437ffbe,Novembro,Filial Norte,574
+834cc9ac,Abril,Filial Sul,4891
+6c72f75c,Maio,Filial Nordeste,2462
+7d5cc21f,Setembro,Matriz,2316
+10b88797,Junho,Matriz,4079
+8cfc290c,Agosto,Filial Sul,2759
+d19d9a93,Dezembro,Filial Norte,4447
+6d52ba80,Fevereiro,Filial Sul,2144
+056fd446,Julho,Matriz,2012
+e0fb65ed,Agosto,Matriz,125
+b8b5ba82,Setembro,Filial Sul,389
+eb731e55,Janeiro,Matriz,4029
+7123f3ba,Julho,Filial Sul,2507
+acdd91f1,Maio,Filial Nordeste,3406
+db9db123,Fevereiro,Filial Sul,4440
+de675691,Abril,Filial Nordeste,4555
+be058e4f,Fevereiro,Matriz,3499
+25f419b5,Fevereiro,Filial Nordeste,3202
+a0acc3ee,Marco,Filial Norte,4776
+148c958e,Janeiro,Filial Nordeste,2868
+36300123,Julho,Filial Norte,3036
+cf9710ba,Junho,Filial Norte,3591
+21b40e7f,Novembro,Filial Sul,4399
+8ddf0c42,Julho,Filial Nordeste,821
+deb4826e,Outubro,Filial Norte,3214
+6c88ca14,Fevereiro,Filial Nordeste,4181
+77b677ba,Marco,Matriz,4929
+b638e58e,Marco,Filial Norte,3814
+f772445b,Setembro,Filial Nordeste,4748
+7333f584,Junho,Filial Sul,4822
+c5ecda23,Agosto,Filial Norte,2558
+71981e47,Novembro,Filial Norte,2011
+da3e3e4f,Outubro,Matriz,4188
+ed0d214e,Marco,Filial Sul,384
+a4386208,Maio,Filial Nordeste,3909
+7b9d4b2c,Janeiro,Filial Nordeste,4323
+7ef7d0b0,Junho,Filial Sul,1611
+051fceee,Setembro,Filial Sul,3571
+ac21a08b,Janeiro,Filial Nordeste,3145
+35ee14b8,Setembro,Matriz,1695
+24ffbd68,Dezembro,Filial Norte,2063
+ff53e37e,Abril,Filial Sul,973
+7fcd5460,Abril,Filial Nordeste,3373
+3d397f84,Maio,Matriz,2752
+01de10a9,Dezembro,Filial Sul,2335
+e40b2915,Fevereiro,Filial Nordeste,3896
+d4ebaa20,Dezembro,Filial Nordeste,3091
+eefcbb20,Dezembro,Matriz,1057
+12f2ec96,Outubro,Matriz,3869
+42f4e0d4,Abril,Filial Nordeste,3733
+3709e32d,Janeiro,Matriz,1807
+de015d54,Marco,Filial Norte,3207
+5b53d674,Novembro,Filial Nordeste,2481
+68844d0e,Maio,Matriz,2517
+cdeff4bc,Outubro,Filial Sul,3514
+d053bf77,Novembro,Matriz,629
+3f3e2c34,Dezembro,Filial Sul,4395
+2f2cd49f,Fevereiro,Matriz,3543
+ca91a3e6,Agosto,Filial Nordeste,2380
+d7e87acf,Outubro,Filial Nordeste,4377
+f87cf82f,Janeiro,Filial Norte,3146
+ac90d470,Junho,Filial Sul,3942
+a183171e,Janeiro,Filial Norte,1350
+016db104,Abril,Matriz,462
+0431b852,Abril,Filial Norte,1367
+cc109ec4,Fevereiro,Matriz,4874
+fdb6884d,Abril,Matriz,4474
+002c52a3,Marco,Matriz,366
+0f1a252d,Abril,Filial Sul,2737
+77c71aa5,Fevereiro,Filial Norte,3620
+5c092ac8,Setembro,Filial Nordeste,3199
+dd606cff,Novembro,Filial Norte,1257
+df090039,Marco,Matriz,4522
+2fa11800,Marco,Filial Norte,419
+90238abb,Dezembro,Filial Norte,4189
+e07ac865,Agosto,Filial Sul,581
+d36e4e1d,Dezembro,Matriz,3178
+61359384,Janeiro,Filial Sul,4933
+b6bc683b,Outubro,Filial Norte,2518
+57542ee8,Junho,Matriz,3573
+a82788aa,Janeiro,Filial Nordeste,1820
+1c5335f9,Agosto,Filial Nordeste,272
+ed642378,Julho,Filial Nordeste,943
+2cda9848,Maio,Matriz,1681
+7f5bb2d5,Julho,Filial Nordeste,2955
+e59689c5,Setembro,Filial Norte,787
+f98670fd,Outubro,Filial Sul,2065
+273bf032,Julho,Filial Nordeste,4887
+88141357,Dezembro,Matriz,292
+8d055472,Outubro,Filial Nordeste,433
+90352199,Setembro,Filial Nordeste,4986
+9178b874,Agosto,Filial Sul,931
+4d7293e5,Julho,Matriz,2845
+73360dc8,Junho,Filial Nordeste,2825
+434d7704,Julho,Filial Nordeste,4562
+f35bde52,Novembro,Matriz,158
+4aa93f3e,Agosto,Filial Sul,3603
+6964639d,Junho,Filial Nordeste,2794
+a199dbbb,Setembro,Filial Sul,1723
+3866b10f,Junho,Filial Norte,3455
+3af084d4,Agosto,Filial Nordeste,1418
+37b4c95a,Novembro,Matriz,4548
+dcfa8653,Outubro,Matriz,2761
+bd9746bd,Fevereiro,Filial Nordeste,3578
+02edd7af,Julho,Filial Sul,3686
+c75788e6,Fevereiro,Filial Nordeste,3273
+deac12a2,Janeiro,Filial Sul,2774
+4da78b4c,Marco,Filial Nordeste,1613
+38f7c599,Novembro,Filial Nordeste,927
+de375129,Julho,Matriz,4341
+0a8f8335,Dezembro,Filial Nordeste,3993
+33d744af,Abril,Filial Norte,4379
+190549c4,Agosto,Matriz,3992
+383f14e9,Julho,Matriz,3722
+c5332d6b,Dezembro,Filial Norte,4397
+242dd5c6,Janeiro,Filial Nordeste,3508
+fa7fddc4,Abril,Filial Nordeste,2646
+546c7659,Setembro,Filial Nordeste,3419
+9bc13022,Janeiro,Filial Sul,2101
+a062f7db,Agosto,Filial Norte,279
+a378555b,Agosto,Filial Nordeste,669
+d2eb39c3,Novembro,Filial Norte,718
+4b96484a,Fevereiro,Filial Norte,1153
+111a98a0,Junho,Filial Sul,4637
+04eada05,Dezembro,Filial Norte,2875
+7a1f8ceb,Julho,Filial Sul,2651
+f6f142cd,Fevereiro,Filial Sul,4621
+df7dd218,Outubro,Filial Sul,2731
+00938c28,Outubro,Filial Sul,1751
+2c733c66,Agosto,Filial Norte,3006
+947d2242,Abril,Filial Sul,3387
+c79243aa,Setembro,Filial Sul,1116
+395c032d,Novembro,Matriz,4463
+506903ea,Maio,Filial Nordeste,1654
+208ef92f,Marco,Matriz,4744
+55d85b4c,Fevereiro,Matriz,564
+1fdf72fb,Junho,Filial Norte,971
+4a2b8260,Fevereiro,Filial Norte,630
+ae0cb3d6,Maio,Filial Norte,1525
+4fa00907,Fevereiro,Filial Norte,4605
+46096777,Outubro,Filial Norte,396
+8d503ac5,Junho,Matriz,1614
+b1203db1,Maio,Filial Sul,1424
+102a0b92,Maio,Matriz,482
+d42bb81d,Outubro,Filial Sul,3800
+2e7cc6f0,Outubro,Filial Norte,4119
+c0b660e5,Agosto,Filial Nordeste,3427
+65afce08,Marco,Filial Sul,4163
+87c904e8,Junho,Filial Norte,573
+3f46789c,Junho,Filial Sul,3034
+f539b260,Novembro,Filial Norte,1568
+83e0b868,Setembro,Filial Sul,2375
+379b3c1a,Novembro,Filial Sul,1738
+e876ed42,Outubro,Filial Norte,1878
+a008ead3,Novembro,Filial Sul,4117
+c1dc0a1a,Setembro,Matriz,1134
+ddc73800,Outubro,Filial Sul,4838
+fe650569,Dezembro,Filial Nordeste,1018
+7878c98b,Agosto,Filial Sul,4885
+ca0a40a5,Maio,Filial Norte,4091
+3b515a0d,Fevereiro,Matriz,1223
+2d834d30,Marco,Filial Sul,3954
+aa2cdfe0,Outubro,Matriz,1049
+c15b80cc,Maio,Filial Sul,2289
+ad7f3a6c,Marco,Filial Sul,2018
+ceedb93e,Dezembro,Filial Nordeste,3475
+e5008b95,Setembro,Filial Sul,3564
+4df7e8ab,Janeiro,Filial Sul,4909
+f34aa4a8,Setembro,Filial Nordeste,3048
+8a6e10a0,Marco,Filial Nordeste,3744
+3daf2d2a,Setembro,Matriz,1984
+7440edc5,Marco,Filial Sul,2687
+4840433f,Dezembro,Filial Sul,2903
+410c1d67,Novembro,Matriz,4362
+3571585a,Fevereiro,Filial Norte,3705
+354c1bf5,Fevereiro,Filial Norte,725
+90da1c3b,Fevereiro,Matriz,1760
+a8d180fc,Outubro,Filial Nordeste,4431
+b8f48701,Dezembro,Filial Norte,1184
+1428fa77,Novembro,Matriz,1895
+0b29cd60,Outubro,Filial Sul,2438
+dd4339e2,Marco,Filial Norte,1087
+45812024,Dezembro,Matriz,3836
+385db8c1,Maio,Filial Sul,4099
+399027a8,Marco,Filial Nordeste,3396
+a237b465,Julho,Filial Norte,2913
+da1bac81,Junho,Filial Nordeste,2453
+a5fe8c13,Maio,Matriz,3955
+833a663e,Outubro,Filial Norte,521
+bb648b9f,Dezembro,Filial Sul,873
+fe1ea0ae,Outubro,Filial Nordeste,1224
+048ac7f3,Setembro,Filial Sul,2248
+e1879264,Novembro,Filial Nordeste,4365
+6b1890e2,Janeiro,Matriz,2463
+13c11860,Janeiro,Filial Nordeste,4868
+a8f2da38,Maio,Filial Norte,2832
+cf1b4bcb,Janeiro,Filial Norte,1640
+ce38807d,Janeiro,Matriz,3609
+b0e550de,Janeiro,Filial Nordeste,2702
+b4c89b6e,Janeiro,Filial Sul,2168
+8fa15bce,Fevereiro,Filial Nordeste,2936
+9ff82c3b,Novembro,Filial Norte,468
+e52d3be0,Junho,Filial Norte,1848
+e191d526,Outubro,Filial Nordeste,2605
+5855a26c,Abril,Filial Norte,4455
+080126d9,Junho,Filial Nordeste,2409
+7acfec72,Marco,Matriz,1492
+cec064ea,Julho,Filial Sul,462
+0ea34b47,Abril,Filial Norte,770
+afb6c995,Fevereiro,Filial Sul,2010
+628c3bcc,Outubro,Filial Nordeste,1752
+dbcaf361,Julho,Filial Sul,1101
+5980fc86,Maio,Filial Nordeste,1451
+ea2bcbca,Outubro,Filial Sul,2509
+cc3c6d79,Setembro,Filial Sul,304
+a49f0288,Junho,Filial Sul,2455
+ce1df945,Dezembro,Filial Sul,4407
+d8fd326f,Marco,Filial Nordeste,3867
+fc5ea40b,Outubro,Filial Norte,1155
+89797800,Setembro,Filial Norte,1149
+3a01819a,Dezembro,Filial Sul,905
+f45534dd,Outubro,Filial Sul,3064
+78b3e38e,Julho,Filial Sul,3531
+a9f6a960,Marco,Filial Nordeste,3497
+0fc44b9d,Maio,Filial Nordeste,3368
+b01faeac,Janeiro,Matriz,2801
+fd7891bd,Abril,Filial Norte,4066
+aa7b2270,Abril,Filial Sul,1635
+4d9eca53,Dezembro,Filial Sul,2015
+a439f2a8,Junho,Matriz,4961
+11d50cc4,Setembro,Filial Norte,1001
+f61bd73b,Abril,Filial Norte,1407
+409cf974,Janeiro,Filial Norte,3081
+e4ba9c36,Fevereiro,Filial Norte,2283
+5dd894d8,Fevereiro,Matriz,3398
+485db48e,Novembro,Filial Norte,3007
+88094ac8,Dezembro,Filial Norte,4886
+05d0d1d9,Outubro,Filial Sul,2432
+0cc7bc15,Marco,Filial Nordeste,2362
+7ec025f5,Marco,Matriz,4821
+37a963bc,Julho,Matriz,1093
+f5ba9345,Maio,Matriz,3598
+9e698832,Setembro,Filial Nordeste,3261
+a7145123,Abril,Matriz,3088
+72f7d04c,Dezembro,Filial Norte,903
+bea239a9,Agosto,Filial Norte,1992
+9bbb7204,Abril,Matriz,2775
+c3ded661,Maio,Filial Nordeste,3067
+01ca4ac8,Maio,Filial Nordeste,1196
+5f02f3b6,Julho,Filial Sul,1606
+3dec667e,Abril,Filial Norte,2444
+2b9b4dd5,Agosto,Matriz,4197
+8979e49a,Janeiro,Filial Nordeste,685
+6dcdfca0,Janeiro,Filial Nordeste,2008
+fd8d74cf,Abril,Filial Sul,1650
+cfb437da,Marco,Filial Nordeste,4488
+7158d52a,Marco,Matriz,1656
+792fb0f7,Fevereiro,Matriz,4631
+b0d7a7a7,Abril,Matriz,4224
+399c1699,Fevereiro,Matriz,613
+06612924,Julho,Filial Sul,1040
+71917b40,Novembro,Filial Norte,1142
+df9cbd2e,Setembro,Matriz,2166
+74dbc1af,Julho,Filial Nordeste,1012
+2b7428fc,Maio,Matriz,4494
+594fd09d,Abril,Filial Sul,4709
+a7f91cfc,Marco,Filial Norte,3668
+fc0ee181,Agosto,Filial Sul,3106
+776cc2e9,Janeiro,Matriz,1387
+27b2b4ee,Dezembro,Filial Nordeste,3647
+90520b5c,Agosto,Filial Sul,4743
+71b300eb,Agosto,Filial Nordeste,4444
+6df6480a,Abril,Filial Nordeste,1332
+80109878,Julho,Filial Norte,407
+0ce6348f,Maio,Filial Nordeste,4451
+24cdaf7c,Outubro,Filial Norte,324
+44afa3a7,Marco,Filial Norte,2124
+5512c5e3,Fevereiro,Filial Norte,284
+4b44dbea,Junho,Filial Sul,1231
+49836249,Outubro,Matriz,1083
+cdb3c5ba,Abril,Filial Sul,3033
+2e5785a0,Dezembro,Filial Sul,1212
+c2855a47,Abril,Filial Norte,2355
+b8b63702,Janeiro,Matriz,1374
+a3a25d85,Janeiro,Filial Sul,3665
+a11c40ab,Junho,Matriz,734
+86831329,Outubro,Filial Sul,448
+d03f3d29,Julho,Filial Sul,1636
+079f60f2,Abril,Matriz,1206
+33bf29d9,Novembro,Filial Sul,3029
+20bd9464,Novembro,Filial Norte,3300
+ecd079e8,Setembro,Filial Nordeste,3447
+29cbb7fd,Setembro,Filial Sul,406
+8e3146f7,Janeiro,Matriz,3141
+82f879bf,Junho,Filial Norte,4248
+82228db3,Agosto,Matriz,2426
+620bf601,Janeiro,Filial Norte,424
+80395768,Junho,Matriz,234
+e7b163d3,Maio,Filial Nordeste,3652
+598b2028,Novembro,Filial Sul,790
+c13e78e6,Novembro,Filial Nordeste,1403
+22336119,Novembro,Filial Nordeste,4244
+fb772ee4,Agosto,Matriz,4177
+effc55f8,Abril,Filial Norte,3293
+1abf0297,Novembro,Filial Nordeste,3907
+52b8a297,Maio,Filial Nordeste,1436
+02e36255,Dezembro,Matriz,193
+efb2c8d5,Julho,Filial Norte,4961
+1d92cf49,Janeiro,Filial Nordeste,4952
+6d347dd8,Maio,Filial Sul,3949
+e52d85fb,Fevereiro,Filial Nordeste,1941
+622a3d26,Abril,Filial Norte,350
+dc1f629c,Marco,Filial Sul,3393
+23ecb4e4,Fevereiro,Filial Norte,4638
+2b62a959,Abril,Matriz,4998
+95eff7ad,Agosto,Filial Sul,1616
+a2fab9ee,Dezembro,Filial Sul,3265
+9f49a45f,Outubro,Matriz,830
+91f353b3,Julho,Filial Norte,681
+9357658d,Marco,Filial Nordeste,911
+417f0dfa,Novembro,Filial Nordeste,4176
+a0a0f19b,Setembro,Filial Sul,4649
+25da30be,Julho,Filial Sul,2238
+bc18d369,Junho,Filial Sul,1725
+0e99ce00,Setembro,Filial Nordeste,4806
+201e92a9,Setembro,Matriz,4393
+f7f7cf24,Novembro,Filial Nordeste,1000
+69e0d0be,Junho,Filial Norte,903
+4bf00f55,Fevereiro,Filial Norte,1050
+e70a3ef9,Novembro,Filial Nordeste,2429
+9bb36178,Janeiro,Filial Sul,4127
+c9c50ed0,Fevereiro,Matriz,777
+6505be6a,Julho,Filial Norte,3170
+36b0b154,Julho,Filial Norte,4307
+8b9096e5,Setembro,Filial Nordeste,3407
+39d460a9,Abril,Filial Nordeste,2201
+2a2b2d33,Novembro,Filial Nordeste,2085
+272f2ecc,Marco,Filial Sul,2625
+66b97cdc,Maio,Filial Sul,245
+bd2d0798,Novembro,Filial Nordeste,2688
+102ebda1,Abril,Matriz,1072
+71624bb8,Dezembro,Filial Nordeste,1057
+94e0b47a,Dezembro,Filial Norte,4264
+0fb44cae,Abril,Filial Norte,4028
+1c6810ee,Julho,Filial Sul,1793
+11e75653,Janeiro,Matriz,4175
+8b043351,Agosto,Matriz,3688
+20d3c007,Junho,Filial Norte,1223
+8c106b86,Abril,Filial Nordeste,1496
+24bd3a7b,Julho,Matriz,3602
+b46f2a50,Abril,Matriz,4326
+3f5747c2,Outubro,Filial Norte,2911
+9cb88c09,Fevereiro,Filial Sul,866
+3219e5eb,Dezembro,Filial Nordeste,4531
+86bb6315,Abril,Filial Nordeste,1536
+4b8ba91e,Janeiro,Matriz,4121
+68369ff5,Outubro,Filial Sul,1140
+e49fb667,Marco,Filial Nordeste,2999
+a17b7a16,Dezembro,Filial Sul,2871
+5f442887,Agosto,Matriz,1514
+4b860c69,Dezembro,Matriz,4991
+fb3f25f8,Fevereiro,Matriz,4625
+407ae6ec,Junho,Filial Norte,4413
+55cec3da,Setembro,Matriz,2779
+4da16711,Abril,Filial Sul,2699
+5e4e7dd5,Junho,Matriz,157
+f50a83ef,Setembro,Matriz,3803
+40161dbd,Marco,Filial Sul,1085
+5d24b42b,Novembro,Filial Sul,3379
+91a21c9a,Janeiro,Matriz,4974
+da985946,Maio,Filial Sul,2441
+110e9214,Abril,Filial Norte,1209
+addd9355,Agosto,Filial Norte,1856
+a5cf3822,Novembro,Matriz,4437
+d0b28567,Agosto,Filial Nordeste,2830
+761297d1,Janeiro,Filial Norte,4518
+71d2b845,Novembro,Filial Nordeste,4393
+44bcea3c,Maio,Filial Sul,3533
+e678cd70,Junho,Filial Nordeste,825
+740ef0ae,Julho,Filial Sul,1941
+3f8671f9,Janeiro,Filial Norte,3629
+3818a004,Agosto,Filial Norte,3239
+4f1eeaf0,Agosto,Filial Sul,4833
+c088d34b,Marco,Filial Nordeste,138
+57180e66,Janeiro,Matriz,4828
+99912579,Janeiro,Filial Norte,3292
+5afa977e,Marco,Matriz,2038
+65470ff9,Junho,Filial Norte,4847
+62ee1e72,Novembro,Filial Sul,772
+b5149343,Novembro,Filial Nordeste,2908
+1529987b,Abril,Filial Nordeste,565
+9c4bf050,Janeiro,Filial Sul,3303
+bd29133f,Dezembro,Filial Nordeste,2959
+2d6d002b,Abril,Filial Norte,353
+538552bb,Marco,Filial Norte,4529
+d4328955,Outubro,Matriz,3863
+e3a9b646,Junho,Filial Sul,4115
+2cc16864,Outubro,Filial Sul,3945
+4bc933f3,Janeiro,Filial Nordeste,4505
+8f24d1bd,Julho,Filial Sul,753
+1964cbbc,Abril,Filial Sul,3927
+d45ec98a,Abril,Filial Nordeste,4901
+a9d292f1,Janeiro,Matriz,3601
+72e565f5,Dezembro,Filial Nordeste,1897
+c4301a2d,Setembro,Filial Nordeste,4392
+4b377218,Novembro,Filial Nordeste,3222
+fe425b1f,Setembro,Matriz,2741
+85f6467a,Abril,Filial Norte,4984
+f0dd3c03,Dezembro,Matriz,2333
+1b9e53f2,Dezembro,Matriz,4489
+37af5523,Abril,Filial Sul,486
+61d3d254,Marco,Filial Nordeste,3417
+6016ee16,Junho,Filial Norte,2821
+15e65f98,Novembro,Filial Norte,2251
+be8413fe,Agosto,Filial Nordeste,4825
+bc7cffa2,Maio,Filial Sul,2199
+32f2a42b,Novembro,Filial Nordeste,3936
+c3775e96,Novembro,Filial Nordeste,3393
+d17827c1,Janeiro,Filial Norte,3987
+d00cd5b6,Outubro,Filial Norte,1822
+095a4d82,Fevereiro,Matriz,2402
+28995de0,Julho,Filial Norte,2869
+dfec56a1,Dezembro,Filial Nordeste,4553
+87e96024,Janeiro,Filial Nordeste,3312
+f9382cd5,Agosto,Matriz,758
+cc4a04a6,Julho,Filial Norte,2202
+eeb3b524,Abril,Filial Nordeste,311
+72adb3dc,Fevereiro,Filial Sul,1513
+631e7492,Outubro,Matriz,1265
+347350f6,Julho,Matriz,3253
+25d4d0d2,Agosto,Filial Nordeste,4446
+a18d4645,Julho,Filial Nordeste,4144
+0997f196,Setembro,Filial Nordeste,3794
+c222bf40,Abril,Filial Sul,2828
+74c00d5e,Dezembro,Filial Sul,2344
+a2ad4b27,Junho,Filial Sul,4444
+6b9d157c,Fevereiro,Filial Norte,4629
+565d192e,Maio,Filial Sul,3411
+f3386154,Dezembro,Filial Norte,1355
+3bbfd994,Outubro,Filial Norte,579
+7e29619f,Janeiro,Filial Sul,526
+fdaaabd7,Outubro,Filial Nordeste,2785
+51f4ae75,Maio,Matriz,2763
+134974c3,Marco,Filial Norte,3485
+42b4ac86,Janeiro,Filial Nordeste,3933
+a0d27a42,Janeiro,Matriz,3331
+a9d8937c,Setembro,Filial Sul,2534
+7ef828ee,Junho,Filial Norte,284
+8a41e18a,Fevereiro,Filial Nordeste,797
+b5400824,Maio,Filial Sul,3277
+4f6a65b3,Julho,Filial Sul,716
+92f99209,Outubro,Filial Norte,1725
+9fee56b1,Maio,Filial Norte,3745
+534beee6,Outubro,Filial Norte,858
+97e583da,Dezembro,Filial Sul,143
+89b395c7,Dezembro,Filial Norte,3510
+4b09194f,Janeiro,Filial Norte,1179
+5b172f78,Novembro,Matriz,2988
+48b1076c,Setembro,Filial Norte,1894
+c5b5e7bc,Novembro,Filial Nordeste,4332
+c52ee75a,Julho,Filial Nordeste,3473
+e17c73c7,Marco,Filial Nordeste,1976
+88fe8baf,Marco,Filial Nordeste,856
+f1170634,Setembro,Filial Sul,3092
+82905038,Fevereiro,Filial Norte,1542
+6292701b,Abril,Filial Norte,497
+7ddb9604,Maio,Filial Sul,1727
+6a5d9de3,Marco,Matriz,4574
+44995c7b,Abril,Filial Nordeste,4726
+257f486f,Agosto,Filial Sul,1897
+88d74b9a,Fevereiro,Filial Sul,1237
+4fb861e8,Outubro,Matriz,968
+b3321d37,Novembro,Filial Norte,4983
+9da373f7,Junho,Filial Sul,419
+611ee46f,Maio,Filial Sul,279
+24a663d8,Outubro,Filial Nordeste,1539
+585cf0ec,Novembro,Filial Sul,325
+667bce45,Outubro,Filial Sul,1832
+4ee8bb60,Janeiro,Filial Norte,3614
+601a8118,Setembro,Matriz,3621
+1645d6ea,Marco,Filial Norte,1174
+e84d80f5,Novembro,Filial Norte,3441
+3d0a37cf,Marco,Matriz,4112
+3222809c,Agosto,Matriz,3802
+fc2f1391,Julho,Filial Norte,3594
+8181f383,Novembro,Matriz,1042
+8d97a4d0,Janeiro,Filial Sul,2997
+fcbd0cb0,Setembro,Filial Nordeste,1176
+85e16380,Setembro,Matriz,4832
+659c4561,Agosto,Filial Norte,1826
+b4a9542f,Agosto,Filial Sul,1149
+a849a22e,Marco,Filial Norte,3557
+d31c6b0f,Setembro,Matriz,1360
+96697017,Maio,Filial Nordeste,3486
+97f720cc,Agosto,Matriz,1344
+e9703ba5,Junho,Filial Nordeste,3432
+13e38f68,Setembro,Filial Norte,1437
+085ea870,Julho,Filial Norte,1537
+2b457b99,Agosto,Filial Norte,1217
+9b619edf,Outubro,Filial Nordeste,3730
+ae192336,Agosto,Matriz,904
+58b18360,Marco,Filial Sul,1018
+395e5911,Novembro,Filial Sul,3291
+8935f3c3,Marco,Filial Nordeste,3459
+b16e0a9f,Agosto,Matriz,1884
+b527ea7a,Junho,Filial Norte,2200
+c9d23cc6,Abril,Filial Norte,2757
+672ec756,Agosto,Matriz,3877
+518896a4,Fevereiro,Filial Nordeste,1314
+811e5177,Marco,Filial Norte,2061
+1c89c187,Maio,Filial Norte,2583
+b5848ee6,Janeiro,Matriz,489
+64351514,Setembro,Filial Nordeste,1238
+7f8b603b,Junho,Filial Nordeste,1864
+74aea177,Setembro,Filial Nordeste,4073
+2baf97d5,Junho,Filial Norte,4317
+11be8fcf,Dezembro,Filial Nordeste,326
+5a4a10bd,Janeiro,Filial Sul,4930
+fdc59257,Outubro,Matriz,1897
+48cd6c44,Setembro,Filial Nordeste,3941
+f7123370,Fevereiro,Filial Nordeste,313
+b663f70b,Abril,Matriz,3014
+ef28f3a0,Outubro,Filial Nordeste,1709
+307dd6a8,Outubro,Matriz,4038
+043aff09,Outubro,Filial Norte,550
+fc2a665d,Julho,Matriz,317
+e9bb6a29,Setembro,Filial Nordeste,2470
+d32642d1,Junho,Filial Norte,3012
+efa7c40d,Setembro,Filial Sul,748
+7dc709b3,Junho,Filial Nordeste,3621
+521f93aa,Agosto,Filial Norte,2722
+a503bc58,Julho,Filial Norte,4782
+30387bc5,Junho,Filial Norte,2921
+bcf2acfc,Outubro,Filial Sul,3556
+f88f856b,Julho,Filial Sul,898
+c9801d0b,Novembro,Filial Sul,2208
+e3855441,Janeiro,Matriz,4123
+f83dded9,Agosto,Matriz,838
+ca7368e2,Abril,Filial Nordeste,3216
+0f759979,Dezembro,Filial Sul,2652
+3286f81c,Abril,Matriz,4783
+030cba9b,Abril,Filial Norte,153
+de5f609f,Novembro,Matriz,3589
+b29112af,Julho,Filial Sul,3565
+d7e02ef9,Dezembro,Filial Nordeste,927
+7c85fd31,Novembro,Filial Nordeste,3874
+08c0f589,Janeiro,Filial Sul,2003
+8936e471,Agosto,Matriz,3119
+d2976687,Junho,Filial Sul,1624
+56359087,Janeiro,Filial Norte,4003
+2ebdf802,Janeiro,Filial Nordeste,4290
+03974c6a,Julho,Filial Norte,4034
+b4a1b002,Marco,Filial Norte,167
+c586c8af,Outubro,Filial Norte,2810
+9fe4ba9c,Outubro,Filial Norte,3180
+0795157a,Junho,Filial Nordeste,3067
+1897a82b,Maio,Filial Norte,3265
+381b296f,Maio,Filial Sul,2751
+fb53c932,Janeiro,Filial Nordeste,1920
+845dbbd3,Novembro,Matriz,4169
+712917b5,Janeiro,Matriz,1458
+b92c59c8,Junho,Matriz,1103
+9da55650,Dezembro,Filial Sul,2574
+5df8dfd4,Abril,Filial Norte,4980
+b3df874a,Marco,Filial Sul,554
+61b348ab,Junho,Filial Sul,2699
+a1023d41,Outubro,Filial Nordeste,4528
+ee5373b5,Setembro,Filial Sul,1196
+91a57a90,Outubro,Matriz,1773
+9f392a3a,Abril,Filial Norte,966
+4863a191,Dezembro,Matriz,3521
+ed32de9b,Julho,Filial Nordeste,1875
+8a22a57c,Novembro,Filial Nordeste,570
+b8ec00b0,Fevereiro,Filial Norte,1773
+922ba619,Maio,Filial Nordeste,494
+61bfec2a,Agosto,Filial Sul,2305
+a75ed01b,Junho,Matriz,772
+b6a24cfb,Maio,Matriz,762
+537a6319,Junho,Filial Sul,203
+567ff651,Agosto,Filial Sul,1361
+b7b03d6b,Maio,Filial Norte,4570
+a9a83a12,Julho,Matriz,4554
+e44592d6,Julho,Filial Norte,4986
+ebf98de7,Fevereiro,Filial Nordeste,4206
+d771a480,Julho,Filial Nordeste,2600
+0d0a5e8d,Fevereiro,Matriz,2002
+7a8067f9,Agosto,Filial Sul,4487
+ca0ad61d,Marco,Filial Sul,4858
+6fa0418c,Dezembro,Filial Norte,3193
+f00dc6a7,Janeiro,Filial Norte,1162
+92705c3f,Outubro,Filial Nordeste,2769
+a1ce9212,Janeiro,Filial Sul,2153
+e4578019,Agosto,Filial Sul,2417
+314baf70,Maio,Filial Sul,1772
+6be17b29,Fevereiro,Filial Norte,456
+ade57fdd,Agosto,Filial Sul,3125
+6db85bbc,Dezembro,Filial Sul,4536
+5ddee3a9,Outubro,Filial Norte,2494
+35e1500b,Setembro,Filial Norte,423
+a7e60279,Dezembro,Filial Norte,3178
+d2a21ca8,Novembro,Filial Norte,4037
+93711fc8,Setembro,Filial Norte,4017
+c67d3fa2,Outubro,Filial Norte,150
+b755ba55,Abril,Filial Norte,1469
+8756de71,Novembro,Filial Sul,938
+0c6d3cfd,Novembro,Filial Sul,601
+7d97499c,Julho,Matriz,4312
+35fa7b59,Abril,Filial Nordeste,4013
+bce3359a,Agosto,Matriz,3181
+50722100,Setembro,Filial Sul,342
+24f063bb,Janeiro,Filial Sul,1820
+dc6c8db2,Janeiro,Matriz,2625
+60fa9153,Dezembro,Matriz,483
+6b28768f,Novembro,Matriz,2766
+519250dc,Janeiro,Matriz,1719
+291988da,Junho,Filial Nordeste,853
+7d7f4530,Maio,Filial Norte,2784
+0a6dcd2c,Agosto,Matriz,1249
+c169d38e,Fevereiro,Matriz,2725
+913dc99d,Agosto,Filial Norte,4263
+89e22fc0,Setembro,Filial Sul,2977
+84f615d4,Outubro,Matriz,2576
+f5f5beac,Setembro,Filial Sul,3438
+b6371169,Maio,Filial Norte,4811
+245a885f,Agosto,Filial Nordeste,4187
+8da62890,Abril,Matriz,2177
+e0da36ec,Janeiro,Filial Norte,1563
+a75d48ee,Setembro,Filial Sul,4315
+769d32eb,Novembro,Filial Nordeste,2841
+8c9c20a7,Dezembro,Filial Nordeste,142
+a4b4fd03,Dezembro,Filial Norte,2442
+d13c0793,Janeiro,Matriz,2584
+b910e470,Agosto,Matriz,926
+4780c82a,Novembro,Filial Nordeste,2482
+6b22fc09,Agosto,Filial Sul,2272
+5fa8f6fc,Janeiro,Filial Nordeste,2131
+395317ae,Setembro,Filial Sul,4898
+432ed51d,Abril,Filial Norte,3369
+5ff57d59,Marco,Matriz,1299
+0d9662d5,Janeiro,Filial Norte,2769
+18ac0f4e,Maio,Filial Nordeste,4684
+6708f369,Fevereiro,Matriz,3090
+d8acd473,Julho,Filial Nordeste,3229
+6da7225d,Dezembro,Filial Norte,4201
+8ff4b6ff,Janeiro,Filial Nordeste,1138
+7d8f6fc4,Janeiro,Matriz,4493
+b0db15bd,Agosto,Filial Sul,4857
+a50e5a90,Abril,Filial Norte,113
+0d881026,Agosto,Matriz,136
+57866de3,Junho,Filial Sul,689
+7c6e59c5,Setembro,Matriz,226
+11b96988,Fevereiro,Filial Nordeste,3552
+ca957e18,Julho,Filial Sul,3945
+33b09858,Maio,Filial Norte,4895
+5fce240a,Maio,Filial Nordeste,1308
+ea02b9a8,Maio,Filial Sul,306
+ca029418,Agosto,Filial Norte,4250
+d10ccf36,Junho,Filial Sul,3120
+71a2b773,Maio,Filial Nordeste,4689
+9f03e2de,Setembro,Filial Norte,2440
+0b377b69,Julho,Filial Norte,3411
+2a0f63a0,Julho,Filial Nordeste,3105
+3e549e5f,Maio,Matriz,683
+faf855d0,Outubro,Filial Norte,1648
+ebd40723,Marco,Filial Sul,3971
+7d1dfdb5,Janeiro,Filial Norte,2196
+733a7b46,Dezembro,Matriz,1209
+fc4ba8af,Junho,Filial Sul,4318
+616358ff,Maio,Filial Sul,670
+345e8780,Julho,Filial Nordeste,1073
+d3832eaa,Maio,Filial Sul,1268
+fb6af4b7,Dezembro,Matriz,813
+5bdf5c85,Marco,Filial Sul,868
+9fb2c50a,Setembro,Filial Nordeste,4767
+1fbdf10e,Outubro,Filial Sul,4990
+77ced278,Abril,Filial Sul,4041
+fa1d7bdb,Maio,Filial Sul,1647
+8556d9c5,Janeiro,Filial Nordeste,3171
+67eef0f3,Maio,Filial Sul,459
+7613b14d,Outubro,Filial Nordeste,4320
+9b6c4cce,Abril,Matriz,2106
+781a108f,Janeiro,Matriz,128
+afbf2287,Marco,Filial Norte,1130
+cc08089c,Outubro,Matriz,4960
+ab64ec66,Outubro,Filial Sul,4091
+0aba87e9,Abril,Matriz,4591
+e274a1fb,Agosto,Filial Nordeste,1329
+c03fc0c0,Fevereiro,Filial Norte,4802
+5eb1306c,Dezembro,Filial Nordeste,2451
+6a41cce5,Outubro,Filial Nordeste,2410
+642cb653,Agosto,Filial Norte,4713
+08409836,Fevereiro,Filial Sul,613
+16d32927,Outubro,Filial Sul,4139
+4e9a7088,Agosto,Filial Sul,1478
+2edf94ca,Agosto,Filial Norte,1733
+2967142c,Fevereiro,Filial Sul,1013
+cd0e7aa0,Marco,Filial Norte,3944
+61c007ff,Fevereiro,Filial Sul,814
+42f6274a,Maio,Filial Sul,3738
+2334c2ba,Dezembro,Matriz,3186
+b3ed903f,Janeiro,Filial Norte,2462
+39fc5126,Julho,Filial Nordeste,1002
+d464409a,Novembro,Filial Nordeste,2023
+9f417ae6,Junho,Filial Norte,3779
+f19fcdca,Dezembro,Filial Norte,4841
+3049962d,Marco,Filial Nordeste,4310
+702015f9,Marco,Matriz,4676
+9798f9ea,Junho,Filial Norte,2345
+06d04086,Agosto,Filial Sul,1620
+b3d6d41b,Julho,Filial Norte,3013
+07ac52a9,Fevereiro,Filial Norte,680
+835e42fd,Maio,Filial Norte,725
+5a8105f1,Fevereiro,Matriz,2324
+417be6be,Outubro,Matriz,1111
+22ff1ae5,Junho,Matriz,2543
+89e75309,Dezembro,Filial Nordeste,4704
+2d33e0c6,Marco,Filial Sul,2138
+3239a602,Fevereiro,Filial Nordeste,3997
+2593e13f,Abril,Filial Sul,1497
+68bfe5fa,Janeiro,Filial Norte,632
+96ed3572,Junho,Filial Nordeste,2746
+7444f8b5,Agosto,Matriz,305
+5e569d77,Abril,Filial Nordeste,2182
+26a614c5,Setembro,Filial Norte,3377
+051b5612,Julho,Filial Nordeste,220
+e8dfc9b2,Junho,Filial Nordeste,1979
+9e34bf67,Agosto,Matriz,3148
+f7860ad6,Junho,Filial Sul,2965
+7e9bbc0a,Maio,Filial Norte,3570
+9a2b0a85,Agosto,Filial Nordeste,4059
+4b5ee50f,Dezembro,Filial Sul,2215
+f1da702c,Maio,Filial Norte,1421
+9e776962,Novembro,Filial Norte,3126
+cc45f645,Janeiro,Filial Norte,1073
+eddb5239,Marco,Filial Nordeste,2552
+bc48e69d,Outubro,Filial Nordeste,948
+4cf062d9,Agosto,Filial Sul,4590
+932b19ea,Abril,Filial Nordeste,2540
+03a748eb,Janeiro,Filial Nordeste,4898
+8c4d3065,Novembro,Filial Nordeste,1829
+a7b96d2f,Abril,Filial Norte,3829
+a02f032e,Outubro,Filial Nordeste,2529
+ea8db0e1,Outubro,Filial Sul,4441
+29a601d7,Setembro,Filial Sul,1479
+d00c86ba,Fevereiro,Matriz,2176
+92fe69c8,Maio,Matriz,3030
+e4ed0904,Novembro,Matriz,1386
+0339da89,Junho,Filial Norte,1627
+79cd424d,Janeiro,Filial Norte,4479
+f5579f69,Dezembro,Matriz,4139
+7d20c7b5,Junho,Filial Sul,262
+0abf6a25,Outubro,Matriz,3114
+9835f7d9,Fevereiro,Filial Norte,268
+12f80e75,Maio,Filial Nordeste,1787
+6ba8ef16,Julho,Filial Sul,4621
+e52f80cb,Outubro,Filial Norte,4440
+6891e623,Agosto,Matriz,2775
+85c71ef4,Novembro,Filial Sul,1898
+3de564ef,Agosto,Filial Norte,3825
+f387ac73,Marco,Filial Sul,4067
+274f2978,Fevereiro,Filial Nordeste,4756
+fc426863,Marco,Filial Nordeste,4938
+37f7d178,Julho,Filial Nordeste,854
+c3cfdd3c,Julho,Filial Nordeste,4293
+d286746f,Dezembro,Filial Norte,1962
+d2c06b41,Fevereiro,Filial Norte,1709
+721d9ab0,Abril,Filial Norte,3583
+2b6514ce,Abril,Filial Nordeste,1732
+cbbec43c,Abril,Filial Sul,3129
+b2a65acb,Agosto,Filial Nordeste,3443
+e3791440,Setembro,Filial Nordeste,4704
+9be5469a,Marco,Matriz,4956
+99d540ba,Abril,Filial Nordeste,940
+22ae7954,Abril,Filial Sul,3298
+d502de4b,Setembro,Filial Norte,3615
+92163f62,Junho,Filial Norte,1366
+9a9f7622,Abril,Matriz,4494
+a851510a,Marco,Filial Nordeste,4042
+564cd606,Novembro,Filial Sul,1655
+ed5bae0e,Janeiro,Filial Sul,3534
+2f651f2d,Novembro,Filial Norte,3430
+cbd683b1,Dezembro,Filial Sul,251
+5f7010a5,Julho,Filial Nordeste,4283
+bb4316b7,Janeiro,Matriz,4364
+f343768a,Janeiro,Filial Sul,4026
+66caf6bc,Dezembro,Filial Nordeste,3253
+b4cb6e83,Marco,Filial Nordeste,2777
+303fb88d,Agosto,Filial Sul,1367
+63884a47,Outubro,Matriz,2056
+aa768eee,Fevereiro,Filial Nordeste,253
+8fb6de09,Setembro,Filial Sul,2862
+9815c125,Junho,Matriz,3595
+468153e3,Novembro,Filial Norte,3514
+f7de85b1,Abril,Filial Sul,3705
+4793b41d,Julho,Filial Nordeste,4529
+c4f99032,Janeiro,Filial Sul,817
+8e367faf,Abril,Filial Sul,4586
+adf3b870,Marco,Filial Nordeste,244
+89f44cf2,Fevereiro,Filial Sul,3495
+fe107756,Setembro,Filial Norte,1313
+4ac20cb2,Agosto,Filial Nordeste,2450
+3add9107,Outubro,Matriz,759
+26be78b1,Abril,Filial Nordeste,2859
+9a2bdd9b,Abril,Filial Sul,2787
+faca9be3,Fevereiro,Filial Sul,332
+ea0a5060,Dezembro,Filial Norte,1940
+18d951c2,Dezembro,Filial Norte,4258
+4db1aaae,Abril,Filial Sul,779
+911495d4,Setembro,Filial Nordeste,2516
+3d583951,Marco,Filial Norte,2555
+6918c1d1,Abril,Filial Nordeste,1601
+d4349e43,Agosto,Filial Sul,2302
+da73dae1,Setembro,Filial Nordeste,1959
+2111980f,Fevereiro,Filial Norte,3017
+3adcaa41,Novembro,Filial Sul,616
+564dee13,Maio,Filial Norte,789
+5c1cde40,Maio,Filial Norte,709
+f53e9872,Julho,Filial Norte,4876
+08ddc495,Fevereiro,Matriz,499
+8fd2f1f9,Abril,Filial Nordeste,180
+20fcb08a,Junho,Filial Nordeste,765
+34552f1d,Setembro,Filial Norte,2078
+f36c7dc9,Janeiro,Matriz,4789
+8ee3004d,Janeiro,Filial Sul,823
+eb0201a6,Agosto,Filial Norte,1203
+b1b1d34d,Junho,Matriz,4545
+9f0113d9,Maio,Matriz,2119
+6800f288,Fevereiro,Filial Norte,4557
+dc4cee95,Dezembro,Filial Nordeste,631
+6ac70222,Maio,Filial Norte,4780
+44ba0342,Outubro,Filial Nordeste,4712
+e81313f9,Agosto,Filial Sul,3866
+d38b2022,Marco,Filial Sul,2087
+081d4b04,Fevereiro,Matriz,3943
+072974c6,Setembro,Matriz,242
+9ef74757,Janeiro,Filial Sul,4965
+f6e1661a,Abril,Filial Sul,4359
+dcf7939d,Julho,Filial Norte,1727
+ccc3c459,Outubro,Filial Nordeste,2477
+49c6318f,Janeiro,Filial Norte,229
+73144f54,Julho,Filial Norte,3726
+40cc82b1,Agosto,Filial Sul,3853
+434084d0,Maio,Filial Nordeste,2221
+c69ab3f5,Junho,Filial Norte,3814
+58e3061c,Janeiro,Filial Norte,4028
+a2d4ae51,Novembro,Filial Sul,2087
+ce5977be,Agosto,Matriz,1268
+2f453647,Maio,Filial Nordeste,3768
+edb4de2c,Abril,Filial Sul,3690
+d3d31aa4,Outubro,Filial Sul,1941
+7d498bf9,Abril,Filial Nordeste,4916
+dfd7c7e5,Maio,Filial Nordeste,2969
+248e48f9,Julho,Filial Norte,3679
+d1baa519,Junho,Matriz,4345
+86c40bcb,Marco,Matriz,3076
+148ecc2a,Marco,Matriz,1785
+40489ab7,Junho,Filial Norte,1579
+eddda25e,Janeiro,Filial Norte,1317
+bc92fd87,Dezembro,Matriz,4237
+87367b49,Novembro,Filial Norte,904
+17d8a7f8,Dezembro,Filial Norte,930
+23149d97,Junho,Filial Norte,291
+4c739da8,Maio,Matriz,246
+55f8e750,Maio,Filial Norte,4266
+38f08b0e,Maio,Matriz,4441
+389434c9,Marco,Matriz,1776
+42cd38d3,Fevereiro,Filial Nordeste,1627
+ea2fd181,Junho,Filial Norte,2325
+2e2f8523,Fevereiro,Filial Nordeste,4567
+b80ad4c3,Janeiro,Filial Nordeste,2972
+1259359e,Maio,Filial Sul,3755
+83717a7f,Novembro,Filial Nordeste,4393
+aa3a1800,Novembro,Filial Nordeste,882
+90a3d5d9,Abril,Filial Nordeste,3349
+be8cc823,Dezembro,Filial Sul,2360
+19160f1e,Agosto,Filial Nordeste,2582
+45cbf31f,Abril,Filial Norte,1034
+d8e5bc12,Novembro,Matriz,1196
+0c0f6dcc,Novembro,Matriz,1780
+d591182c,Junho,Matriz,4316
+13e1c33b,Junho,Filial Sul,1083
+9fb7dc41,Marco,Filial Norte,3355
+1359a9b6,Marco,Filial Nordeste,748
+e9166c8a,Novembro,Filial Nordeste,3641
+ee569f78,Outubro,Filial Norte,3950
+63993947,Janeiro,Filial Sul,3074
+a90a9659,Marco,Filial Norte,3581
+a1f8d081,Janeiro,Filial Norte,3413
+b4f99fd6,Maio,Filial Sul,2336
+e43ae177,Julho,Filial Nordeste,925
+e0d21f4a,Dezembro,Filial Sul,908
+2fbaaac0,Marco,Matriz,3437
+be875a4b,Abril,Filial Sul,475
+b8c3e42b,Setembro,Matriz,2441
+c2af4750,Agosto,Matriz,4403
+280c1912,Junho,Filial Nordeste,1293
+c6474385,Novembro,Matriz,834
+0c71a9b3,Agosto,Filial Norte,2333
+bab7b025,Setembro,Filial Norte,4113
+e9c217fb,Dezembro,Filial Norte,1150
+2df13fb9,Dezembro,Matriz,861
+71f83c3e,Marco,Matriz,4191
+ca2be8d5,Setembro,Matriz,749
+3c9dbc4a,Abril,Filial Norte,2808
+91b4ba72,Fevereiro,Filial Nordeste,2638
+f3c36b37,Abril,Filial Nordeste,1309
+890d7e76,Janeiro,Matriz,3761
+e2c15690,Dezembro,Filial Norte,1674
+b05c11fe,Outubro,Matriz,2948
+3c2f46a1,Maio,Filial Norte,1086
+ff850b7b,Novembro,Matriz,1210
+77638ba4,Novembro,Matriz,4728
+f0f0fcd8,Dezembro,Filial Nordeste,305
+73bbdb3e,Janeiro,Filial Nordeste,3471
+c3a8dd47,Abril,Matriz,1849
+f0d19005,Junho,Filial Nordeste,4777
+75e8241b,Agosto,Filial Norte,1867
+f3272510,Abril,Filial Sul,4940
+662fe9da,Agosto,Matriz,3324
+ce578df1,Fevereiro,Filial Norte,932
+4ebcc569,Novembro,Filial Sul,3531
+918803ca,Setembro,Filial Nordeste,754
+68052dcd,Fevereiro,Matriz,2184
+c8dbb747,Fevereiro,Filial Sul,3333
+510c4314,Novembro,Matriz,2050
+92c485bb,Julho,Filial Norte,2831
+a4064e4f,Marco,Filial Sul,877
+b23ea489,Setembro,Filial Sul,374
+bd567151,Dezembro,Matriz,2026
+bbeaa86e,Dezembro,Filial Norte,2174
+fcaf20ab,Julho,Filial Nordeste,1726
+f931de1e,Maio,Filial Sul,3536
+db9111d6,Julho,Filial Sul,2194
+72533edb,Junho,Matriz,1031
+6c4ba7c8,Maio,Filial Nordeste,1294
+c0b7ac38,Abril,Filial Norte,3623
+968332ec,Dezembro,Matriz,4665
+467c8f4e,Marco,Filial Nordeste,2191
+415f80fa,Novembro,Filial Norte,956
+470846ec,Junho,Filial Norte,1775
+acce5630,Junho,Filial Sul,2655
+4bb82200,Agosto,Matriz,842
+f42474af,Agosto,Filial Norte,1189
+54190646,Agosto,Filial Nordeste,4591
+9911b991,Setembro,Filial Sul,738
+fd9a2726,Agosto,Filial Sul,2934
+ac300911,Marco,Filial Norte,3378
+cd6e229b,Julho,Filial Sul,1959
+829b4a00,Junho,Filial Nordeste,511
+11209cbc,Outubro,Filial Sul,4459
+89b33123,Setembro,Matriz,381
+0513aabf,Outubro,Filial Sul,1096
+84bc2676,Novembro,Matriz,408
+73c6e01c,Agosto,Matriz,1950
+5cc02e47,Outubro,Filial Sul,3414
+98cdbd71,Marco,Filial Sul,2289
+0ea69e25,Agosto,Filial Norte,2920
+c5cd07fa,Julho,Filial Sul,1611
+d3337d02,Julho,Filial Norte,4615
+7bdd5e47,Outubro,Matriz,3311
+f8424fef,Setembro,Filial Sul,1242
+bda1fc7e,Julho,Filial Norte,2917
+356ae97e,Agosto,Filial Nordeste,2309
+67419dd7,Marco,Matriz,2618
+02540dde,Outubro,Filial Sul,4579
+2dc43d93,Julho,Filial Nordeste,3940
+b876c34d,Marco,Filial Norte,1682
+7aae4949,Maio,Filial Norte,771
+5fc839ed,Novembro,Matriz,4876
+c4fd7694,Abril,Filial Norte,2383
+05f6f189,Fevereiro,Filial Sul,4847
+8beaa9ea,Novembro,Filial Sul,3548
+e4c43b12,Novembro,Filial Sul,468
+136f0a4c,Novembro,Filial Sul,4888
+b9bc9975,Abril,Filial Nordeste,3037
+a9f42150,Novembro,Filial Nordeste,1828
+127c5cf0,Outubro,Filial Nordeste,1236
+46c6ad64,Setembro,Filial Norte,1934
+a95310cb,Setembro,Filial Nordeste,3980
+734b9ada,Marco,Filial Nordeste,2709
+935baa70,Marco,Filial Sul,259
+eda2b639,Julho,Filial Sul,2544
+e123677d,Julho,Matriz,3590
+e21b574f,Agosto,Filial Norte,1246
+ae897cb4,Setembro,Filial Nordeste,119
+eb76f39e,Fevereiro,Filial Nordeste,2308
+176eadda,Marco,Filial Nordeste,1663
+af2e3d22,Setembro,Filial Norte,1994
+231e47f7,Maio,Matriz,2210
+780b04c4,Fevereiro,Filial Sul,2765
+5ac11277,Agosto,Filial Norte,4272
+de8e3180,Abril,Filial Norte,3835
+037b035f,Setembro,Filial Sul,2478
+e1f4f63e,Marco,Filial Norte,2196
+ca076b7b,Maio,Filial Nordeste,942
+85efbd8f,Abril,Filial Norte,4281
+8d42d08e,Novembro,Filial Sul,3405
+8c847a2d,Julho,Matriz,2229
+c7e9245e,Dezembro,Filial Sul,2059
+b0d90cad,Novembro,Filial Nordeste,4604
+1171c7d8,Junho,Filial Sul,4637
+8e9da34f,Julho,Matriz,2742
+3859da47,Agosto,Matriz,4209
+2e78faa4,Outubro,Filial Sul,2618
+d387a378,Abril,Matriz,4514
+ee52d33b,Outubro,Matriz,1399
+fa38659d,Novembro,Filial Nordeste,150
+21d3fbb5,Janeiro,Matriz,1749
+8f8ff94e,Marco,Filial Sul,1754
+5fdfa1be,Junho,Filial Sul,4842
+57f20643,Setembro,Matriz,224
+16bb5aea,Setembro,Filial Norte,2340
+b5733b3d,Maio,Filial Nordeste,4826
+a78f8c25,Abril,Filial Nordeste,2192
+7024a8d7,Maio,Matriz,3707
+07caa97d,Abril,Matriz,3652
+1b49d245,Julho,Filial Norte,4024
+b22e24fb,Junho,Filial Norte,4593
+43b3299c,Novembro,Matriz,2973
+7e3bb582,Fevereiro,Filial Sul,3458
+04972dc5,Setembro,Filial Norte,2395
+ada03817,Setembro,Filial Sul,1693
+21704e53,Maio,Filial Norte,1114
+4b5467aa,Dezembro,Filial Sul,4048
+2e82c049,Dezembro,Matriz,4338
+c0b18989,Fevereiro,Filial Norte,3676
+a8f16c80,Junho,Filial Sul,1710
+7bc4c1fa,Fevereiro,Filial Norte,4473
+3e1f0e8f,Marco,Filial Nordeste,3312
+f704c0a2,Fevereiro,Filial Norte,3026
+559545b0,Fevereiro,Filial Nordeste,1519
+96c92720,Julho,Filial Sul,3974
+656a0c06,Fevereiro,Filial Nordeste,3627
+681dbb80,Marco,Matriz,3987
+6af54c3b,Dezembro,Filial Sul,4648
+9af7e213,Abril,Filial Nordeste,3033
+6666b2e8,Abril,Filial Norte,3220
+9bdefbf1,Fevereiro,Filial Norte,942
+e3e44b41,Janeiro,Filial Nordeste,978
+c06d4f50,Outubro,Filial Norte,2091
+192af840,Julho,Filial Norte,1225
+2b1e3166,Agosto,Filial Norte,243
+aec1edc5,Junho,Filial Nordeste,4522
+b60f529b,Outubro,Filial Nordeste,2281
+7050e0f4,Junho,Matriz,547
+74fa7407,Julho,Filial Sul,4228
+0b9f2ab5,Abril,Matriz,1813
+0ea78deb,Agosto,Filial Nordeste,838
+fc3cbd17,Novembro,Matriz,4839
+e690e1c8,Janeiro,Filial Sul,769
+5c7ff38e,Outubro,Filial Nordeste,4061
+5e9ba641,Outubro,Filial Sul,302
+ba172dd0,Julho,Matriz,2006
+a36a9bf5,Abril,Matriz,224
+5ec11424,Maio,Filial Norte,4144
+c282e711,Setembro,Filial Norte,2679
+2e31ba19,Marco,Matriz,3600
+4cee040e,Marco,Filial Nordeste,1843
+d2910ed3,Julho,Filial Norte,2391
+0c5c5497,Novembro,Filial Sul,3261
+1f480110,Dezembro,Filial Nordeste,3332
+fcc228e4,Outubro,Filial Norte,580
+f643dace,Setembro,Filial Norte,2161
+4773061a,Agosto,Filial Sul,2727
+9afc8636,Maio,Filial Nordeste,1206
+98769918,Outubro,Filial Nordeste,1257
+b44f548c,Julho,Filial Norte,1653
+f4ad0838,Novembro,Matriz,1892
+1d0a12ef,Agosto,Filial Norte,1757
+a3a2741c,Junho,Filial Sul,2557
+f3d58e9c,Fevereiro,Filial Nordeste,3269
+ae06cdc9,Agosto,Filial Nordeste,4551
+a2f7db06,Janeiro,Matriz,1740
+9a8dc0fe,Junho,Filial Norte,1496
+b7aed657,Agosto,Filial Nordeste,1921
+f7f4fef0,Outubro,Filial Nordeste,2022
+84d5816f,Maio,Filial Sul,3827
+e4afb468,Janeiro,Filial Norte,1505
+2e4b0aa3,Dezembro,Filial Nordeste,1987
+19c54624,Marco,Filial Norte,4793
+7da31462,Junho,Filial Nordeste,2969
+6b390bab,Novembro,Filial Sul,1976
+23e48926,Dezembro,Filial Sul,2234
+75d3b438,Agosto,Filial Sul,4482
+adbc88aa,Julho,Filial Norte,1890
+e85c7ce0,Marco,Filial Norte,1432
+bf64ec37,Dezembro,Matriz,2975
+769269ab,Janeiro,Filial Sul,1155
+96a92a1f,Maio,Filial Norte,1654
+00e08be0,Marco,Filial Norte,510
+39d88c09,Maio,Filial Sul,4610
+76571513,Janeiro,Filial Nordeste,3549
+eba134db,Marco,Filial Norte,2589
+15e46fb3,Julho,Matriz,3869
+69496aa8,Dezembro,Filial Sul,409
+2c70696e,Julho,Filial Nordeste,3446
+1e097047,Julho,Matriz,4860
+1ad60ef8,Julho,Filial Sul,4311
+fdd3c4d4,Agosto,Filial Nordeste,4743
+e2428b43,Marco,Filial Sul,919
+850c0bb7,Outubro,Filial Sul,4910
+80389a41,Fevereiro,Filial Sul,1681
+3760b5c5,Setembro,Filial Nordeste,1260
+12f97f58,Abril,Matriz,618
+35d6619c,Novembro,Filial Norte,1675
+4a3e6c70,Novembro,Filial Nordeste,3912
+a3a9cd96,Maio,Matriz,1577
+fa8ce76a,Abril,Filial Sul,2611
+68f91b91,Fevereiro,Filial Sul,4878
+181e79a5,Janeiro,Matriz,2347
+6da5e0d2,Dezembro,Matriz,907
+987c7fbe,Setembro,Filial Sul,2241
+00231456,Maio,Filial Nordeste,2306
+9d429b4b,Julho,Matriz,1697
+8f667e93,Maio,Filial Nordeste,820
+3434e4de,Setembro,Matriz,2429
+db11e608,Marco,Filial Nordeste,4631
+35222b1d,Outubro,Filial Sul,3446
+d3966e00,Julho,Filial Norte,1652
+c73be8c9,Janeiro,Matriz,1744
+b9cef580,Novembro,Filial Norte,680
+94583695,Setembro,Filial Norte,166
+d0d2ed66,Fevereiro,Filial Nordeste,1358
+52330947,Outubro,Filial Norte,1479
+70d8b7dc,Maio,Matriz,2154
+ad1dc916,Novembro,Filial Sul,1791
+0cce774a,Janeiro,Matriz,1743
+0414fd23,Janeiro,Filial Norte,245
+ac08e33f,Janeiro,Filial Sul,1241
+25b4c04e,Setembro,Filial Sul,4711
+b9737665,Dezembro,Filial Sul,3394
+c4c2b2c0,Novembro,Filial Sul,3978
+06aa8d72,Outubro,Filial Norte,4572
+10032c91,Agosto,Filial Nordeste,3599
+83c151cf,Agosto,Filial Sul,1739
+e4120def,Setembro,Matriz,3223
+172b1065,Maio,Filial Nordeste,4054
+768c56e6,Outubro,Filial Norte,4669
+a15fb079,Abril,Filial Sul,900
+0446c093,Setembro,Filial Sul,1895
+133d9a45,Abril,Filial Norte,2331
+dd2b942a,Julho,Filial Sul,638
+19babbed,Abril,Matriz,2282
+5a04707c,Janeiro,Filial Sul,1133
+dde0e86a,Agosto,Filial Norte,1452
+e9858b6b,Dezembro,Matriz,4124
+e552eef7,Julho,Filial Norte,677
+f923b909,Dezembro,Filial Sul,1964
+2229bb69,Junho,Filial Norte,3362
+9a636ae0,Outubro,Matriz,1903
+d9f3a345,Fevereiro,Matriz,2887
+cc1b3b78,Dezembro,Filial Norte,4769
+5f6ab6e7,Novembro,Filial Sul,2919
+120c1849,Fevereiro,Matriz,435
+9e5a98ad,Novembro,Filial Norte,3271
+975094db,Agosto,Matriz,3881
+e68b68c3,Dezembro,Filial Sul,4329
+4a996ba2,Junho,Filial Nordeste,762
+6145180c,Julho,Filial Nordeste,4638
+5ea1fa13,Maio,Filial Norte,2373
+8ef93160,Julho,Filial Sul,3845
+7b701e35,Junho,Filial Nordeste,4423
+b2ea3c0d,Julho,Matriz,3362
+a139976b,Abril,Filial Sul,3555
+6c28023d,Novembro,Filial Nordeste,1372
+6e821948,Junho,Filial Sul,3470
+f95d9301,Janeiro,Filial Nordeste,2962
+38833d5a,Setembro,Matriz,998
+940fa822,Janeiro,Filial Norte,2348
+e7d28cc1,Junho,Matriz,3100
+d5652680,Outubro,Filial Sul,2728
+5334eca5,Abril,Filial Norte,3073
+72d8e39c,Dezembro,Filial Sul,3937
+fde939f6,Setembro,Filial Sul,4430
+a10a0fed,Dezembro,Filial Nordeste,2902
+a5e41496,Marco,Matriz,3354
+1377fcd2,Marco,Filial Sul,2584
+699049e7,Novembro,Filial Norte,4645
+b9433a07,Agosto,Filial Norte,2390
+ae5195ed,Maio,Filial Nordeste,4558
+0d0ec940,Dezembro,Filial Sul,308
+9b5c3721,Julho,Filial Nordeste,554
+a186bb3f,Setembro,Filial Sul,645
+3a76d3df,Outubro,Matriz,3052
+c403d745,Fevereiro,Filial Nordeste,3467
+e03b05ed,Setembro,Filial Nordeste,3417
+453eefee,Abril,Filial Sul,1172
+baa38313,Agosto,Filial Norte,2867
+a26ae811,Junho,Matriz,1276
+f8d917c4,Agosto,Filial Norte,1336
+1c0caac8,Dezembro,Filial Sul,3237
+a99ddce9,Dezembro,Filial Norte,2914
+10fc35a4,Fevereiro,Filial Sul,2321
+26d53449,Outubro,Filial Nordeste,4921
+a4b2e836,Janeiro,Filial Norte,1347
+a091a00c,Dezembro,Matriz,1257
+67b469a3,Marco,Matriz,3197
+9f9773b0,Janeiro,Filial Nordeste,2255
+b93561c7,Outubro,Filial Norte,3776
+7168a903,Outubro,Matriz,2931
+45baaecd,Abril,Matriz,4843
+b06fd0a9,Abril,Filial Sul,4533
+95d51ad9,Outubro,Matriz,2557
+b4a30e15,Dezembro,Filial Sul,3036
+34fd0c75,Outubro,Filial Sul,1612
+1ca29b24,Dezembro,Filial Sul,1289
+c00e5b62,Fevereiro,Filial Norte,3139
+52070aa8,Dezembro,Matriz,900
+e3584247,Abril,Matriz,3052
+8163a8cb,Dezembro,Matriz,4617
+12e9f868,Marco,Matriz,333
+f9298c4d,Janeiro,Filial Nordeste,4177
+a911ae13,Outubro,Filial Nordeste,4050
+be43de20,Julho,Matriz,1381
+14d3a593,Dezembro,Filial Norte,3689
+3be06b30,Julho,Filial Norte,3397
+e2fbf789,Novembro,Filial Norte,801
+f6223baa,Fevereiro,Matriz,217
+d0968920,Outubro,Filial Sul,4989
+7644d46e,Marco,Filial Nordeste,2984
+ecda40a1,Junho,Matriz,2950
+1d460048,Janeiro,Filial Sul,4826
+0a898020,Outubro,Filial Norte,3567
+239f2747,Agosto,Filial Sul,2709
+dfc3588f,Agosto,Matriz,260
+1703230b,Setembro,Filial Nordeste,3249
+9eb8ab4b,Julho,Filial Sul,1034
+c502c430,Novembro,Filial Norte,4426
+a7656639,Novembro,Filial Sul,136
+468a83fa,Setembro,Filial Norte,3555
+2e1a54db,Dezembro,Filial Nordeste,1437
+44a33a66,Dezembro,Matriz,1569
+707f25ee,Setembro,Filial Norte,4311
+5c35b525,Dezembro,Filial Nordeste,3347
+4c773ffd,Dezembro,Filial Norte,808
+f8f3f6b6,Outubro,Filial Nordeste,4086
+d9dfcf4b,Marco,Filial Sul,4282
+f35968a1,Janeiro,Filial Sul,3486
+cc29e77a,Novembro,Filial Nordeste,2254
+5011aa43,Dezembro,Filial Nordeste,4286
+990b14d5,Marco,Filial Norte,4893
+60f08e2b,Janeiro,Matriz,2131
+0f8453f8,Abril,Filial Nordeste,3113
+b5e736c4,Marco,Filial Norte,1287
+82a85a31,Maio,Matriz,2448
+f208e116,Marco,Filial Nordeste,4645
+f5232fd8,Junho,Filial Norte,431
+b0533588,Outubro,Filial Sul,322
+f77bea7a,Julho,Filial Norte,1793
+3b5a9c44,Marco,Filial Nordeste,2967
+63d5085b,Novembro,Filial Nordeste,3519
+b41d0ef8,Setembro,Filial Sul,1754
+5329ed3d,Dezembro,Filial Sul,3283
+87a834ce,Maio,Filial Nordeste,3592
+2d273d5a,Janeiro,Filial Norte,2018
+06e5e0ae,Dezembro,Filial Norte,416
+ef87bc1e,Marco,Filial Norte,1149
+d438fe5b,Setembro,Filial Norte,2275
+b73fceef,Abril,Filial Nordeste,2734
+bbf1fa06,Maio,Filial Nordeste,2218
+72f024ac,Fevereiro,Matriz,3923
+b813255a,Janeiro,Filial Norte,691
+2247b12d,Novembro,Filial Norte,2042
+dd22ff1f,Agosto,Filial Sul,4133
+68d45f33,Junho,Filial Norte,3669
+941a6e38,Fevereiro,Matriz,4120
+8cc37d2a,Abril,Filial Norte,1671
+1334e5ed,Fevereiro,Filial Nordeste,3178
+a9a17246,Novembro,Filial Nordeste,3277
+9b70f6da,Junho,Filial Sul,4235
+37b781c4,Setembro,Filial Nordeste,3225
+a81bad7b,Novembro,Filial Norte,4519
+a6ce8e24,Junho,Matriz,543
+22c3ed02,Janeiro,Filial Sul,764
+94bc5478,Agosto,Filial Sul,2151
+5f007821,Setembro,Matriz,889
+418168f3,Junho,Filial Nordeste,4702
+6057c2d8,Agosto,Filial Sul,985
+f60feefb,Abril,Matriz,300
+71107c69,Dezembro,Filial Sul,1671
+6ea04854,Dezembro,Matriz,1886
+6bfcf375,Marco,Matriz,1829
+6acb98b4,Abril,Filial Nordeste,4466
+58dcb6c1,Dezembro,Filial Sul,1541
+cea9d70e,Setembro,Filial Nordeste,4586
+acbf2980,Marco,Filial Sul,364
+85a692ce,Marco,Filial Sul,1851
+a8db7e78,Novembro,Filial Norte,678
+e81d0429,Janeiro,Filial Norte,132
+ee0d9438,Fevereiro,Filial Nordeste,592
+b8c6f68e,Dezembro,Filial Sul,3223
+28d857cd,Dezembro,Filial Norte,1810
+178c5976,Marco,Filial Norte,4667
+6a0da1e5,Maio,Filial Sul,2818
+6ff8a597,Maio,Filial Norte,1601
+f5391ae9,Junho,Filial Sul,1106
+07684a39,Abril,Matriz,1337
+8f23692c,Julho,Filial Nordeste,3642
+60623d5d,Agosto,Filial Nordeste,2537
+71dab650,Junho,Filial Norte,2414
+3950a0d4,Junho,Filial Sul,4725
+05346f68,Junho,Matriz,1279
+f3e07d38,Junho,Filial Norte,1375
+9ad1ecc0,Outubro,Filial Sul,474
+478fa085,Agosto,Filial Nordeste,2827
+7afa9bfe,Janeiro,Matriz,1971
+cc9fc111,Junho,Matriz,512
+fcb3a47c,Setembro,Matriz,4631
+0fac0fbd,Dezembro,Filial Norte,3981
+b4b5be6e,Dezembro,Filial Sul,2050
+d2e95264,Agosto,Matriz,4866
+375bd69f,Janeiro,Filial Norte,453
+c88cc634,Fevereiro,Filial Norte,1994
+0c28add1,Marco,Filial Norte,2882
+098b0dd5,Julho,Filial Nordeste,1835
+162c7d5e,Junho,Matriz,3857
+fab13bc9,Agosto,Filial Sul,4088
+4c49b7ed,Abril,Filial Norte,2271
+3a3a7939,Julho,Filial Norte,1341
+fc772de2,Fevereiro,Filial Nordeste,4941
+65be2dc6,Novembro,Filial Norte,1289
+a870fad9,Setembro,Filial Nordeste,1623
+d94ae81b,Maio,Matriz,1477
+65635112,Outubro,Filial Sul,1325
+11160905,Abril,Matriz,3005
+876b7c53,Julho,Matriz,1045
+ae0ed17d,Marco,Filial Nordeste,2489
+aed3d6d9,Marco,Filial Nordeste,3327
+7d80bfbe,Setembro,Filial Sul,2975
+bc958cd7,Outubro,Matriz,1994
+0b7319ad,Dezembro,Filial Nordeste,208
+55930c6a,Agosto,Filial Sul,1018
+1d7dd314,Dezembro,Matriz,3668
+c331057e,Marco,Matriz,1507
+00cea500,Abril,Filial Norte,2252
+c438210b,Maio,Matriz,2115
+3f7dcba1,Maio,Filial Sul,616
+086be035,Janeiro,Filial Nordeste,2144
+cd99a1ec,Setembro,Filial Norte,3516
+643fafb5,Outubro,Matriz,4084
+eb806cc2,Outubro,Filial Nordeste,3655
+2cbdee52,Novembro,Matriz,4096
+090f3d6d,Agosto,Filial Sul,2796
+688f3463,Abril,Filial Norte,878
+75ac78fe,Novembro,Filial Sul,4304
+06502f24,Maio,Filial Nordeste,3864
+0ea024ee,Junho,Filial Nordeste,2139
+963eb9ce,Setembro,Filial Sul,2886
+782766b2,Setembro,Matriz,2619
+2e77faa0,Abril,Filial Sul,3034
+9788be4c,Junho,Filial Norte,1980
+4e855600,Abril,Filial Nordeste,1889
+704ae5db,Abril,Matriz,2549
+be3f04b9,Setembro,Matriz,4737
+0ffbb9f0,Julho,Filial Norte,1492
+2f2b25ba,Novembro,Filial Nordeste,2859
+e77a54ad,Dezembro,Filial Sul,3034
+dcea086f,Outubro,Filial Sul,974
+0352b075,Abril,Filial Sul,4355
+0d28a9db,Dezembro,Filial Sul,1400
+3387132e,Setembro,Matriz,2239
+46ee491e,Janeiro,Filial Norte,3414
+1b4fd8a3,Agosto,Filial Nordeste,1503
+f77ec271,Dezembro,Filial Nordeste,3455
+eeb5869c,Dezembro,Filial Nordeste,386
+4c6b22bc,Outubro,Matriz,264
+75b91b07,Outubro,Filial Sul,2646
+af2855a7,Dezembro,Filial Nordeste,3255
+bb24dd3c,Julho,Matriz,4685
+7027348c,Fevereiro,Filial Nordeste,3392
+c52b9ca3,Maio,Matriz,4285
+b67973ec,Marco,Matriz,3328
+677dad8c,Marco,Filial Nordeste,361
+f5b23df1,Maio,Filial Nordeste,4596
+ef50394e,Novembro,Filial Sul,3049
+d3829504,Janeiro,Filial Norte,3332
+202dcf55,Maio,Filial Sul,4258
+9f419dc7,Janeiro,Filial Norte,4808
+9fe064b9,Novembro,Filial Nordeste,3217
+0a8e401b,Marco,Filial Norte,1960
+7c3c6338,Setembro,Matriz,151
+e2fdb020,Abril,Matriz,2178
+806219e6,Outubro,Filial Nordeste,2092
+7a754e15,Dezembro,Filial Nordeste,4986
+352569c6,Junho,Filial Nordeste,853
+e1ff9c3c,Janeiro,Filial Nordeste,315
+3d64e126,Fevereiro,Matriz,2188
+f9d5d269,Abril,Filial Nordeste,927
+65aa2b19,Junho,Filial Norte,3517
+63f6a58d,Fevereiro,Filial Nordeste,771
+95940a61,Junho,Filial Norte,4409
+194c0101,Setembro,Filial Nordeste,4714
+745b51b4,Junho,Filial Norte,1521
+7bcc0cd6,Abril,Filial Norte,4660
+5b015517,Dezembro,Filial Sul,1040
+bb2c297e,Julho,Filial Sul,4065
+9a1e4cd8,Agosto,Filial Norte,518
+b1a8627e,Agosto,Filial Norte,2074
+eedfb982,Novembro,Filial Sul,2267
+d2ad85db,Setembro,Matriz,3353
+4f53c3e4,Abril,Matriz,4500
+6446ed25,Marco,Filial Nordeste,2527
+20080f46,Julho,Matriz,3832
+042afd9d,Outubro,Filial Norte,1299
+69918508,Abril,Filial Nordeste,4992
+998d09f1,Abril,Filial Norte,2533
+7b2a4bb9,Junho,Filial Norte,3274
+f54ed265,Setembro,Filial Norte,3869
+61641c7d,Maio,Matriz,1834
+02090bad,Setembro,Filial Norte,302
+5527541c,Abril,Filial Sul,408
+12d32129,Abril,Filial Sul,1077
+f6b48259,Junho,Matriz,4445
+0f48e4d6,Janeiro,Filial Sul,1227
+e4419dd4,Junho,Filial Norte,4583
+a07e3ea5,Agosto,Matriz,3697
+d3e5d756,Maio,Filial Norte,3655
+bfbe39ad,Novembro,Filial Nordeste,2794
+d7018612,Maio,Matriz,3183
+ca597914,Novembro,Matriz,4479
+0c3d027a,Maio,Filial Nordeste,1356
+0efe3994,Abril,Matriz,537
+98912f66,Janeiro,Filial Nordeste,1222
+d4a0b78c,Setembro,Filial Nordeste,184
+1d29adfa,Setembro,Filial Norte,388
+bc8d531e,Novembro,Filial Nordeste,380
+ee0f9bd8,Abril,Filial Norte,2021
+25499879,Abril,Filial Sul,2553
+b03207dd,Outubro,Filial Nordeste,2567
+468769ba,Dezembro,Filial Nordeste,3594
+8217aa10,Outubro,Filial Nordeste,4612
+7029b22e,Abril,Filial Norte,3691
+3d92b03f,Setembro,Filial Norte,3007
+5fb946ad,Julho,Matriz,3149
+6756e0b4,Junho,Filial Norte,963
+849e6313,Junho,Filial Norte,1330
+8ff02b50,Agosto,Filial Nordeste,1002
+eef48af8,Novembro,Filial Nordeste,2708
+4420a738,Marco,Filial Sul,2161
+eba3ec58,Julho,Matriz,1012
+6355e8b9,Novembro,Filial Nordeste,3085
+187cc515,Junho,Filial Nordeste,314
+51311811,Marco,Filial Norte,2604
+fc33c821,Fevereiro,Filial Nordeste,4387
+8394e474,Janeiro,Filial Nordeste,597
+198c9766,Novembro,Filial Nordeste,3944
+a41413fd,Marco,Filial Sul,1377
+0cffb612,Janeiro,Filial Nordeste,2537
+cf562fad,Abril,Matriz,3447
+3ee4df8b,Janeiro,Filial Sul,2938
+e69d0c2d,Setembro,Filial Nordeste,3306
+f16a2120,Outubro,Filial Sul,139
+884f7710,Marco,Filial Norte,1383
+4c371782,Agosto,Filial Norte,3584
+ad498df4,Setembro,Filial Sul,2110
+fbec1856,Marco,Filial Sul,1414
+69d3e96c,Setembro,Filial Nordeste,1587
+d1ee999f,Julho,Filial Norte,805
+a7ffcb4d,Agosto,Filial Nordeste,1445
+8f26a040,Dezembro,Filial Sul,4127
+09de6581,Maio,Matriz,1414
+071d90e1,Dezembro,Matriz,590
+3d0effa4,Agosto,Matriz,4859
+f2a33f89,Fevereiro,Filial Sul,4377
+2c17b936,Abril,Filial Norte,1676
+c97b504f,Agosto,Filial Sul,1279
+e6438fbf,Abril,Matriz,1883
+26783d86,Setembro,Filial Nordeste,681
+dcba86f6,Setembro,Filial Norte,806
+c386858b,Marco,Filial Sul,1110
+de78d73e,Julho,Filial Sul,1470
+ecafe4ad,Dezembro,Filial Norte,2364
+bf1c205f,Novembro,Matriz,1237
+9f7290a9,Fevereiro,Filial Nordeste,406
+a9cc035c,Dezembro,Filial Nordeste,1482
+399801ea,Dezembro,Matriz,985
+b3e7e741,Maio,Filial Nordeste,2117
+dad174bd,Marco,Matriz,396
+09fdada3,Julho,Matriz,1215
+33a05053,Julho,Filial Nordeste,4592
+9cb4d350,Dezembro,Filial Norte,1471
+275603a5,Agosto,Filial Nordeste,3415
+b369ed1a,Janeiro,Filial Sul,3611
+7aebd460,Fevereiro,Matriz,1684
+645a96f0,Julho,Filial Norte,1026
+4cbc06ef,Dezembro,Matriz,4585
+94c6c89d,Setembro,Filial Nordeste,3046
+2f2f1c08,Dezembro,Filial Nordeste,1382
+37304c82,Novembro,Filial Norte,299
+7fe57b79,Julho,Filial Sul,2003
+b537577a,Dezembro,Filial Nordeste,1484
+91aa87f8,Fevereiro,Filial Nordeste,4130
+c83e02d7,Outubro,Filial Nordeste,2248
+49f12622,Fevereiro,Filial Nordeste,4273
+38c90464,Outubro,Filial Nordeste,4944
+d837c61d,Maio,Filial Nordeste,4929
+51c7867a,Outubro,Matriz,2923
+6d65b2bb,Maio,Filial Nordeste,1396
+baa2953b,Outubro,Matriz,3689
+c8ec1499,Fevereiro,Filial Sul,1333
+f1600174,Agosto,Filial Norte,1796
+ed44cbb7,Julho,Matriz,172
+c2dc47ec,Julho,Filial Nordeste,678
+83b1430c,Novembro,Filial Sul,1760
+7d8553d9,Abril,Filial Nordeste,1559
+dabfe85e,Maio,Filial Sul,4035
+3cafcba8,Abril,Filial Nordeste,3352
+7390240e,Outubro,Filial Nordeste,4423
+e32df367,Abril,Filial Sul,3499
+feda3440,Julho,Filial Nordeste,765
+97b51d6e,Outubro,Filial Norte,3421
+01d74fb2,Junho,Filial Norte,4448
+1cee0075,Abril,Matriz,1136
+2634eec0,Novembro,Matriz,1825
+7b1c9374,Setembro,Filial Nordeste,834
+ee9a1cdb,Novembro,Filial Norte,3607
+51dd2899,Novembro,Filial Norte,4508
+a1a9fe65,Julho,Filial Sul,1902
+2a540c88,Marco,Matriz,2882
+d494ac11,Maio,Matriz,2021
+f66feeb9,Junho,Filial Sul,4091
+5ef92705,Julho,Matriz,4454
+6505f139,Fevereiro,Filial Nordeste,528
+9c7e1f8f,Setembro,Filial Sul,2185
+ba0b8b67,Abril,Filial Nordeste,4073
+cd76458a,Junho,Matriz,1571
+2716326c,Dezembro,Matriz,3330
+8ae38475,Maio,Matriz,2305
+ae16c664,Marco,Filial Nordeste,1358
+76de254b,Junho,Matriz,2684
+52878099,Dezembro,Matriz,512
+9778f64f,Novembro,Matriz,1398
+25a5f75a,Maio,Filial Nordeste,1745
+141c322d,Dezembro,Filial Sul,702
+9c3db305,Fevereiro,Filial Sul,958
+2c19e6e8,Novembro,Filial Sul,4263
+7a5bc6d7,Julho,Filial Nordeste,2022
+dce51817,Agosto,Filial Nordeste,2597
+f90787a0,Abril,Filial Norte,4415
+96e97e46,Abril,Filial Sul,2978
+e45c5b29,Novembro,Filial Norte,1050
+336e3d17,Novembro,Matriz,117
+64937015,Janeiro,Filial Norte,3005
+649ed0c0,Dezembro,Filial Norte,2408
+035e27ca,Dezembro,Filial Nordeste,3090
+febc9e90,Novembro,Filial Nordeste,4746
+4b1b520b,Agosto,Matriz,881
+a6ba5810,Agosto,Filial Nordeste,4305
+881fd8a9,Maio,Matriz,4382
+1419d0c3,Fevereiro,Filial Nordeste,547
+bf9d29d5,Fevereiro,Filial Nordeste,2643
+d31e39ee,Marco,Matriz,2136
+2e0150e2,Julho,Filial Norte,2756
+6b17e147,Janeiro,Matriz,1205
+e2a6afea,Marco,Filial Nordeste,374
+bab6314f,Agosto,Filial Norte,3226
+7c977995,Julho,Filial Sul,3925
+c87776d5,Agosto,Filial Nordeste,1471
+dd1d3b02,Junho,Filial Nordeste,560
+c6b6d53b,Fevereiro,Filial Sul,3023
+5808276b,Outubro,Filial Norte,2769
+ff527b7c,Novembro,Matriz,1315
+fb543320,Junho,Matriz,3367
+cc5468ed,Maio,Matriz,1585
+a5b8b9c2,Novembro,Filial Norte,1671
+85a8e0d2,Fevereiro,Filial Norte,112
+c935919b,Marco,Filial Norte,4572
+652a2fb4,Junho,Matriz,2938
+5218e61e,Abril,Filial Sul,1832
+6898186f,Janeiro,Filial Norte,3367
+3080a671,Abril,Filial Norte,3500
+b4a9bfc5,Julho,Matriz,3612
+89c61b8b,Junho,Filial Sul,3814
+f585811d,Janeiro,Filial Sul,4156
+71e254c9,Maio,Filial Nordeste,4937
+648d13d3,Outubro,Matriz,635
+9be54594,Setembro,Filial Norte,1047
+7bd988a1,Julho,Filial Nordeste,1446
+285162bc,Agosto,Filial Nordeste,2110
+7ff12060,Novembro,Filial Nordeste,1675
+aeb0be01,Julho,Filial Sul,3704
+ca04ca34,Julho,Filial Sul,1183
+67c5d728,Maio,Filial Nordeste,1098
+bf0fe166,Fevereiro,Filial Nordeste,4037
+247a2232,Julho,Filial Nordeste,1446
+46ded643,Novembro,Filial Nordeste,4159
+8f8a484c,Dezembro,Filial Sul,3672
+bdb71f46,Setembro,Matriz,2421
+a3a0711e,Setembro,Filial Norte,3355
+47e0a809,Outubro,Matriz,2882
+ddc575f9,Fevereiro,Filial Nordeste,3677
+285f0337,Fevereiro,Filial Sul,1939
+bd31784d,Junho,Filial Norte,3554
+3e9c2414,Fevereiro,Filial Sul,3518
+47cc3e94,Marco,Filial Nordeste,3019
+a5a0f00e,Janeiro,Filial Sul,3191
+fa458069,Fevereiro,Filial Nordeste,2762
+72810405,Janeiro,Matriz,956
+139e1518,Marco,Filial Nordeste,335
+e55de2f2,Outubro,Filial Sul,4547
+06cf62b7,Setembro,Filial Norte,3883
+f1b5214e,Outubro,Matriz,1633
+9bca760a,Fevereiro,Filial Sul,1405
+d3b00d8e,Outubro,Matriz,903
+9e183418,Outubro,Filial Nordeste,4905
+12e164f2,Dezembro,Filial Nordeste,4637
+2b24ef26,Abril,Filial Sul,4286
+a9d8ef9e,Outubro,Filial Norte,4604
+3182b2a9,Julho,Matriz,4521
+bab7f31a,Novembro,Filial Sul,115
+35a50fcb,Novembro,Filial Sul,3724
+d504af92,Setembro,Filial Sul,4084
+89fbe724,Fevereiro,Filial Sul,1007
+a7f7de78,Julho,Filial Sul,2856
+b93fcddf,Setembro,Matriz,965
+9a48d9c6,Agosto,Filial Sul,3936
+3a362182,Junho,Matriz,4747
+2c162826,Novembro,Filial Sul,493
+5de5514e,Abril,Filial Norte,2472
+a686fd91,Maio,Filial Norte,4490
+20d060b6,Julho,Filial Nordeste,2160
+2dd2dc6c,Agosto,Filial Norte,565
+7f1ed5ad,Agosto,Matriz,2835
+ba959586,Junho,Filial Sul,225
+647d18ab,Novembro,Matriz,1731
+80ff62a1,Fevereiro,Filial Nordeste,2498
+59f1eb47,Julho,Filial Nordeste,3557
+b5dded00,Setembro,Matriz,1411
+2d281155,Dezembro,Filial Nordeste,3169
+571aa8f4,Abril,Filial Nordeste,950
+94b04040,Outubro,Matriz,425
+28e29ca4,Junho,Filial Norte,1796
+6aae9f6b,Janeiro,Matriz,277
+aebcab98,Setembro,Filial Nordeste,4476
+46a69c33,Outubro,Filial Sul,837
+5285fbad,Dezembro,Filial Sul,4294
+81123777,Marco,Matriz,3399
+073751d9,Dezembro,Filial Norte,1560
+a3998f1c,Agosto,Filial Norte,4370
+6526e1cc,Outubro,Filial Nordeste,4929
+f90aaf5b,Junho,Matriz,1977
+85f9e729,Janeiro,Filial Norte,4536
+2a43b3c1,Abril,Matriz,3108
+52e53faf,Maio,Filial Sul,4996
+e0fc687c,Junho,Matriz,3213
+8e64e8dd,Outubro,Filial Norte,1754
+8682ec11,Dezembro,Filial Norte,3189
+d3bad464,Marco,Filial Nordeste,3493
+72223e03,Outubro,Filial Sul,4127
+8a43688e,Novembro,Filial Sul,151
+891b2f5d,Julho,Filial Norte,4235
+b7e122b3,Novembro,Filial Nordeste,2807
+0196404d,Maio,Filial Sul,2216
+9f2384ae,Junho,Filial Norte,4742
+d12bb928,Setembro,Filial Norte,4687
+fd070bc6,Junho,Matriz,2209
+7ea1ebd6,Agosto,Filial Norte,2035
+7c5c4691,Agosto,Filial Nordeste,714
+5c2acc51,Maio,Filial Nordeste,771
+96ea54df,Julho,Filial Nordeste,1502
+f22e97c2,Marco,Filial Norte,1685
+3c73ddc0,Maio,Filial Sul,2407
+cbaba0df,Setembro,Filial Norte,1770
+1b058065,Setembro,Filial Sul,1679
+99cffb96,Novembro,Filial Sul,4217
+dc318c2b,Outubro,Filial Nordeste,3475
+0e14802e,Fevereiro,Filial Nordeste,4487
+a957e29c,Outubro,Matriz,596
+c15f34eb,Fevereiro,Filial Sul,686
+84633574,Janeiro,Filial Sul,713
+cd0d20ed,Maio,Filial Sul,4004
+b01bc8ea,Agosto,Filial Norte,870
+c952e065,Setembro,Filial Sul,4236
+f64f976a,Fevereiro,Filial Nordeste,2915
+987dcabc,Setembro,Filial Sul,189
+8c5159b7,Novembro,Filial Nordeste,1814
+5577f095,Abril,Filial Norte,3007
+45fa4272,Abril,Filial Nordeste,3273
+3742a85d,Dezembro,Matriz,4949
+81ea103c,Julho,Filial Norte,4609
+a3bc76d5,Janeiro,Filial Norte,674
+1285de3b,Dezembro,Matriz,3938
+881e29f7,Julho,Matriz,3952
+36a39641,Julho,Filial Nordeste,282
+048c62ce,Novembro,Matriz,1912
+3e9b0291,Agosto,Matriz,2968
+3152ad32,Dezembro,Filial Norte,1745
+b909a92f,Fevereiro,Filial Norte,3947
+591aba94,Outubro,Filial Norte,942
+b6bc3fcf,Julho,Filial Nordeste,4049
+cdd436c7,Setembro,Filial Nordeste,2389
+a400e78c,Agosto,Matriz,3291
+0d1ea1e3,Julho,Matriz,2080
+a32e9a1b,Marco,Filial Nordeste,907
+df9c04c3,Setembro,Filial Norte,1967
+69979329,Novembro,Filial Norte,3296
+f5f02325,Junho,Filial Norte,3433
+5d6d84b8,Julho,Filial Nordeste,943
+d6302c28,Setembro,Filial Nordeste,430
+240f86de,Abril,Filial Sul,3761
+93e200a7,Abril,Matriz,1398
+1ca87d69,Outubro,Matriz,138
+ced7a673,Junho,Filial Nordeste,2589
+8263fc27,Fevereiro,Filial Sul,3548
+04c3a1e3,Abril,Filial Sul,2401
+4652b322,Junho,Matriz,4336
+f2406956,Janeiro,Matriz,2832
+1aa9137c,Abril,Filial Norte,1304
+1141a51d,Agosto,Matriz,2853
+ef8836cc,Fevereiro,Filial Norte,1852
+c748c05d,Marco,Filial Norte,1837
+a28b689d,Novembro,Filial Sul,4417
+16c87599,Agosto,Matriz,917
+44658e0f,Agosto,Filial Sul,2132
+eb0fc822,Novembro,Filial Norte,2017
+7c5c5f76,Maio,Filial Sul,1187
+338889cb,Junho,Filial Sul,4780
+4a740d6d,Dezembro,Filial Nordeste,3263
+8e87387f,Novembro,Filial Norte,1733
+2600f89e,Agosto,Filial Nordeste,756
+78999441,Outubro,Filial Sul,3440
+702d0978,Janeiro,Filial Sul,1501
+eee46658,Junho,Filial Nordeste,4801
+e11df4d7,Maio,Filial Norte,727
+c6fd1c88,Novembro,Filial Norte,3270
+091422c3,Agosto,Matriz,755
+42f697a1,Junho,Matriz,1450
+1cc45e9b,Julho,Filial Norte,4166
+30a66fe4,Dezembro,Matriz,1093
+089e582a,Novembro,Matriz,1777
+f2fc0da5,Agosto,Filial Norte,1389
+5ae307b7,Junho,Filial Sul,1718
+10e86a3e,Junho,Filial Nordeste,4894
+a30b728a,Maio,Filial Norte,2329
+867798cc,Marco,Filial Norte,264
+7ee10e0b,Abril,Matriz,1410
+f519f982,Fevereiro,Filial Norte,1220
+7a1bdb92,Dezembro,Filial Norte,1685
+0a3f3813,Maio,Filial Norte,3874
+d58bf85c,Setembro,Matriz,3928
+cf64b2e3,Junho,Filial Norte,566
+1646a333,Fevereiro,Filial Sul,956
+270c8956,Novembro,Filial Sul,1263
+984dca33,Janeiro,Filial Norte,4724
+5dec552a,Junho,Filial Norte,1632
+585cba8c,Agosto,Filial Nordeste,3079
+c8b947bc,Setembro,Filial Sul,3086
+2df63ece,Novembro,Filial Nordeste,1207
+23346d56,Junho,Filial Nordeste,1776
+3a2eb9a9,Agosto,Filial Sul,723
+78ddb14d,Maio,Filial Nordeste,933
+9765f1b3,Agosto,Filial Sul,4449
+f81e182e,Setembro,Matriz,227
+f41b5801,Dezembro,Filial Sul,728
+c690d24e,Setembro,Filial Sul,1612
+a21ab239,Junho,Filial Norte,1704
+a97b6082,Fevereiro,Filial Sul,1048
+38f0841b,Julho,Matriz,3203
+b6dd441a,Agosto,Filial Nordeste,694
+a31d6bda,Abril,Filial Nordeste,878
+47810611,Agosto,Filial Norte,2961
+47b1fef0,Agosto,Filial Nordeste,1746
+cae3041e,Julho,Filial Sul,1813
+624ac41d,Dezembro,Filial Nordeste,1364
+b73bae99,Novembro,Filial Sul,213
+68fe1544,Abril,Filial Norte,4925
+237fde12,Junho,Matriz,2691
+d0d3c17a,Outubro,Filial Norte,491
+f8e8d381,Julho,Matriz,4477
+89bc4c73,Abril,Filial Norte,2061
+95e4c44c,Setembro,Matriz,2636
+68a36c8a,Janeiro,Matriz,4993
+0a7a49c9,Novembro,Filial Nordeste,2594
+aab391c0,Maio,Filial Norte,1080
+bc3f19b2,Agosto,Filial Nordeste,3613
+ce7c1531,Marco,Filial Nordeste,4449
+3be0cf62,Marco,Matriz,753
+0143673f,Marco,Filial Sul,2312
+b4cda1cc,Maio,Filial Nordeste,3249
+59375f2f,Abril,Filial Norte,1445
+589df57c,Outubro,Filial Sul,389
+f04f7995,Maio,Filial Norte,2358
+4f21e910,Janeiro,Matriz,1382
+fcb5ff1f,Marco,Filial Norte,2164
+d6b48269,Novembro,Filial Norte,1825
+d4917161,Marco,Filial Norte,3128
+86eb31dd,Outubro,Filial Sul,3883
+aabd0a65,Maio,Matriz,259
+52221a8a,Marco,Filial Nordeste,4295
+e20b5829,Marco,Filial Norte,3121
+6dbc253e,Abril,Filial Nordeste,1088
+1ad2f42f,Fevereiro,Matriz,1628
+43e88c44,Julho,Matriz,4026
+4af992fb,Agosto,Matriz,1496
+8b9c0fa2,Dezembro,Filial Sul,3169
+b5aec633,Agosto,Matriz,562
+4e5402db,Agosto,Filial Nordeste,814
+8e190212,Maio,Matriz,588
+e389abf7,Maio,Matriz,844
+036677e5,Outubro,Matriz,289
+ab3eb312,Novembro,Filial Nordeste,852
+534233b3,Dezembro,Filial Norte,1319
+70778c96,Maio,Filial Norte,4168
+1c9f783b,Julho,Filial Sul,1141
+b9b1db55,Dezembro,Filial Norte,545
+97b4a859,Maio,Filial Norte,1358
+6e987320,Janeiro,Filial Norte,4590
+35791ef9,Marco,Filial Sul,3089
+6ad7b883,Novembro,Filial Nordeste,1681
+806828a2,Junho,Filial Nordeste,4279
+666809f4,Janeiro,Filial Norte,4189
+91ed59b5,Dezembro,Matriz,4003
+e111d9db,Setembro,Filial Norte,4674
+de71d8e5,Fevereiro,Matriz,3863
+6a4d90d0,Julho,Matriz,455
+d118eb6e,Abril,Filial Nordeste,318
+482992b4,Outubro,Filial Sul,252
+2bc779d2,Outubro,Matriz,3971
+dcbce6be,Marco,Filial Sul,803
+a0699dc2,Maio,Matriz,2174
+16ec1421,Setembro,Filial Nordeste,3884
+c0c8243d,Marco,Filial Nordeste,484
+753b50db,Fevereiro,Filial Norte,257
+9bc3b608,Janeiro,Filial Nordeste,4185
+6bc7859d,Dezembro,Filial Nordeste,151
+d07d6883,Dezembro,Filial Sul,1257
+166c910b,Dezembro,Filial Sul,2247
+55be8740,Setembro,Filial Nordeste,4578
+6f5cdadc,Junho,Filial Nordeste,4854
+32fae794,Agosto,Filial Norte,1277
+09e6ae21,Maio,Filial Sul,3892
+e6d03fbb,Agosto,Filial Norte,182
+a3b1459a,Abril,Filial Norte,2024
+04aa4d41,Fevereiro,Filial Nordeste,4079
+a8ca6635,Agosto,Filial Nordeste,1039
+a98cf182,Setembro,Filial Norte,1094
+32d6a416,Fevereiro,Matriz,4471
+48b766ba,Janeiro,Filial Nordeste,4491
+8c99fd97,Outubro,Filial Nordeste,1200
+bffc2e56,Setembro,Filial Norte,1338
+35a7f844,Julho,Matriz,910
+21c059a1,Maio,Matriz,4113
+db3b907e,Novembro,Matriz,4044
+1d691ae0,Maio,Filial Sul,4986
+4bbb1170,Novembro,Filial Sul,751
+c93aa322,Julho,Filial Nordeste,432
+bbdbb18f,Marco,Filial Norte,2990
+9a34ec14,Setembro,Filial Norte,489
+a3e9582b,Fevereiro,Matriz,4318
+fe42bc28,Agosto,Filial Sul,4153
+c51afb66,Abril,Matriz,3756
+0b2fbb66,Dezembro,Filial Nordeste,2313
+cacdaab4,Dezembro,Filial Norte,1866
+1dd49569,Outubro,Matriz,4461
+b4a09d3f,Junho,Matriz,1626
+677d1fed,Maio,Matriz,1152
+eca8ab0d,Novembro,Filial Norte,3736
+a7d7e2be,Abril,Matriz,3502
+16c4a60b,Dezembro,Filial Norte,3453
+8d88f54c,Janeiro,Filial Nordeste,1537
+7ad9e5f1,Julho,Filial Nordeste,3051
+e53a6de0,Marco,Filial Nordeste,1830
+700137eb,Novembro,Matriz,3335
+854bf50d,Janeiro,Filial Sul,2034
+86d29786,Abril,Filial Nordeste,2089
+dee5e681,Setembro,Filial Sul,872
+8c08ae62,Maio,Matriz,4979
+81156564,Novembro,Filial Sul,3509
+3fddcdd3,Julho,Filial Sul,2592
+6403ef02,Junho,Filial Sul,3713
+20f36d6a,Abril,Filial Sul,1720
+bb147c1a,Setembro,Filial Sul,593
+787bacae,Dezembro,Filial Nordeste,3084
+a29665ff,Agosto,Matriz,1135
+e0e82459,Julho,Filial Sul,4857
+87774622,Fevereiro,Filial Sul,1656
+7e0127df,Fevereiro,Filial Nordeste,2051
+f361996f,Junho,Matriz,2456
+c62d6461,Maio,Filial Sul,4643
+f2eaead0,Junho,Matriz,3871
+452de5e1,Outubro,Filial Norte,3277
+2d8fc6a6,Novembro,Filial Sul,4099
+796b49c7,Julho,Matriz,3650
+fc6a5a0a,Janeiro,Filial Norte,2365
+6850dffc,Maio,Filial Nordeste,1945
+9a841ada,Dezembro,Filial Norte,1602
+14937b8a,Novembro,Filial Nordeste,3791
+05cce241,Julho,Filial Sul,4492
+4394189b,Setembro,Matriz,4865
+41bd2fb3,Janeiro,Filial Sul,4372
+57c3534d,Julho,Filial Sul,4784
+e18b2cbc,Outubro,Filial Nordeste,3871
+f99b56b0,Dezembro,Filial Norte,1151
+4c8ca730,Julho,Filial Norte,999
+066e465d,Outubro,Filial Nordeste,4202
+14c8d6ae,Maio,Matriz,471
+b5ab965b,Agosto,Filial Nordeste,3477
+2b1e7878,Janeiro,Filial Nordeste,1323
+a36637ed,Janeiro,Filial Sul,1784
+bbc942cb,Junho,Filial Sul,713
+33f6ce52,Fevereiro,Filial Sul,1506
+3cfb70e7,Dezembro,Filial Nordeste,4997
+40534e55,Julho,Matriz,3911
+25222e92,Dezembro,Matriz,3784
+a4924748,Junho,Filial Norte,4203
+613050d5,Setembro,Matriz,1442
+e7343be8,Setembro,Filial Nordeste,2995
+642cb3cf,Outubro,Matriz,504
+d833a7df,Janeiro,Filial Norte,4830
+de85733b,Agosto,Filial Nordeste,291
+b5a4d6b8,Abril,Filial Nordeste,670
+d6274510,Maio,Filial Sul,2107
+27866ca1,Julho,Filial Nordeste,3380
+7b9c78c0,Outubro,Matriz,3614
+791257d2,Novembro,Filial Sul,2328
+fe97bfc0,Agosto,Filial Sul,1871
+54dfe549,Outubro,Filial Norte,3936
+3df62bb5,Julho,Matriz,4565
+43acc6e8,Agosto,Filial Nordeste,3092
+fb12d2a2,Maio,Filial Norte,1682
+aca3bd98,Janeiro,Filial Sul,2729
+5d12b6fe,Junho,Filial Norte,1214
+a6432149,Dezembro,Filial Norte,4002
+492ee96f,Janeiro,Filial Nordeste,3417
+98047128,Agosto,Filial Nordeste,3718
+7daa6276,Junho,Filial Norte,2821
+2541622d,Setembro,Matriz,646
+b79f01e9,Outubro,Filial Norte,1877
+eb93b344,Fevereiro,Filial Nordeste,2844
+b7b41de7,Outubro,Filial Nordeste,2660
+d6252e93,Dezembro,Filial Nordeste,3146
+1f48c090,Setembro,Matriz,3011
+d3e81d2b,Setembro,Filial Sul,1319
+ccece43b,Setembro,Filial Nordeste,3167
+a374ca32,Marco,Filial Nordeste,4577
+f2fea766,Dezembro,Filial Norte,4425
+d2a9f00f,Outubro,Filial Norte,4712
+4eabc678,Julho,Filial Nordeste,3151
+cef72bb8,Maio,Filial Sul,738
+5b99b633,Agosto,Filial Sul,2617
+0d1cfa05,Maio,Filial Sul,2948
+aee27ad5,Maio,Filial Sul,4450
+f21bda81,Dezembro,Filial Sul,3775
+a262152f,Abril,Filial Nordeste,4169
+e4e70169,Dezembro,Matriz,1337
+03fc59eb,Maio,Matriz,4302
+96e8d048,Abril,Filial Nordeste,3854
+03f6f0f0,Setembro,Filial Sul,1010
+0971a96c,Abril,Matriz,978
+ec1d2189,Fevereiro,Filial Norte,3614
+7c258a10,Outubro,Filial Sul,3270
+4774576c,Outubro,Filial Sul,430
+207ddd2a,Marco,Filial Nordeste,1010
+07df68d4,Fevereiro,Filial Norte,2076
+92c147f7,Outubro,Filial Norte,2281
+56622448,Dezembro,Filial Norte,1108
+d657730f,Agosto,Filial Nordeste,465
+3bfcc82d,Janeiro,Filial Norte,1868
+908106b4,Dezembro,Filial Nordeste,3011
+dbde80aa,Abril,Filial Norte,3329
+c506ad5d,Julho,Matriz,1590
+81667a5e,Dezembro,Filial Nordeste,2415
+b84ab7e4,Outubro,Filial Sul,467
+35e37287,Novembro,Filial Sul,1578
+22ef3bc0,Junho,Matriz,632
+91f5a812,Junho,Filial Norte,4601
+fa066b58,Julho,Matriz,4464
+0518d365,Abril,Filial Norte,1810
+7d89a9ff,Outubro,Filial Norte,792
+f3b31498,Marco,Filial Sul,4084
+8e2006a8,Junho,Filial Sul,176
+f62ea0a4,Marco,Filial Nordeste,2754
+8a08d936,Novembro,Filial Nordeste,384
+4c8c24dc,Junho,Filial Nordeste,397
+105d2bb7,Marco,Matriz,1521
+0c0d93cf,Setembro,Filial Nordeste,4390
+7b5dd295,Outubro,Filial Nordeste,448
+7119756c,Maio,Filial Norte,2007
+662b0666,Agosto,Filial Sul,3428
+b20ab4a4,Fevereiro,Matriz,2042
+02968c19,Julho,Filial Norte,577
+090b29d2,Marco,Filial Nordeste,2281
+f751f7c9,Outubro,Filial Sul,3793
+a0233744,Fevereiro,Filial Norte,1917
+050391de,Fevereiro,Filial Nordeste,2018
+0ce0ac4b,Outubro,Filial Sul,2829
+20ed380b,Janeiro,Filial Norte,822
+7d27b987,Novembro,Matriz,166
+a1d59b8a,Julho,Matriz,243
+a29fa949,Abril,Matriz,1607
+7828707d,Marco,Filial Norte,223
+cf223db0,Setembro,Filial Nordeste,2449
+37166647,Novembro,Matriz,2280
+a775f9b1,Julho,Filial Norte,4495
+a01ab30f,Maio,Matriz,4608
+5b80e880,Maio,Filial Nordeste,3652
+1987d60e,Maio,Matriz,2862
+6f012f06,Abril,Filial Norte,1402
+84e4ffa4,Janeiro,Filial Nordeste,1814
+3b7a299b,Dezembro,Filial Norte,4357
+ac8f88ae,Maio,Matriz,4337
+f9ab11ae,Novembro,Filial Sul,1950
+3b9627dc,Julho,Filial Sul,4040
+efb24b27,Setembro,Matriz,950
+6d63255f,Agosto,Filial Norte,176
+102479d8,Setembro,Matriz,685
+2b74dc7c,Marco,Matriz,4221
+96aa8428,Junho,Matriz,2396
+1efe70a0,Novembro,Filial Nordeste,4313
+8af118e9,Junho,Filial Sul,4839
+dbb2e911,Dezembro,Filial Sul,4609
+7ff76e98,Agosto,Filial Norte,3458
+dfd4c5b4,Outubro,Filial Sul,3430
+eb84dfe8,Outubro,Filial Nordeste,884
+cf43527c,Fevereiro,Filial Sul,3538
+f31d2420,Marco,Filial Sul,4740
+71613b0c,Fevereiro,Matriz,3232
+864cf54a,Dezembro,Filial Sul,4491
+25894a5b,Junho,Filial Sul,1685
+36fd1fa3,Outubro,Matriz,2979
+e3bb669d,Outubro,Matriz,1493
+177e3eba,Junho,Filial Nordeste,213
+73ceef3b,Janeiro,Filial Nordeste,1818
+b709d86b,Maio,Filial Norte,1092
+ab594f28,Setembro,Filial Sul,3444
+9fd4e6bf,Marco,Filial Norte,2177
+ee5e18c4,Janeiro,Filial Norte,4060
+4f562bc3,Novembro,Filial Sul,3707
+8d3299d1,Marco,Filial Nordeste,588
+32229740,Maio,Filial Norte,2531
+d60e639b,Outubro,Filial Nordeste,2925
+1a3fd525,Fevereiro,Filial Sul,4713
+8fe3ad7d,Novembro,Filial Nordeste,792
+2e07dfee,Janeiro,Matriz,374
+391a95eb,Janeiro,Matriz,747
+33dd30b9,Abril,Filial Nordeste,447
+1c0addc2,Setembro,Filial Sul,404
+db7439c8,Janeiro,Matriz,859
+64eea483,Julho,Filial Sul,4826
+94eface1,Maio,Filial Nordeste,4413
+76377fd0,Fevereiro,Matriz,4965
+a88adefa,Abril,Filial Norte,3660
+249c7ef3,Julho,Filial Nordeste,581
+2df5baf8,Outubro,Filial Nordeste,3212
+d548a5f4,Fevereiro,Matriz,156
+a664b80d,Marco,Filial Nordeste,4498
+8d7d3069,Agosto,Filial Sul,4156
+792e8db0,Dezembro,Filial Nordeste,877
+2a9e350d,Fevereiro,Matriz,465
+6fac3aaf,Dezembro,Filial Nordeste,3907
+0c539df3,Outubro,Filial Nordeste,4719
+b0b23ad8,Novembro,Matriz,978
+777b8949,Maio,Filial Norte,371
+50db34fd,Junho,Matriz,4237
+bf467e59,Abril,Matriz,303
+1e0e9de5,Julho,Filial Norte,131
+605c638e,Marco,Matriz,2903
+9650938a,Outubro,Filial Norte,513
+6f4942c8,Julho,Matriz,1461
+c9bd416e,Agosto,Filial Sul,4739
+4678192e,Marco,Matriz,4198
+d1edcca8,Novembro,Filial Nordeste,3996
+e2a32d79,Julho,Filial Nordeste,1519
+485281ac,Julho,Filial Norte,4052
+b636be0f,Julho,Filial Norte,2461
+445a8c1c,Marco,Matriz,338
+fbfdb065,Abril,Filial Norte,630
+05d5c5ca,Fevereiro,Filial Sul,3000
+1d8a8bac,Junho,Filial Sul,3192
+e50d80da,Dezembro,Matriz,151
+f688000e,Abril,Filial Sul,2204
+c68d26cd,Maio,Filial Nordeste,3438
+a625e147,Outubro,Filial Sul,3615
+8351e442,Fevereiro,Filial Norte,4765
+23d5f396,Maio,Filial Sul,996
+29295ac2,Setembro,Filial Norte,4536
+a5ed6675,Abril,Filial Sul,2332
+e78ba676,Fevereiro,Filial Norte,179
+cd464daf,Abril,Filial Sul,3411
+14808473,Dezembro,Filial Norte,4238
+073b0061,Novembro,Filial Nordeste,205
+dc82d99d,Setembro,Matriz,3251
+0e68caa7,Novembro,Filial Sul,3102
+1af3295e,Agosto,Filial Norte,2005
+85fc8e50,Junho,Filial Norte,566
+5ef3a893,Maio,Matriz,2278
+ad959d8b,Novembro,Filial Sul,1464
+9e3f60d9,Marco,Filial Norte,3530
+850fc7ee,Setembro,Filial Sul,4497
+effe096f,Outubro,Filial Nordeste,1593
+f297b605,Junho,Matriz,2419
+db58b78d,Novembro,Matriz,1663
+bcdd2ec4,Fevereiro,Matriz,3455
+4d949215,Dezembro,Matriz,902
+ee83fa06,Maio,Filial Nordeste,824
+b17fbe81,Marco,Matriz,4392
+d88b3e97,Outubro,Filial Nordeste,1997
+551201e5,Agosto,Matriz,1763
+857fe962,Janeiro,Filial Nordeste,357
+13d3c41e,Junho,Filial Sul,3070
+9e50e826,Dezembro,Matriz,3340
+150a5801,Dezembro,Filial Norte,4706
+0928bc54,Julho,Filial Nordeste,3350
+44107537,Marco,Matriz,692
+100825ad,Marco,Filial Sul,3108
+60dbef31,Agosto,Filial Nordeste,4209
+ee749ad4,Agosto,Matriz,4496
+6bcb63d8,Outubro,Filial Norte,568
+fa378b20,Novembro,Filial Norte,1850
+8b5890ab,Janeiro,Filial Nordeste,1837
+93e05c22,Setembro,Filial Norte,3941
+8dbf88c4,Setembro,Matriz,1600
+66e258d6,Abril,Filial Nordeste,815
+bc665970,Julho,Filial Nordeste,1682
+3d976519,Janeiro,Matriz,4981
+eeac52f2,Outubro,Filial Sul,4030
+c57af2b3,Novembro,Filial Norte,3629
+e1522e67,Outubro,Filial Norte,2243
+7e3de9e0,Dezembro,Filial Norte,4458
+470d6d69,Outubro,Filial Sul,3776
+b1214874,Novembro,Filial Sul,1877
+19e5514b,Novembro,Filial Nordeste,279
+86a4d131,Marco,Filial Sul,1750
+e43e7a44,Fevereiro,Filial Sul,1679
+a4070c6d,Julho,Filial Nordeste,3195
+b2bfb888,Marco,Matriz,734
+3cefa163,Julho,Filial Nordeste,2170
+8197591e,Junho,Filial Sul,2398
+0deebb37,Julho,Filial Sul,1850
+539eae01,Marco,Filial Sul,4098
+f34b49d4,Junho,Filial Norte,3738
+3f936e3f,Marco,Filial Sul,1931
+64c84904,Dezembro,Filial Nordeste,2851
+c25b7379,Fevereiro,Filial Norte,2113
+d757d25e,Novembro,Matriz,2742
+d491ebe5,Abril,Filial Nordeste,2756
+ce9612f9,Novembro,Matriz,3761
+6d8b9b97,Agosto,Filial Norte,4762
+ebc2df26,Marco,Filial Sul,3898
+b0655349,Fevereiro,Filial Norte,2660
+d1b547b7,Setembro,Filial Norte,427
+2c112fc3,Fevereiro,Matriz,2278
+f7805167,Outubro,Matriz,2748
+c7901e0b,Janeiro,Filial Nordeste,3674
+9c091e07,Novembro,Filial Norte,2675
+2ac117a3,Fevereiro,Filial Nordeste,4440
+0e2b5467,Junho,Filial Nordeste,4543
+3c21c174,Abril,Filial Norte,2953
+758f831c,Novembro,Filial Norte,3561
+29b9436d,Outubro,Matriz,1795
+9a2a7621,Fevereiro,Filial Norte,2779
+ddaa39a8,Agosto,Filial Sul,2452
+b01fd07a,Junho,Filial Sul,4679
+7c8a998f,Dezembro,Filial Norte,1134
+307f36ab,Janeiro,Matriz,1124
+9f003d7d,Dezembro,Filial Nordeste,2675
+accf8286,Outubro,Filial Norte,1937
+2a6aca1e,Fevereiro,Filial Nordeste,2369
+d7f8a07f,Maio,Filial Norte,4141
+045fe3ed,Janeiro,Matriz,2124
+60d097f4,Janeiro,Filial Nordeste,1471
+14ee59aa,Abril,Matriz,1799
+ff99acaa,Janeiro,Matriz,3351
+f5561300,Setembro,Matriz,4964
+df778393,Novembro,Filial Sul,4195
+bef877be,Julho,Filial Norte,106
+729c8996,Junho,Filial Norte,3786
+7f25d82c,Junho,Filial Norte,1147
+0eeb1130,Maio,Filial Nordeste,393
+45f3b9a2,Setembro,Matriz,2932
+b1553783,Julho,Matriz,3131
+26cef6e4,Junho,Filial Sul,706
+e34ed5bc,Abril,Filial Nordeste,4448
+d3537159,Marco,Filial Sul,767
+cfa057ce,Setembro,Filial Sul,1402
+f792326b,Fevereiro,Filial Norte,2396
+782c6f74,Abril,Filial Norte,3447
+a2689f8d,Janeiro,Filial Norte,4995
+7e2b3240,Abril,Filial Nordeste,4762
+3bea1029,Janeiro,Filial Sul,170
+7dd68769,Agosto,Matriz,345
+458b8799,Maio,Filial Norte,2130
+08017fc4,Julho,Matriz,2668
+c6aaddfd,Marco,Matriz,2655
+8ed56171,Setembro,Matriz,4676
+05558622,Janeiro,Filial Norte,4753
+da9cdb23,Abril,Filial Norte,1882
+c943f255,Abril,Matriz,3354
+c171887d,Janeiro,Filial Sul,1110
+17bcb9dc,Janeiro,Filial Norte,4843
+92024ed9,Novembro,Filial Sul,4531
+98e76234,Maio,Filial Norte,3308
+4d83082e,Janeiro,Filial Norte,292
+7273b6e0,Dezembro,Filial Sul,4717
+00da83b8,Janeiro,Filial Sul,2068
+549fc15d,Agosto,Matriz,1325
+30090ff5,Abril,Filial Nordeste,883
+b1580208,Junho,Filial Nordeste,1457
+6184717d,Janeiro,Matriz,1698
+4d0736f6,Fevereiro,Filial Sul,2260
+084b8d94,Dezembro,Filial Norte,452
+f6e47099,Maio,Matriz,1279
+a3011575,Maio,Filial Nordeste,4724
+7ab9d8d1,Agosto,Filial Norte,3047
+8be5fc7f,Dezembro,Matriz,2492
+78265029,Junho,Filial Sul,302
+d51a442b,Abril,Filial Norte,1503
+95294cb7,Outubro,Matriz,4762
+81cab4b6,Marco,Matriz,3324
+6ab43e90,Dezembro,Filial Norte,1135
+02b284d4,Abril,Filial Sul,3394
+4aaf11b1,Outubro,Filial Nordeste,3180
+b88f5394,Setembro,Filial Sul,4278
+9137fa2f,Outubro,Matriz,2850
+b387ff39,Setembro,Filial Sul,2458
+a7dc05c8,Setembro,Filial Norte,4839
+1813f516,Julho,Matriz,3145
+96782905,Agosto,Filial Sul,2713
+968bbd07,Outubro,Matriz,1631
+b2155ec4,Dezembro,Matriz,4792
+86bf2470,Fevereiro,Filial Nordeste,4855
+8df7b536,Junho,Filial Nordeste,2455
+d92bdca5,Dezembro,Filial Norte,4862
+184e01d3,Julho,Filial Sul,2094
+7f923f99,Abril,Filial Sul,4945
+8c471f21,Outubro,Filial Nordeste,1963
+ae233823,Junho,Filial Nordeste,704
+9cef4538,Outubro,Filial Norte,1686
+f959715d,Maio,Filial Sul,1545
+e1924555,Novembro,Filial Sul,2824
+4780f39b,Julho,Filial Nordeste,3150
+547264e6,Junho,Filial Sul,1680
+efd68164,Outubro,Filial Sul,1452
+71fb2ebc,Outubro,Filial Sul,2678
+15a841d3,Abril,Filial Nordeste,1227
+315303b0,Marco,Filial Sul,342
+3b0d655f,Maio,Filial Norte,4780
+2089c47b,Julho,Filial Nordeste,3342
+a6a8cdbf,Fevereiro,Filial Nordeste,1077
+f0a016c0,Junho,Filial Nordeste,2064
+ec6f8ff1,Novembro,Filial Nordeste,502
+a4f4b79c,Outubro,Filial Sul,3565
+423b9054,Marco,Matriz,1522
+db90f911,Dezembro,Filial Norte,1676
+e6baea34,Julho,Filial Sul,4947
+c0c1b16e,Fevereiro,Filial Norte,1731
+29af6508,Fevereiro,Filial Sul,1948
+f9f23207,Dezembro,Filial Nordeste,188
+c45948e0,Fevereiro,Filial Nordeste,2563
+ffb7a8b2,Julho,Filial Nordeste,4594
+f2884c82,Dezembro,Matriz,3816
+cbaa45ec,Julho,Filial Sul,4191
+49691c96,Maio,Filial Nordeste,4639
+f2989eae,Dezembro,Filial Sul,4960
+822c8a4a,Outubro,Filial Nordeste,1924
+29d9714d,Maio,Filial Nordeste,3056
+7e4917df,Janeiro,Filial Norte,1142
+611f3f93,Julho,Matriz,149
+99f98d16,Maio,Filial Sul,3172
+3583e2e1,Marco,Filial Sul,2180
+fbac1ee6,Dezembro,Matriz,4449
+fc99b11f,Marco,Filial Sul,4225
+aea4963d,Maio,Filial Norte,698
+1b19fe43,Abril,Filial Nordeste,4806
+313f8e2f,Junho,Filial Norte,2615
+a4454aaa,Setembro,Matriz,845
+a5a27818,Setembro,Filial Sul,4248
+87f5645c,Fevereiro,Filial Norte,3070
+9d81d226,Abril,Filial Norte,582
+e7f8934f,Junho,Filial Norte,2237
+9c2c1d09,Novembro,Filial Nordeste,942
+c0472b90,Julho,Matriz,3865
+4a8a1bd8,Fevereiro,Matriz,4267
+4f44ae1b,Dezembro,Filial Norte,4766
+4621682a,Novembro,Filial Sul,4415
+454a5e95,Outubro,Filial Nordeste,4994
+d6f794eb,Agosto,Filial Nordeste,600
+ae4c1c0c,Abril,Filial Norte,1967
+e5fb656d,Outubro,Filial Nordeste,3864
+9eec504f,Julho,Matriz,814
+1d8d1673,Setembro,Filial Sul,1407
+a30b3414,Maio,Matriz,1938
+ceed07e2,Janeiro,Filial Norte,3609
+06bfaa6d,Marco,Matriz,645
+fa3601b5,Julho,Matriz,2871
+d539112a,Junho,Filial Norte,2822
+a4cdaf5d,Junho,Filial Norte,1767
+873a180f,Janeiro,Filial Sul,2162
+2bc93d12,Abril,Matriz,2828
+d35bafd8,Outubro,Filial Norte,2756
+267429d7,Julho,Filial Sul,1334
+ba8c8595,Janeiro,Filial Sul,225
+67b5966f,Janeiro,Filial Nordeste,2398
+e32cb8ec,Marco,Filial Norte,3517
+56d6a058,Julho,Filial Nordeste,1880
+b2e702f6,Novembro,Matriz,3947
+627fe507,Dezembro,Matriz,4568
+f0f9eaf7,Agosto,Filial Norte,3717
+8984e821,Fevereiro,Filial Norte,366
+6a99fb77,Dezembro,Matriz,4773
+2c84fabf,Julho,Filial Nordeste,3246
+1fdb2a98,Outubro,Filial Norte,430
+8f4d92c1,Marco,Filial Nordeste,1788
+004edee2,Setembro,Matriz,4763
+e6000169,Junho,Filial Norte,2583
+a0b03169,Junho,Matriz,2160
+9441d899,Maio,Filial Nordeste,1424
+eabab09a,Julho,Filial Norte,3079
+4bd0b86e,Maio,Matriz,3514
+b48717cc,Outubro,Filial Nordeste,1277
+3609dc44,Fevereiro,Filial Norte,2834
+601d2071,Fevereiro,Filial Sul,4293
+b676cb39,Agosto,Filial Norte,3053
+80604280,Junho,Filial Norte,4238
+0bc8fc39,Marco,Matriz,1274
+ed4b1a38,Fevereiro,Filial Norte,1989
+d43d0b5a,Abril,Filial Nordeste,1937
+4a072ef6,Abril,Matriz,1439
+cbba5919,Marco,Filial Sul,4672
+3072c02e,Junho,Filial Nordeste,4213
+c9796f6c,Marco,Filial Nordeste,2248
+3f4581e6,Julho,Matriz,4233
+2b0fcc0f,Junho,Filial Norte,2931
+ebf01761,Fevereiro,Matriz,3654
+3ed07753,Janeiro,Filial Nordeste,4175
+42fc4049,Junho,Matriz,2999
+4fc811a9,Julho,Filial Nordeste,2519
+006b5bb3,Novembro,Filial Sul,2822
+3346ea67,Agosto,Filial Nordeste,4687
+2c9cd8fe,Novembro,Filial Norte,2128
+e3b208cd,Agosto,Filial Norte,204
+bf7b9c82,Junho,Filial Norte,884
+deaf80ba,Fevereiro,Filial Nordeste,2560
+46ae3fc2,Fevereiro,Matriz,1473
+28ac1525,Julho,Filial Norte,1870
+e5a22f02,Agosto,Filial Norte,2822
+b2e05739,Julho,Matriz,3637
+8441f3c0,Julho,Matriz,3824
+faa58e34,Janeiro,Matriz,3376
+05036782,Abril,Matriz,2785
+70d646f1,Fevereiro,Filial Sul,4638
+4ad05c10,Abril,Matriz,3835
+a5d82adb,Fevereiro,Matriz,2537
+185ec03a,Setembro,Matriz,1534
+8ed4ad6b,Fevereiro,Matriz,1210
+3a251394,Janeiro,Filial Norte,2806
+83c7354c,Maio,Filial Nordeste,716
+adaa5995,Dezembro,Filial Nordeste,4463
+7af1bddb,Junho,Filial Norte,1244
+377635cb,Abril,Filial Nordeste,3950
+d1db23bd,Fevereiro,Filial Norte,469
+502e872e,Outubro,Filial Nordeste,2651
+fafa0ef5,Fevereiro,Filial Sul,4284
+47e60f4b,Novembro,Filial Nordeste,3452
+3b441324,Setembro,Filial Nordeste,1321
+783b212c,Outubro,Filial Sul,596
+60a2e772,Maio,Matriz,921
+1a6b7e3f,Novembro,Filial Nordeste,309
+b6bb48f2,Agosto,Filial Norte,4196
+29b7dcb8,Setembro,Filial Nordeste,4831
+3ded5674,Outubro,Matriz,4090
+20291135,Julho,Filial Norte,3026
+3b41f3ef,Junho,Filial Sul,934
+6fcf5a9a,Dezembro,Matriz,1115
+519358f4,Fevereiro,Filial Sul,1788
+71331c89,Julho,Matriz,2670
+fadb1fbe,Marco,Filial Nordeste,431
+7772b0fb,Outubro,Filial Nordeste,4100
+ae6a1406,Agosto,Filial Nordeste,1751
+41cec103,Marco,Filial Norte,151
+eef45eb9,Janeiro,Matriz,641
+1db685a8,Janeiro,Filial Norte,1777
+138be3dd,Julho,Filial Norte,1989
+cffe8a40,Junho,Filial Sul,3333
+4c695910,Junho,Filial Norte,976
+e432a5d3,Marco,Filial Sul,1226
+0d8ceb6f,Janeiro,Matriz,3989
+0dbf119b,Outubro,Filial Sul,4746
+d66dbb52,Marco,Filial Norte,573
+5d2edbef,Julho,Matriz,4816
+4161cace,Setembro,Matriz,3690
+70dc6d7e,Novembro,Filial Nordeste,1002
+7dd36248,Dezembro,Filial Norte,2365
+b74bfe1d,Fevereiro,Matriz,2607
+59724329,Dezembro,Filial Nordeste,4461
+ea7fe1b7,Abril,Filial Nordeste,1261
+034203db,Junho,Filial Sul,2733
+1d2e9e69,Junho,Filial Norte,4219
+ffc4fbb0,Julho,Filial Norte,3980
+b0239c2d,Novembro,Matriz,4943
+d00bbf24,Outubro,Filial Nordeste,2431
+1be97d8f,Fevereiro,Matriz,384
+838d5450,Julho,Filial Sul,436
+2e32a922,Novembro,Filial Sul,3980
+5fda6001,Dezembro,Filial Nordeste,3697
+30cca672,Setembro,Filial Nordeste,1710
+599c0a7c,Setembro,Matriz,3569
+fa8d29fe,Janeiro,Matriz,2809
+5db28599,Janeiro,Matriz,3588
+e3a8fb9b,Fevereiro,Matriz,802
+d4f9a60a,Novembro,Filial Nordeste,4760
+5f3d813b,Janeiro,Filial Sul,2704
+c628cd8d,Abril,Filial Nordeste,3478
+eadd4e10,Janeiro,Filial Norte,1992
+73138b55,Marco,Filial Sul,2913
+1fd30ebe,Junho,Filial Sul,4881
+617739b7,Novembro,Filial Sul,4273
+7fce359f,Junho,Matriz,3805
+8e4f3084,Novembro,Filial Norte,711
+9e0188ac,Fevereiro,Filial Nordeste,391
+f0857a3d,Dezembro,Filial Nordeste,596
+ecba93ec,Julho,Filial Sul,2672
+4523efd8,Janeiro,Filial Norte,1129
+3b266d03,Marco,Filial Norte,4266
+eb60d0ba,Maio,Filial Nordeste,2616
+6b74dfb5,Janeiro,Filial Nordeste,2178
+162ce8b4,Novembro,Matriz,3984
+c4c9b983,Abril,Filial Sul,1474
+ab42c7d7,Agosto,Filial Norte,2517
+7bbc695c,Julho,Filial Norte,4911
+bc2a768b,Maio,Filial Nordeste,3008
+c6ae359f,Novembro,Filial Norte,3080
+cff8c3ea,Junho,Filial Sul,3496
+7132428a,Maio,Filial Nordeste,4162
+f4e8d024,Fevereiro,Matriz,1755
+9ec7c212,Agosto,Filial Nordeste,1145
+d0cc0526,Dezembro,Filial Nordeste,3304
+f9c0e5e0,Abril,Matriz,371
+f690a8a1,Dezembro,Filial Nordeste,4494
+d0c78189,Novembro,Filial Norte,1006
+021125e4,Abril,Filial Norte,2771
+d6f1d947,Marco,Matriz,1152
+a873e519,Marco,Filial Nordeste,1373
+798834ac,Abril,Filial Norte,1839
+7f8f14de,Junho,Filial Nordeste,2700
+e44ed776,Janeiro,Filial Sul,4649
+098d7dc5,Maio,Filial Sul,1759
+68076c85,Dezembro,Filial Sul,334
+746b34fe,Agosto,Filial Sul,4177
+c8fb842e,Maio,Matriz,4046
+2fa75cbd,Abril,Matriz,4374
+d64c4b7b,Agosto,Filial Norte,2557
+08dce81a,Junho,Matriz,4210
+d79deeac,Outubro,Filial Sul,1074
+9d938194,Janeiro,Matriz,1865
+6ad457e9,Abril,Matriz,2749
+6bb51a28,Outubro,Filial Nordeste,233
+f98a96b2,Dezembro,Filial Nordeste,952
+4845279f,Setembro,Filial Sul,4568
+a56a6923,Marco,Matriz,2108
+453f158b,Abril,Matriz,3116
+9ddfe192,Maio,Filial Norte,4440
+e9c65c79,Junho,Filial Norte,2243
+0ff768ab,Dezembro,Filial Nordeste,3574
+3ec2ba76,Abril,Filial Nordeste,3167
+7bb86bbc,Fevereiro,Filial Sul,333
+540507a4,Agosto,Filial Nordeste,3495
+7923ac59,Marco,Filial Norte,2127
+53141cde,Setembro,Filial Nordeste,2726
+b3c5962b,Setembro,Filial Norte,1210
+1d6504a6,Agosto,Filial Norte,4574
+ae286715,Julho,Filial Sul,4421
+86c574d3,Agosto,Filial Norte,1153
+30b1df9e,Novembro,Filial Sul,2755
+9eebaaa4,Abril,Filial Sul,939
+05f4fb11,Janeiro,Matriz,4299
+1f8b9d77,Setembro,Filial Norte,1586
+7ee67761,Janeiro,Filial Sul,2751
+7fd9e41a,Janeiro,Filial Norte,2897
+e84470db,Fevereiro,Filial Norte,3055
+3d34e9ae,Dezembro,Filial Sul,2838
+02abb4d3,Outubro,Filial Nordeste,3980
+72719faf,Novembro,Filial Nordeste,4155
+08cd553c,Maio,Filial Norte,4729
+5169450a,Fevereiro,Filial Nordeste,154
+48dfc03a,Dezembro,Filial Nordeste,3786
+faf5e0e9,Junho,Filial Nordeste,1399
+1e2fd620,Julho,Filial Norte,3379
+54b18eb3,Setembro,Filial Sul,3299
+31541ad4,Janeiro,Filial Nordeste,1135
+77814722,Fevereiro,Matriz,1612
+a8d6f34a,Junho,Filial Nordeste,1977
+f4536052,Novembro,Filial Nordeste,4761
+3f9e4fa7,Outubro,Filial Nordeste,585
+721893fb,Dezembro,Filial Nordeste,885
+8005f99d,Outubro,Filial Norte,1618
+0742bbfc,Dezembro,Filial Sul,3476
+ba6e3398,Janeiro,Filial Norte,3385
+4bc14fbf,Agosto,Filial Sul,3063
+be1b9345,Setembro,Filial Nordeste,1018
+a3b653ad,Junho,Filial Norte,1672
+08db4d59,Agosto,Filial Sul,3158
+9081524c,Outubro,Filial Sul,2372
+4bb28305,Maio,Filial Sul,1206
+48812350,Setembro,Matriz,3659
+715c6d41,Outubro,Matriz,1129
+4ef07c48,Agosto,Matriz,1179
+d19baa85,Abril,Matriz,4387
+1722e9a1,Agosto,Matriz,3298
+6177f34a,Junho,Filial Norte,2682
+3b094dfc,Marco,Filial Sul,4266
+89a0e866,Setembro,Filial Sul,1318
+4cb351be,Marco,Filial Nordeste,1142
+89255011,Setembro,Filial Sul,4737
+10b51533,Abril,Filial Nordeste,2989
+3cc43d43,Novembro,Matriz,3220
+046f79f4,Julho,Filial Nordeste,1166
+755c0d97,Maio,Matriz,2606
+9854fd48,Novembro,Filial Norte,3140
+5ce1d33d,Marco,Filial Sul,413
+3280b436,Setembro,Matriz,3149
+1856cc34,Maio,Matriz,3750
+7f289301,Agosto,Filial Norte,3727
+13825ab4,Fevereiro,Filial Sul,2544
+70eee7b4,Setembro,Filial Nordeste,3773
+88ee6e22,Fevereiro,Filial Norte,4601
+11d186dd,Dezembro,Filial Sul,1667
+c095a693,Dezembro,Matriz,3508
+2a4e0fa1,Julho,Filial Nordeste,3970
+09d24a2a,Dezembro,Filial Sul,4388
+f96b54b6,Junho,Filial Nordeste,4971
+60d38330,Junho,Filial Nordeste,2782
+f08f0997,Junho,Filial Nordeste,3681
+0c3a0205,Marco,Filial Norte,2585
+7855ef81,Maio,Filial Sul,3423
+0e6bdda3,Janeiro,Filial Sul,2442
+a1a77785,Novembro,Filial Nordeste,2677
+e17bf019,Agosto,Filial Sul,3234
+47b54810,Setembro,Filial Norte,1160
+65ccbe1c,Julho,Matriz,2557
+5e07b4c6,Maio,Filial Nordeste,3614
+effdc953,Julho,Matriz,2752
+daa18bc6,Marco,Filial Nordeste,3176
+e2e8cb12,Junho,Matriz,4737
+b8ff00de,Marco,Filial Sul,1106
+005fcc2c,Setembro,Matriz,2775
+8332b062,Maio,Filial Norte,3641
+652a1817,Maio,Filial Nordeste,2683
+a42c6414,Abril,Filial Sul,1641
+91a58354,Novembro,Filial Sul,2013
+30688e48,Junho,Filial Sul,2606
+693f02ec,Setembro,Filial Norte,303
+a02e3cdc,Novembro,Matriz,3181
+175adbc8,Maio,Filial Sul,2439
+56855a42,Outubro,Matriz,2774
+fe14cb15,Novembro,Filial Norte,4919
+cb3de1fb,Janeiro,Matriz,908
+e272a6ab,Abril,Filial Sul,438
+686658ca,Novembro,Filial Norte,3399
+e88330dd,Marco,Filial Nordeste,3243
+fe412809,Outubro,Filial Sul,1776
+48aeff52,Maio,Filial Nordeste,272
+84d4c2de,Fevereiro,Filial Norte,373
+2a92c4da,Abril,Matriz,4436
+8fa6a7e1,Dezembro,Matriz,3203
+7afef0d5,Abril,Filial Nordeste,3061
+547e3bce,Dezembro,Filial Nordeste,2141
+5921d4a7,Fevereiro,Filial Sul,3100
+4cddfc7e,Dezembro,Filial Nordeste,4977
+bb0cc2d9,Abril,Filial Norte,3608
+d855fd58,Fevereiro,Filial Norte,4979
+97ea87d2,Janeiro,Filial Nordeste,3832
+a5a6c936,Outubro,Matriz,4651
+5f750d9e,Dezembro,Filial Nordeste,4973
+bea00f22,Marco,Filial Sul,4900
+bea43918,Julho,Matriz,639
+77d042f8,Outubro,Filial Nordeste,4402
+bed2faf1,Dezembro,Matriz,2748
+3b73417e,Dezembro,Filial Norte,2691
+2346f3f6,Dezembro,Filial Nordeste,4212
+41d4e5f7,Novembro,Filial Norte,2010
+157884a5,Maio,Filial Sul,1895
+8a79821a,Marco,Filial Sul,2271
+0b8df09e,Agosto,Filial Sul,4899
+e7e2647a,Marco,Filial Sul,3577
+e01fd1be,Maio,Filial Nordeste,3449
+0dc74d0c,Outubro,Filial Sul,2229
+36a2a9f0,Maio,Filial Nordeste,3203
+b0125d31,Janeiro,Filial Norte,4938
+9b61aa3d,Agosto,Filial Nordeste,2617
+452e1a3b,Novembro,Filial Nordeste,517
+a6279723,Fevereiro,Filial Sul,1262
+6d576016,Outubro,Matriz,2795
+2642aa88,Marco,Filial Sul,1287
+08233fca,Junho,Filial Norte,1113
+7f63dad0,Setembro,Filial Nordeste,2337
+075b2588,Agosto,Matriz,2906
+c58eab5d,Marco,Matriz,1941
+a837bd54,Julho,Filial Norte,2577
+25fe8896,Janeiro,Filial Nordeste,1105
+d8734624,Janeiro,Filial Sul,355
+a52984d7,Fevereiro,Filial Nordeste,1287
+30af8efd,Fevereiro,Filial Norte,3995
+07e0ae1a,Dezembro,Filial Nordeste,626
+9b201550,Novembro,Filial Nordeste,1818
+2857a48b,Dezembro,Filial Nordeste,552
+3e6aa338,Janeiro,Matriz,2885
+1e73fdc0,Novembro,Matriz,1559
+bec070a8,Julho,Filial Sul,1892
+38982c31,Maio,Filial Nordeste,3790
+07ba9646,Dezembro,Filial Nordeste,4933
+6dbe1e03,Novembro,Filial Norte,4636
+0b09bac6,Maio,Matriz,474
+2872295a,Agosto,Filial Nordeste,744
+c742bbdd,Agosto,Matriz,818
+8a35ec0b,Agosto,Filial Norte,3930
+99349bf8,Janeiro,Matriz,4210
+157b9df5,Setembro,Filial Norte,4787
+f094754f,Abril,Filial Norte,1310
+bef60274,Abril,Matriz,1929
+c08a1836,Fevereiro,Filial Nordeste,2160
+cb2ae82b,Outubro,Filial Norte,1442
+a94989cf,Julho,Filial Sul,2263
+441c7cf2,Novembro,Filial Nordeste,4227
+c5893fda,Setembro,Filial Sul,785
+6113db51,Abril,Matriz,168
+f6e82268,Novembro,Filial Norte,4681
+1b5e373b,Marco,Matriz,4228
+bddce1af,Maio,Filial Nordeste,1079
+f63c3ddd,Junho,Filial Norte,2221
+1e13e581,Marco,Matriz,4241
+54354c5a,Agosto,Filial Nordeste,2002
+aaf9eae9,Abril,Filial Sul,2188
+39edb0f8,Setembro,Filial Sul,2469
+8112efe3,Fevereiro,Filial Norte,562
+5e043c12,Abril,Filial Sul,4126
+4d656d4e,Setembro,Filial Nordeste,3975
+d3a2b2ca,Junho,Filial Nordeste,364
+43d58207,Julho,Filial Nordeste,1686
+f3799ea8,Agosto,Filial Nordeste,2498
+7b9d8eb6,Setembro,Filial Sul,3896
+dc51eaac,Junho,Filial Nordeste,4624
+98b40164,Dezembro,Filial Norte,4157
+40350895,Agosto,Filial Nordeste,561
+0e98aea7,Maio,Filial Norte,456
+b5ca68b2,Maio,Filial Norte,3034
+f3482419,Julho,Filial Norte,689
+adbb96f1,Novembro,Filial Nordeste,4253
+9aea5a26,Maio,Filial Sul,2096
+e43ec446,Setembro,Matriz,4335
+9f8dc7ba,Agosto,Filial Norte,4592
+a7364289,Dezembro,Matriz,3264
+b383b7fd,Maio,Matriz,4980
+321178f5,Janeiro,Filial Nordeste,3917
+2782c3f7,Fevereiro,Matriz,4994
+cd18b91d,Setembro,Filial Sul,2579
+74b0aa81,Marco,Matriz,4532
+675be53e,Julho,Filial Sul,4482
+1373d13a,Julho,Filial Norte,1291
+3ed7ca79,Agosto,Filial Sul,4231
+392c2c63,Outubro,Filial Sul,937
+cee35cef,Julho,Filial Nordeste,3789
+87bea46d,Abril,Filial Nordeste,2821
+133701ef,Novembro,Filial Norte,3259
+613f89f6,Dezembro,Filial Sul,3442
+57926c6c,Agosto,Filial Norte,4867
+b71079c4,Agosto,Filial Norte,2274
+8bcf3ad1,Julho,Filial Norte,590
+c20e4f96,Novembro,Filial Sul,2903
+31d97c5d,Abril,Filial Norte,1705
+3c34ca8c,Agosto,Filial Norte,347
+f00901bd,Maio,Filial Sul,3478
+b70e6f31,Fevereiro,Filial Sul,3683
+966bdbc4,Abril,Filial Norte,619
+dde31c98,Outubro,Matriz,790
+ceb13b9c,Junho,Filial Sul,1628
+0a8eec5e,Junho,Filial Sul,2504
+7c464ab0,Setembro,Filial Nordeste,3439
+d993fee5,Setembro,Filial Nordeste,3529
+9565f295,Outubro,Filial Sul,4575
+597e9a26,Outubro,Filial Norte,795
+bd3fe483,Janeiro,Filial Nordeste,4130
+ec460fdd,Novembro,Filial Norte,1263
+c01b5f11,Marco,Filial Nordeste,2150
+943c43cf,Agosto,Matriz,661
+2a230921,Maio,Filial Sul,2939
+997c57c5,Janeiro,Filial Sul,474
+770d1a54,Dezembro,Filial Sul,1737
+7e377dab,Junho,Filial Nordeste,3015
+014efa46,Maio,Filial Nordeste,4160
+4b331449,Junho,Matriz,4994
+a3208be6,Agosto,Filial Nordeste,1169
+6a4b10f3,Dezembro,Filial Nordeste,1921
+fb5b9759,Fevereiro,Filial Norte,2588
+5ebbfd58,Setembro,Filial Nordeste,1484
+df10f2eb,Janeiro,Matriz,3590
+632aeecb,Abril,Filial Sul,3689
+428590a0,Dezembro,Filial Norte,1098
+90de2f60,Janeiro,Matriz,4383
+57dc70ee,Outubro,Filial Nordeste,3558
+27011d5c,Julho,Matriz,1284
+322cbda8,Agosto,Filial Norte,4583
+4538438a,Marco,Filial Sul,4175
+efa5fb9c,Marco,Filial Norte,2877
+e4d6f7d9,Marco,Matriz,4020
+4aaef26c,Janeiro,Filial Norte,995
+450caf02,Novembro,Filial Norte,4818
+c5b5a5ff,Maio,Filial Norte,1566
+4ad4ee32,Janeiro,Filial Nordeste,3015
+5cc94aea,Fevereiro,Matriz,792
+ddf06d12,Marco,Filial Nordeste,1908
+d651ed84,Outubro,Filial Sul,213
+b1923fdc,Outubro,Matriz,1921
+6764db1c,Janeiro,Filial Norte,1634
+b8c61721,Setembro,Filial Norte,881
+3e5f1966,Abril,Matriz,4025
+e57dce07,Marco,Filial Sul,4168
+f5ac8bae,Dezembro,Filial Norte,1004
+2385e77a,Julho,Filial Sul,2440
+fdf52eee,Dezembro,Filial Nordeste,1151
+d1d22113,Setembro,Matriz,4723
+693cf9e2,Marco,Filial Nordeste,4682
+fba3a5b3,Setembro,Filial Nordeste,772
+a45b2f37,Abril,Filial Nordeste,2110
+261f478a,Junho,Filial Norte,3194
+24899b12,Maio,Filial Sul,3097
+2a0084ca,Junho,Filial Norte,934
+50904b9e,Maio,Matriz,2375
+4159c223,Dezembro,Filial Sul,4451
+e2d50ce5,Setembro,Matriz,4979
+39a8ca6b,Outubro,Matriz,1149
+5f614ee7,Dezembro,Filial Sul,2739
+5a8965a4,Outubro,Filial Nordeste,2031
+9fb1e518,Novembro,Filial Norte,3878
+8783ce9a,Junho,Filial Norte,1341
+a182942a,Outubro,Filial Nordeste,2679
+286cd013,Dezembro,Filial Norte,1619
+b748966b,Novembro,Filial Norte,1918
+d2bfaa03,Abril,Filial Norte,1803
+0832f10e,Maio,Filial Sul,1495
+e7599750,Julho,Filial Nordeste,1348
+9e1c8d51,Junho,Matriz,4889
+4ef86c28,Agosto,Filial Sul,4789
+7a772f4c,Julho,Matriz,4360
+685de253,Marco,Filial Nordeste,1297
+059377f7,Setembro,Filial Sul,3439
+56e89ecb,Novembro,Filial Nordeste,832
+cbae0a0f,Dezembro,Matriz,2067
+80e71db3,Marco,Filial Sul,2618
+c93e481c,Agosto,Matriz,468
+f0dbe221,Junho,Filial Sul,3154
+98c980b4,Setembro,Filial Sul,690
+3d70aa88,Abril,Filial Norte,2050
+e7f2cdba,Julho,Filial Norte,4773
+df6a8f09,Maio,Matriz,213
+5b8a0ebd,Janeiro,Filial Sul,1510
+174dbddf,Setembro,Filial Norte,3569
+5e306cb4,Janeiro,Matriz,2197
+9118fa8b,Agosto,Filial Sul,3128
+29a08b99,Julho,Filial Norte,3451
+9407a17b,Dezembro,Filial Nordeste,652
+09df7685,Outubro,Filial Nordeste,1277
+7dbbaf04,Junho,Matriz,250
+65826caf,Dezembro,Filial Norte,3365
+44cc5dea,Janeiro,Matriz,2215
+df3c5f62,Agosto,Filial Norte,4220
+3796b440,Marco,Filial Sul,1126
+a84d58ba,Setembro,Matriz,1179
+893852c3,Marco,Filial Sul,4049
+ad70ff51,Novembro,Matriz,1319
+d67c84de,Novembro,Filial Sul,4913
+c183cd44,Outubro,Filial Norte,3419
+d153c13a,Agosto,Filial Nordeste,1162
+1b10c7f9,Marco,Filial Sul,3035
+e6944b96,Fevereiro,Filial Nordeste,4076
+87b408f4,Junho,Matriz,946
+0b414383,Dezembro,Filial Norte,2893
+67da2358,Setembro,Filial Sul,3747
+e06e3326,Outubro,Filial Norte,2646
+6cd87c88,Dezembro,Matriz,3488
+a9dd855b,Abril,Matriz,2296
+74e79861,Novembro,Filial Norte,221
+7778d739,Julho,Filial Sul,2801
+59483b35,Marco,Matriz,893
+1136ada7,Janeiro,Filial Sul,1111
+ee7e823c,Dezembro,Filial Norte,4612
+6a0c605b,Agosto,Filial Norte,638
+099ee8ba,Setembro,Matriz,3786
+693a5df4,Maio,Filial Sul,1928
+ef811efa,Janeiro,Filial Norte,945
+24117cbd,Abril,Filial Nordeste,1548
+20b90a03,Abril,Filial Sul,4179
+7c77825e,Outubro,Filial Nordeste,4315
+d34155dd,Junho,Matriz,4958
+b48349f1,Outubro,Matriz,702
+71224db4,Abril,Filial Norte,1267
+ff524b7c,Outubro,Filial Sul,463
+4fa19ef4,Outubro,Matriz,644
+26461810,Agosto,Filial Norte,1541
+eee2da0b,Agosto,Filial Sul,2493
+e746e905,Setembro,Filial Nordeste,4405
+2541621e,Fevereiro,Filial Sul,3345
+593d27d7,Maio,Filial Nordeste,1620
+f838ca6e,Setembro,Matriz,3575
+e8bd39bd,Janeiro,Matriz,1070
+13dd4c55,Julho,Filial Norte,4798
+e27b437a,Setembro,Filial Nordeste,3838
+f0a00fa8,Agosto,Filial Nordeste,4705
+785617e1,Agosto,Filial Nordeste,2471
+bc432188,Setembro,Matriz,535
+544053b3,Fevereiro,Filial Nordeste,4306
+067e3768,Novembro,Matriz,3631
+c82e7e39,Setembro,Matriz,4974
+35500e68,Novembro,Filial Sul,3235
+57bb6014,Agosto,Matriz,3325
+e80442a8,Novembro,Filial Sul,1191
+57c3f71e,Setembro,Filial Norte,2576
+c1f307ab,Outubro,Filial Sul,1756
+48105969,Julho,Filial Norte,4717
+444f2a12,Janeiro,Filial Norte,1999
+7b4b804a,Fevereiro,Filial Norte,2936
+2acd713e,Dezembro,Matriz,3747
+e7d0fd39,Maio,Filial Sul,845
+ddf26ac8,Janeiro,Filial Sul,4433
+d5c0171f,Janeiro,Matriz,108
+b500d7e4,Janeiro,Filial Norte,1356
+6aeaca93,Outubro,Filial Sul,1447
+b31ab33d,Julho,Filial Norte,3074
+0d5c56c2,Abril,Matriz,1952
+5fc133c0,Marco,Matriz,3609
+7457fc24,Julho,Matriz,4470
+e35112c9,Abril,Filial Nordeste,1220
+2b8e85ab,Fevereiro,Filial Nordeste,583
+d5600394,Dezembro,Matriz,4674
+2f52e26a,Junho,Filial Sul,4130
+d1e9480d,Dezembro,Filial Sul,4044
+10ac820a,Julho,Matriz,1008
+6cac2e6d,Outubro,Filial Norte,1525
+5384b85a,Julho,Filial Nordeste,4863
+b1edd638,Outubro,Filial Nordeste,508
+be4da85f,Novembro,Matriz,1336
+c2a5aa29,Dezembro,Filial Nordeste,869
+a0990ed7,Agosto,Filial Norte,4796
+998f0389,Junho,Filial Sul,4833
+81b4dd15,Fevereiro,Matriz,2028
+8171ed3a,Abril,Filial Norte,1227
+45a1b20f,Outubro,Filial Norte,2447
+d7eb3ea6,Novembro,Filial Norte,4701
+3b5ba0aa,Agosto,Matriz,2141
+f5ce02c8,Setembro,Filial Norte,3210
+eef235e6,Fevereiro,Filial Sul,3122
+e397031a,Janeiro,Filial Sul,2041
+c93efc0c,Maio,Filial Norte,3575
+867a48b2,Agosto,Filial Sul,3995
+b1f94119,Setembro,Matriz,4046
+d2172622,Junho,Matriz,725
+05e5f74b,Abril,Matriz,2508
+0c409d94,Maio,Filial Sul,606
+e529c0db,Novembro,Matriz,1276
+5068017b,Fevereiro,Matriz,601
+f05bb8b5,Julho,Matriz,2239
+331eef69,Agosto,Filial Sul,3948
+3f4ec6cd,Outubro,Filial Nordeste,4296
+432bb168,Maio,Filial Nordeste,4914
+0e86326b,Marco,Matriz,3512
+df5a4059,Julho,Filial Norte,3716
+ba846b79,Abril,Filial Nordeste,4964
+3d952c21,Agosto,Filial Sul,2911
+9dabb863,Fevereiro,Matriz,4669
+fda66204,Maio,Filial Nordeste,4204
+dba20251,Agosto,Filial Norte,3191
+69515bd1,Janeiro,Filial Sul,3326
+c0b339da,Dezembro,Matriz,4647
+0f661ef1,Novembro,Filial Norte,478
+11084a3f,Abril,Matriz,3079
+dc322b71,Novembro,Filial Sul,406
+4c94c0da,Dezembro,Matriz,1786
+83d0785e,Abril,Filial Nordeste,3863
+3c8377eb,Julho,Filial Sul,4494
+5c2677da,Setembro,Filial Sul,3071
+3045bd35,Outubro,Filial Norte,4979
+933b6f45,Dezembro,Filial Norte,3566
+a4dd45f7,Marco,Filial Nordeste,2203
+e68f5462,Abril,Filial Norte,2055
+3c021043,Dezembro,Matriz,1425
+a3b1df05,Setembro,Matriz,521
+095f5c11,Abril,Matriz,1468
+6df66cde,Julho,Matriz,3185
+14424014,Outubro,Filial Nordeste,774
+f77d54be,Novembro,Filial Nordeste,1561
+48fab062,Maio,Filial Nordeste,4148
+27b00642,Setembro,Filial Norte,4866
+22e62502,Junho,Filial Nordeste,4839
+4f281123,Maio,Filial Nordeste,3549
+c8097708,Janeiro,Filial Nordeste,4251
+3a93eb66,Dezembro,Filial Nordeste,4342
+208a257d,Abril,Filial Norte,1422
+0907bb43,Junho,Matriz,2390
+12f9a177,Setembro,Matriz,125
+cb2aad6a,Marco,Filial Sul,562
+42be824d,Maio,Filial Norte,3419
+2941dec3,Agosto,Matriz,1046
+bef0c79f,Abril,Filial Norte,1385
+8eff58ac,Maio,Filial Norte,2157
+f68201f4,Abril,Filial Sul,2500
+78e46cd5,Agosto,Filial Sul,188
+b73b9a6b,Setembro,Filial Norte,607
+ac962500,Julho,Filial Nordeste,3413
+ff4530c8,Setembro,Filial Nordeste,4171
+8112deac,Janeiro,Filial Nordeste,755
+4c28d16d,Abril,Matriz,2001
+f6449650,Fevereiro,Filial Nordeste,4222
+181e2c7f,Julho,Filial Nordeste,971
+53290142,Abril,Filial Nordeste,4282
+a566b9a8,Abril,Filial Norte,3584
+e43e1ff7,Setembro,Filial Norte,2832
+e8cec5d4,Marco,Filial Sul,1318
+3f549d82,Junho,Filial Nordeste,3660
+71d4938d,Maio,Filial Sul,2124
+f882182a,Dezembro,Filial Sul,3534
+8774a750,Setembro,Filial Nordeste,1522
+0bd1ee83,Maio,Matriz,4364
+4369ba82,Julho,Filial Norte,1343
+e17492c3,Fevereiro,Filial Sul,4238
+100c29e2,Marco,Filial Nordeste,1549
+88c2b5d8,Maio,Filial Norte,625
+d0fb0ab9,Janeiro,Filial Nordeste,239
+3333013f,Marco,Filial Sul,3730
+624c4802,Julho,Matriz,4240
+d6690787,Junho,Matriz,2190
+a741d446,Setembro,Filial Nordeste,3581
+d5d9707f,Maio,Filial Norte,2559
+3a244ed3,Abril,Filial Nordeste,745
+5efa6086,Marco,Matriz,2912
+65ed82b7,Julho,Filial Norte,4049
+d69c1333,Abril,Filial Sul,4180
+90914be5,Fevereiro,Filial Sul,571
+5de6f7e7,Maio,Matriz,2319
+e22553d6,Marco,Filial Norte,3229
+894f9c3c,Marco,Filial Norte,3212
+2f5e32e1,Fevereiro,Filial Sul,1690
+5ba78e9f,Setembro,Filial Nordeste,1078
+8abdaeac,Setembro,Filial Nordeste,4324
+10a3c165,Junho,Filial Sul,2601
+9088196d,Novembro,Matriz,4246
+6c3799c1,Julho,Filial Norte,2717
+a39450c2,Maio,Filial Sul,951
+9c062cf0,Janeiro,Filial Norte,2514
+4e42b629,Abril,Filial Norte,2504
+74b516d3,Fevereiro,Matriz,1587
+a8f9044a,Fevereiro,Matriz,1448
+94c5597b,Maio,Filial Norte,763
+f199bed1,Novembro,Filial Norte,4683
+d1079073,Maio,Filial Sul,3195
+1719a8f1,Novembro,Matriz,261
+250a261a,Julho,Matriz,962
+fc10a9c9,Maio,Filial Nordeste,1583
+a9d48f17,Agosto,Matriz,2739
+13c290dc,Julho,Matriz,888
+6d7caa96,Outubro,Filial Sul,2175
+f129af4e,Novembro,Filial Norte,281
+26f59550,Abril,Filial Norte,4183
+33f458cf,Novembro,Filial Norte,4881
+247518ed,Setembro,Filial Sul,2349
+1ec5bca9,Janeiro,Filial Norte,1391
+960d45ea,Janeiro,Filial Nordeste,2810
+24e0c9bc,Abril,Matriz,2615
+ed39c073,Dezembro,Matriz,3585
+8dacd612,Outubro,Filial Sul,4337
+41b4b6fd,Agosto,Filial Norte,3620
+e9633e58,Janeiro,Filial Nordeste,1285
+7ada75b1,Maio,Filial Nordeste,4322
+c77d1a76,Outubro,Matriz,3937
+572372cd,Fevereiro,Matriz,616
+efcd3e36,Setembro,Filial Nordeste,358
+20859eea,Setembro,Filial Norte,937
+207197dc,Maio,Filial Nordeste,1821
+636fb978,Julho,Filial Norte,354
+9e63ddc2,Fevereiro,Matriz,3228
+08520651,Marco,Filial Nordeste,481
+92c91ec7,Agosto,Filial Sul,3231
+29438c3d,Julho,Filial Norte,4423
+3b624ae6,Agosto,Matriz,1578
+e3978833,Agosto,Filial Norte,209
+1d9a0f17,Junho,Matriz,3116
+380c5d48,Fevereiro,Matriz,4562
+86422853,Julho,Matriz,3725
+b233e230,Agosto,Filial Sul,786
+c18fe509,Janeiro,Filial Nordeste,2331
+45e2bf3e,Fevereiro,Filial Sul,1684
+e74d5c22,Novembro,Filial Nordeste,2887
+656d6d1c,Abril,Filial Norte,4881
+5e28252e,Setembro,Filial Norte,3051
+04c0bd33,Julho,Filial Nordeste,2669
+6306926e,Agosto,Filial Norte,375
+3a1cbf6b,Julho,Filial Nordeste,4366
+f821dbf8,Outubro,Filial Norte,4827
+2f86c5bf,Marco,Filial Nordeste,2490
+3ab9f0db,Abril,Filial Nordeste,1806
+ad363442,Junho,Matriz,2482
+5844aa9e,Junho,Matriz,2906
+770b19eb,Abril,Filial Norte,142
+1971e882,Novembro,Filial Norte,939
+80af1273,Abril,Matriz,3702
+530b60af,Dezembro,Filial Sul,1960
+87b4ec6f,Dezembro,Matriz,4794
+74e0a425,Novembro,Filial Sul,1266
+98770d3b,Agosto,Matriz,4995
+15ef9b89,Abril,Matriz,4569
+d5f4213e,Julho,Filial Norte,2397
+c2208582,Marco,Filial Norte,2471
+fc04db1b,Novembro,Filial Sul,894
+fbd34bff,Outubro,Filial Sul,2589
+3d5b49f5,Outubro,Filial Sul,756
+d5e06d70,Novembro,Filial Norte,4921
+59abdd0d,Fevereiro,Filial Norte,3256
+6eeddd42,Novembro,Filial Sul,1532
+7b541ed2,Maio,Matriz,1801
+d8b59436,Outubro,Matriz,1279
+2c061650,Julho,Matriz,1032
+d32e5c72,Outubro,Filial Nordeste,3155
+3c7758ad,Maio,Filial Norte,183
+d0e266f8,Fevereiro,Filial Nordeste,531
+9519e6c6,Novembro,Matriz,967
+680c6df4,Outubro,Filial Nordeste,4821
+bfa48287,Dezembro,Filial Norte,4111
+4be47dd4,Outubro,Filial Sul,4871
+356ed8c4,Maio,Filial Sul,4822
+ce7b7991,Agosto,Filial Norte,4131
+cfd4f6f3,Setembro,Filial Sul,4116
+ba96a2b8,Novembro,Filial Norte,741
+1ead1822,Outubro,Matriz,3749
+a221bcc2,Maio,Filial Nordeste,918
+163ee26e,Maio,Filial Nordeste,4997
+c67d3610,Janeiro,Matriz,4310
+38860e7f,Setembro,Filial Nordeste,1877
+6ad5e6df,Fevereiro,Filial Sul,3159
+ccaed3dd,Junho,Filial Nordeste,4126
+924e289d,Junho,Filial Norte,859
+48365432,Setembro,Matriz,4851
+0d375f65,Outubro,Matriz,481
+a3629169,Setembro,Filial Nordeste,2392
+d6499679,Fevereiro,Filial Nordeste,957
+f2b0e6f5,Maio,Filial Norte,3355
+fcfe216e,Dezembro,Filial Norte,495
+b4a9b49f,Setembro,Filial Nordeste,2199
+832a4794,Maio,Filial Nordeste,4251
+c8dcb498,Janeiro,Filial Norte,3002
+704082a3,Fevereiro,Filial Nordeste,3537
+344bd2fe,Maio,Filial Norte,4150
+991b5bf1,Maio,Filial Sul,3067
+0f318392,Junho,Filial Nordeste,3841
+74b6aaa7,Setembro,Filial Nordeste,4953
+284ec97b,Fevereiro,Filial Sul,4459
+51e6496d,Agosto,Filial Sul,3154
+fe341533,Dezembro,Filial Nordeste,2212
+37369bab,Janeiro,Filial Norte,2387
+75a1442d,Novembro,Filial Norte,1656
+6e79ab97,Maio,Filial Norte,3713
+98437932,Junho,Filial Norte,3601
+bde223f1,Dezembro,Filial Norte,3581
+419e2be9,Agosto,Filial Nordeste,4439
+ed8723e6,Maio,Filial Sul,2205
+b640dc61,Julho,Matriz,3268
+67052c05,Marco,Filial Norte,3874
+c4cd6cc1,Janeiro,Matriz,4717
+63a32a87,Marco,Filial Norte,2935
+b9e799c4,Novembro,Filial Nordeste,1037
+faa9fe0c,Dezembro,Filial Norte,317
+a3bddda4,Abril,Filial Nordeste,3275
+ed99ae9f,Novembro,Matriz,1550
+12ae5a01,Outubro,Filial Sul,1029
+6d8ed0fb,Maio,Filial Sul,2085
+2665a2e1,Novembro,Filial Nordeste,2964
+c55baa47,Junho,Filial Nordeste,2982
+3a9e03fa,Junho,Filial Sul,1095
+b16cc134,Maio,Matriz,1898
+414ffcf2,Janeiro,Filial Sul,2171
+b00073c2,Maio,Matriz,1693
+e2ca1016,Abril,Filial Nordeste,2894
+ca99631e,Junho,Filial Sul,665
+34af4610,Setembro,Filial Sul,4988
+dba62a44,Abril,Filial Nordeste,3128
+2f43c286,Abril,Matriz,4506
+c065f16b,Junho,Filial Nordeste,4250
+be77cf2d,Novembro,Filial Norte,4968
+6016ae97,Dezembro,Filial Nordeste,3892
+99da935b,Abril,Filial Norte,1764
+4aa1d14c,Fevereiro,Filial Sul,4727
+09cf11ca,Novembro,Filial Norte,1780
+c4cad234,Setembro,Filial Norte,1521
+e9b5fbf8,Julho,Filial Norte,375
+d45216e6,Dezembro,Filial Nordeste,4470
+b11b7a06,Janeiro,Filial Nordeste,1950
+d3c52a31,Abril,Filial Nordeste,1644
+7499d5da,Fevereiro,Filial Sul,1783
+18d0a6a9,Fevereiro,Filial Nordeste,3112
+57fbcc1f,Dezembro,Filial Nordeste,3826
+b8117b46,Novembro,Filial Norte,4700
+456382dc,Janeiro,Filial Sul,3757
+1fd2e45a,Junho,Filial Norte,1933
+3f7a62a1,Janeiro,Matriz,1716
+c6595338,Marco,Matriz,3136
+b81313ca,Setembro,Filial Nordeste,2682
+eefb0ea2,Agosto,Filial Norte,2874
+489f2d6b,Agosto,Matriz,719
+56b596ed,Setembro,Matriz,4664
+85693005,Julho,Matriz,2414
+48aac80c,Junho,Filial Sul,3085
+5424de04,Julho,Filial Sul,4615
+0a223ef8,Maio,Filial Nordeste,3741
+029c14ef,Junho,Filial Sul,4969
+11d315d0,Marco,Matriz,2740
+70d22a6e,Novembro,Filial Norte,4341
+e410fcc7,Janeiro,Filial Norte,1434
+4fa59f21,Outubro,Filial Sul,3673
+5dfb5458,Outubro,Matriz,3614
+61150d88,Janeiro,Matriz,1868
+40f8366b,Novembro,Filial Nordeste,3735
+8f022d9c,Marco,Filial Norte,4301
+82fcd20a,Dezembro,Matriz,786
+8eb286e0,Junho,Filial Nordeste,2379
+d09a3468,Outubro,Filial Sul,4481
+0fa5a74c,Janeiro,Filial Sul,4265
+94415659,Fevereiro,Filial Sul,4684
+21f91dae,Julho,Filial Sul,676
+06a78851,Abril,Filial Nordeste,984
+fffcfdbd,Dezembro,Matriz,1174
+ad376018,Novembro,Filial Norte,3886
+801fd7fb,Dezembro,Filial Sul,2719
+ffb5516e,Setembro,Filial Norte,1896
+7933b900,Agosto,Filial Sul,2592
+45c8b5b5,Novembro,Matriz,4459
+7dead9c4,Marco,Filial Norte,1742
+a501c99b,Marco,Filial Norte,511
+b43b41b4,Janeiro,Matriz,1985
+f2d4d8db,Julho,Filial Sul,2431
+655a1a2d,Novembro,Matriz,3717
+962d2833,Junho,Filial Nordeste,2111
+0c010740,Novembro,Matriz,2450
+243f15ae,Marco,Filial Norte,496
+09679317,Fevereiro,Matriz,2603
+595cec00,Marco,Filial Norte,4447
+19be9eb7,Marco,Filial Sul,4133
+844d3601,Maio,Filial Norte,190
+2e4b1932,Maio,Filial Norte,3787
+617be22a,Fevereiro,Matriz,3068
+240d2a01,Dezembro,Matriz,3289
+7ea3849c,Novembro,Filial Norte,2234
+e89f9b07,Agosto,Filial Norte,4338
+aa48d667,Julho,Matriz,2196
+1ec3d57e,Maio,Filial Sul,4608
+2724f5c6,Julho,Matriz,1224
+916ed62a,Julho,Filial Norte,512
+e973dad9,Maio,Filial Sul,4112
+0ccaa3ca,Abril,Filial Nordeste,2819
+5aa25fc3,Abril,Filial Norte,2423
+a02a0fea,Fevereiro,Matriz,1955
+92fe2045,Dezembro,Filial Norte,2254
+c3bf1145,Outubro,Filial Norte,3631
+d47df1d5,Setembro,Filial Nordeste,2364
+3f69e88e,Setembro,Filial Sul,2743
+244f1905,Novembro,Filial Sul,3694
+8d24ab99,Agosto,Filial Sul,232
+4c3a8654,Novembro,Filial Nordeste,558
+bcc52ec4,Agosto,Filial Norte,2098
+729dac9e,Junho,Matriz,2916
+a8aed579,Maio,Matriz,4070
+b580b3ea,Novembro,Filial Nordeste,1610
+e02d5d98,Setembro,Filial Nordeste,1476
+b7ee8d5c,Outubro,Filial Sul,3815
+1d511432,Marco,Filial Nordeste,2642
+c553c68d,Outubro,Filial Nordeste,2528
+9e82a79b,Outubro,Filial Sul,411
+3190110b,Setembro,Filial Sul,3132
+ca649d32,Marco,Filial Nordeste,2786
+7bbbd134,Fevereiro,Matriz,353
+df9f78c9,Julho,Filial Nordeste,851
+c4e41488,Junho,Filial Norte,122
+e3d3221e,Setembro,Filial Sul,2535
+192622b2,Outubro,Filial Sul,1694
+16ff3ebe,Agosto,Filial Norte,4102
+555d48ec,Janeiro,Filial Norte,3810
+1c749f2d,Setembro,Filial Nordeste,1737
+a2de9812,Junho,Filial Sul,4922
+2c518bee,Marco,Matriz,3293
+c40e8ef9,Marco,Matriz,2807
+a3f37ab2,Janeiro,Filial Nordeste,489
+13f1236a,Agosto,Filial Norte,3602
+7d5e776d,Abril,Filial Nordeste,3479
+e3520c39,Abril,Filial Sul,4558
+905a6570,Agosto,Filial Sul,1244
+25c37735,Agosto,Filial Nordeste,4972
+766ee144,Agosto,Filial Sul,2792
+b046ec01,Dezembro,Filial Nordeste,2056
+8a434ea7,Julho,Filial Nordeste,2562
+43e6bfce,Agosto,Filial Sul,893
+c2c82cd2,Fevereiro,Filial Norte,4845
+c9aedf61,Dezembro,Filial Nordeste,4805
+86604939,Agosto,Filial Norte,1506
+a0afde84,Novembro,Matriz,435
+a983cd96,Novembro,Filial Sul,876
+d9ce57da,Fevereiro,Matriz,2674
+8794ce38,Setembro,Matriz,2122
+e3ce9341,Marco,Filial Sul,4132
+14dba7e9,Junho,Filial Sul,2244
+08381c55,Abril,Filial Nordeste,423
+8c9b684b,Marco,Filial Norte,2510
+418ce2e8,Outubro,Filial Sul,2873
+19b507f1,Setembro,Matriz,4048
+9237b270,Fevereiro,Filial Nordeste,4562
+08cb691c,Novembro,Filial Sul,4062
+caddf5dc,Julho,Matriz,1257
+becb5552,Novembro,Filial Nordeste,1736
+14c1644d,Fevereiro,Matriz,4196
+908f380c,Marco,Filial Norte,4119
+ca06c93d,Outubro,Matriz,5000
+47b2cda7,Dezembro,Filial Nordeste,3193
+abc61b1d,Setembro,Filial Nordeste,4129
+661ce08a,Setembro,Filial Nordeste,2811
+f710212a,Outubro,Filial Nordeste,4261
+62b7d1ce,Fevereiro,Filial Nordeste,3781
+a01790a2,Fevereiro,Filial Norte,860
+c976f048,Julho,Matriz,2059
+5c326839,Fevereiro,Filial Nordeste,1987
+f548c6c2,Abril,Filial Nordeste,1196
+1338d1e0,Novembro,Filial Norte,1981
+00113cdb,Fevereiro,Filial Norte,2065
+f8563ee4,Fevereiro,Filial Sul,4525
+bc7177f8,Marco,Filial Norte,1274
+efdc1e6a,Setembro,Matriz,1055
+9b7ba3e3,Outubro,Filial Nordeste,828
+99f438a8,Setembro,Matriz,303
+6e241cc3,Agosto,Filial Nordeste,4114
+09ee84a5,Janeiro,Matriz,888
+1a2eda0a,Abril,Filial Norte,4718
+628c3cfd,Junho,Filial Nordeste,858
+38ec6b64,Janeiro,Filial Sul,4415
+c47e0ab4,Agosto,Filial Norte,2655
+cca9f57b,Maio,Filial Sul,4535
+30de4f7c,Fevereiro,Filial Nordeste,4157
+591622e9,Janeiro,Filial Norte,3553
+40adc260,Junho,Matriz,2139
+6425f96d,Agosto,Matriz,4661
+c14609a8,Junho,Filial Nordeste,2854
+48e6825f,Agosto,Filial Nordeste,2057
+479bc347,Dezembro,Filial Nordeste,1978
+04b196e0,Setembro,Filial Nordeste,4512
+dcf1924a,Abril,Filial Nordeste,955
+e06e89be,Abril,Filial Nordeste,1094
+2ec3d7a2,Dezembro,Filial Norte,1704
+e15a93ad,Fevereiro,Filial Nordeste,1901
+7993f9d5,Fevereiro,Filial Nordeste,2330
+2f6c38e9,Marco,Filial Sul,1231
+cb9ed479,Dezembro,Filial Norte,3532
+97fb08d7,Fevereiro,Filial Norte,4264
+58ddd628,Novembro,Matriz,4183
+c4992026,Agosto,Filial Norte,2940
+e0d54bd8,Outubro,Filial Nordeste,4414
+84cf4364,Setembro,Filial Nordeste,4213
+fba2b036,Janeiro,Filial Nordeste,4459
+ef614d12,Agosto,Matriz,686
+c8608b96,Marco,Filial Nordeste,865
+49fd7713,Maio,Matriz,4472
+fe99e16a,Abril,Filial Nordeste,4701
+82d58bb4,Abril,Filial Nordeste,2690
+1f15dfc1,Fevereiro,Filial Sul,2218
+542085b7,Abril,Filial Nordeste,3179
+d6394d1a,Setembro,Matriz,175
+a31eeabf,Novembro,Filial Sul,1517
+d8afb7de,Novembro,Filial Sul,533
+8fbf0a67,Marco,Matriz,3829
+335aa3ba,Maio,Filial Nordeste,308
+00060af7,Julho,Filial Sul,4854
+385adb90,Agosto,Filial Nordeste,3144
+98f462e3,Junho,Filial Nordeste,250
+0c75a622,Maio,Filial Sul,695
+d2ef6183,Marco,Filial Nordeste,3967
+d4de1a34,Junho,Filial Norte,3182
+bb3b3b4a,Dezembro,Matriz,2242
+ccb83ef9,Dezembro,Filial Sul,2999
+f7225bee,Marco,Filial Norte,3043
+f7741d6c,Dezembro,Filial Sul,4188
+009139c2,Fevereiro,Filial Norte,2825
+13eb3d27,Marco,Filial Sul,3515
+331814ec,Julho,Matriz,4525
+a6858b96,Marco,Matriz,4389
+b9de8463,Setembro,Matriz,3403
+e7e0bc06,Fevereiro,Filial Sul,1910
+e4cacb37,Marco,Filial Norte,2438
+84db7be0,Dezembro,Filial Sul,4840
+8441c838,Janeiro,Matriz,1066
+f5fa6e88,Julho,Filial Norte,3307
+e1fffc0f,Abril,Filial Norte,2972
+8ba0cbe9,Setembro,Filial Norte,4527
+6d88b649,Outubro,Filial Norte,4373
+c8ea59d7,Agosto,Filial Norte,550
+2a98d135,Novembro,Filial Nordeste,2176
+b9cf88c6,Janeiro,Filial Nordeste,3061
+e845d75e,Agosto,Filial Norte,3284
+cfe35aa3,Novembro,Matriz,2158
+de2dd775,Janeiro,Filial Nordeste,980
+7cc394e4,Novembro,Filial Norte,1839
+0c733628,Maio,Filial Sul,3913
+9cbe898b,Agosto,Matriz,2465
+0c9815ad,Fevereiro,Filial Sul,360
+cfbf3082,Marco,Filial Norte,3345
+64f9587a,Julho,Filial Norte,3304
+638a87a4,Agosto,Filial Sul,957
+9ef86fdf,Fevereiro,Filial Sul,2713
+566764e3,Dezembro,Filial Norte,2787
+24db6db5,Fevereiro,Filial Norte,3823
+9f9e00ba,Marco,Matriz,726
+489653f8,Dezembro,Matriz,4898
+ed486ae2,Maio,Filial Norte,525
+c1723ae9,Janeiro,Filial Sul,1377
+85c45290,Julho,Matriz,420
+ad96d716,Novembro,Filial Nordeste,2269
+09bc80d9,Janeiro,Filial Sul,505
+bb9dfd8d,Junho,Filial Nordeste,1429
+9700c99b,Julho,Filial Sul,4547
+79e6d3a5,Dezembro,Filial Nordeste,479
+39281223,Marco,Matriz,561
+896b3391,Agosto,Filial Norte,4517
+50866088,Abril,Filial Nordeste,1561
+59e4e777,Junho,Filial Nordeste,3047
+69e0dfa7,Dezembro,Filial Sul,3163
+916ae7e8,Abril,Filial Norte,2149
+5d2cc64c,Julho,Filial Norte,2062
+a5b77e9e,Novembro,Filial Nordeste,312
+b77e9a21,Maio,Filial Sul,2321
+4345c6b2,Marco,Filial Norte,789
+3222cc89,Dezembro,Filial Nordeste,141
+e29c0da7,Maio,Filial Sul,2789
+8baa6ce7,Julho,Filial Sul,520
+c95f1976,Junho,Filial Nordeste,2649
+513b9fc0,Marco,Filial Nordeste,2036
+97a6119e,Marco,Matriz,3107
+97be975b,Janeiro,Filial Sul,2768
+e8157f77,Marco,Matriz,950
+a6a7fff2,Novembro,Matriz,271
+f39d1237,Agosto,Matriz,3294
+1db319f5,Dezembro,Filial Norte,283
+73bd7ea1,Maio,Filial Nordeste,756
+9dfe81da,Julho,Filial Norte,3476
+cf59872e,Setembro,Filial Norte,4664
+a2f6cbff,Janeiro,Filial Norte,3567
+3a9ce416,Setembro,Matriz,4261
+14a2e3f7,Agosto,Filial Sul,2572
+984c013c,Janeiro,Filial Norte,4561
+22aaede2,Junho,Filial Sul,980
+dddddc55,Abril,Matriz,2949
+8c5ce29f,Setembro,Filial Norte,3628
+0a19b35d,Fevereiro,Filial Nordeste,1268
+7e9f73ec,Julho,Filial Sul,4890
+35cf8b24,Outubro,Matriz,3085
+f7a75a6f,Outubro,Filial Sul,1278
+c6ad723f,Maio,Filial Nordeste,3450
+0442624e,Agosto,Matriz,565
+231e045e,Dezembro,Filial Sul,3061
+aad2bd36,Maio,Matriz,3059
+f9a87771,Outubro,Filial Nordeste,1599
+f2764555,Agosto,Filial Sul,1500
+7ba1d023,Fevereiro,Filial Nordeste,2490
+ad964a98,Fevereiro,Filial Norte,697
+48824624,Fevereiro,Filial Sul,1087
+726a0b73,Fevereiro,Filial Nordeste,4185
+041ac538,Julho,Matriz,1976
+34c5ed07,Fevereiro,Filial Norte,4154
+8f66c700,Marco,Matriz,1701
+9033aa0f,Abril,Matriz,1626
+5c7e32a0,Outubro,Filial Nordeste,141
+7567a4c9,Julho,Filial Sul,273
+3ce393cd,Julho,Matriz,1830
+a9e09bac,Maio,Filial Norte,2598
+84695268,Maio,Matriz,4563
+b259370f,Novembro,Filial Nordeste,2232
+87610d4b,Junho,Filial Norte,1631
+e2a62027,Abril,Matriz,4587
+c7e34dcd,Novembro,Matriz,4033
+12d67e92,Maio,Filial Norte,365
+f473e815,Junho,Matriz,341
+80e55162,Outubro,Matriz,2699
+4f61edff,Maio,Filial Nordeste,616
+6649ba6b,Dezembro,Filial Sul,2044
+78a240c9,Dezembro,Filial Norte,534
+8299c104,Agosto,Filial Nordeste,4174
+a598e152,Agosto,Filial Nordeste,2035
+eb48f816,Outubro,Matriz,1348
+e9fc6251,Setembro,Filial Nordeste,2867
+a9122b98,Marco,Matriz,2172
+26abc3fe,Abril,Matriz,2329
+98073ecc,Abril,Filial Norte,4836
+180f7b42,Fevereiro,Filial Nordeste,1828
+cf61d52b,Setembro,Filial Nordeste,1077
+c55c720a,Julho,Filial Norte,2967
+e1f3bb3a,Outubro,Filial Norte,1398
+c45940ed,Outubro,Filial Norte,4329
+afd6fdc6,Maio,Filial Nordeste,1646
+8f3e084d,Julho,Filial Norte,2294
+0395e1cd,Junho,Matriz,3198
+f505f19f,Outubro,Filial Norte,1746
+71657c0f,Setembro,Filial Norte,2879
+ad923a9b,Janeiro,Filial Norte,1147
+dc835ba0,Maio,Filial Nordeste,2504
+eb60615a,Maio,Filial Nordeste,3992
+75a550a3,Marco,Matriz,2976
+ea919643,Junho,Matriz,2109
+5b57138b,Fevereiro,Filial Nordeste,692
+3b125d80,Fevereiro,Matriz,1178
+19beb69b,Maio,Filial Nordeste,2330
+b544d246,Agosto,Matriz,1846
+ce9b6dea,Dezembro,Filial Sul,1057
+6708c2b1,Maio,Matriz,1614
+4c058d09,Novembro,Filial Nordeste,3188
+8a8ccac3,Novembro,Filial Norte,1453
+ad4590c3,Janeiro,Filial Nordeste,3393
+173b1206,Setembro,Filial Sul,4477
+55e0a36f,Abril,Matriz,1238
+78dc5301,Novembro,Matriz,2300
+d942dbdf,Dezembro,Matriz,1305
+a49a1dcd,Maio,Filial Nordeste,1665
+ade12d03,Novembro,Filial Nordeste,2342
+02f856e8,Setembro,Filial Norte,2874
+18f9f678,Novembro,Filial Sul,2236
+f17b3958,Setembro,Filial Nordeste,1892
+086e5171,Junho,Filial Sul,2080
+0e3f096f,Novembro,Filial Sul,3175
+6c7d6f7d,Fevereiro,Matriz,229
+22d84e39,Agosto,Filial Norte,1641
+52b920df,Dezembro,Filial Nordeste,2568
+e27d840b,Agosto,Filial Nordeste,4383
+40f84898,Fevereiro,Filial Norte,4945
+9f4ccedb,Agosto,Filial Nordeste,3142
+dfe9dd2b,Janeiro,Filial Norte,4032
+7b7c73dc,Agosto,Filial Sul,4457
+982717c6,Abril,Filial Nordeste,3571
+bbfafa1a,Janeiro,Filial Nordeste,1635
+bcd071f0,Agosto,Filial Norte,3298
+6eba741a,Julho,Filial Norte,250
+d6c8bea9,Fevereiro,Filial Norte,894
+3675c1b1,Julho,Filial Norte,1520
+a198bc25,Junho,Filial Sul,1145
+bd264b50,Dezembro,Filial Norte,2148
+2e6ca17e,Julho,Filial Norte,3713
+00b34419,Maio,Filial Nordeste,2932
+1e3efcc7,Dezembro,Filial Nordeste,3022
+05169f87,Abril,Filial Nordeste,4751
+1ece3628,Fevereiro,Filial Norte,3894
+4c88ebd6,Setembro,Filial Norte,1457
+87fbf52c,Novembro,Filial Norte,4527
+87080164,Junho,Filial Sul,2665
+503457a5,Novembro,Filial Nordeste,2070
+6dd48cc0,Maio,Matriz,1355
+aafcc13e,Setembro,Filial Nordeste,523
+bdaf6922,Setembro,Matriz,4946
+ddae16c7,Novembro,Matriz,4509
+d40fafd6,Janeiro,Filial Sul,1552
+8244a3ea,Abril,Filial Sul,4973
+389b5b08,Maio,Filial Nordeste,3699
+3aa17d07,Abril,Filial Norte,4082
+88df6bbc,Dezembro,Filial Nordeste,819
+ac5150a6,Setembro,Filial Sul,2411
+b0298243,Novembro,Filial Sul,1625
+7b9845e9,Janeiro,Filial Norte,912
+2725dbcc,Abril,Filial Nordeste,4509
+4169b27a,Janeiro,Filial Norte,116
+2b60e5ee,Janeiro,Filial Sul,4379
+e0713b86,Julho,Matriz,3797
+b44e8fad,Dezembro,Filial Nordeste,1178
+1f0f9ff5,Agosto,Filial Nordeste,4410
+d4821373,Novembro,Filial Nordeste,335
+e8407d62,Agosto,Filial Norte,1532
+ad92af65,Abril,Matriz,1782
+ac7129d6,Julho,Filial Sul,2921
+d21884ee,Setembro,Filial Norte,197
+d1b3b70b,Julho,Filial Norte,2246
+a5490239,Marco,Filial Sul,934
+42192259,Outubro,Matriz,4593
+95c02ad5,Junho,Filial Nordeste,4146
+1e5cab88,Agosto,Matriz,3472
+4b228398,Setembro,Matriz,4207
+3badc239,Junho,Filial Norte,4811
+3ab8f6f6,Dezembro,Filial Norte,4127
+e0941930,Abril,Filial Nordeste,4462
+1839542f,Outubro,Filial Norte,2168
+d84ba58d,Setembro,Matriz,4850
+55c7b660,Abril,Filial Nordeste,839
+33f531bf,Outubro,Filial Sul,456
+d91486c6,Julho,Filial Norte,3387
+801fa793,Agosto,Filial Sul,910
+64836ba3,Dezembro,Filial Norte,1771
+c5343428,Novembro,Matriz,1234
+116d7ae4,Setembro,Filial Nordeste,1833
+b52c1432,Abril,Filial Nordeste,3846
+2e500401,Fevereiro,Matriz,2923
+0a33ca9a,Dezembro,Filial Norte,4822
+ca20ea29,Julho,Filial Sul,3453
+c915f5e8,Outubro,Filial Nordeste,585
+5540cc32,Julho,Filial Nordeste,705
+96b38019,Abril,Filial Nordeste,2653
+16f4a554,Dezembro,Filial Sul,372
+052d42c2,Janeiro,Filial Norte,2351
+3141e99e,Agosto,Filial Norte,4577
+2bd0fadc,Novembro,Filial Norte,2046
+456fee89,Outubro,Filial Sul,4326
+1bc39f97,Janeiro,Filial Nordeste,3996
+7e53b9fb,Marco,Filial Sul,3686
+a9ae7571,Abril,Filial Nordeste,2371
+70cbec54,Marco,Matriz,600
+a93ab315,Outubro,Matriz,2666
+59ab7897,Junho,Matriz,1264
+159fd0bd,Setembro,Matriz,4919
+2a53e35e,Janeiro,Filial Nordeste,211
+b3a40ab1,Maio,Filial Norte,3247
+7c4ece3c,Dezembro,Filial Sul,1231
+2787b9c8,Janeiro,Matriz,145
+988f96b2,Setembro,Filial Sul,1924
+b3927788,Junho,Filial Sul,867
+a07571a6,Novembro,Matriz,2812
+f0a7b6a5,Julho,Filial Nordeste,3374
+854ef286,Julho,Filial Norte,1144
+88051d34,Julho,Matriz,4445
+ed4799df,Outubro,Filial Sul,3996
+74fc92d2,Outubro,Matriz,3980
+250ab189,Fevereiro,Filial Norte,1203
+5f4af9cd,Novembro,Filial Sul,194
+08a13555,Setembro,Filial Sul,2758
+4fbc6bde,Maio,Filial Norte,3125
+7daf4e9c,Outubro,Matriz,4722
+e7c3d26a,Setembro,Filial Sul,945
+32eea986,Setembro,Filial Norte,2458
+98ba43bf,Janeiro,Filial Norte,4217
+ab339415,Marco,Matriz,3518
+315f27ec,Outubro,Matriz,193
+825d474f,Abril,Filial Sul,1019
+1a4838b6,Maio,Filial Nordeste,2516
+3953cbb7,Novembro,Filial Sul,4485
+12827217,Setembro,Filial Sul,2336
+8a59b5fb,Novembro,Filial Norte,4611
+20cacbb8,Abril,Filial Nordeste,4575
+0ff272d0,Junho,Filial Nordeste,1416
+dcde9e04,Junho,Filial Sul,503
+d9318d9e,Agosto,Matriz,4056
+c3718a08,Agosto,Matriz,3593
+6b2e6264,Fevereiro,Filial Sul,1792
+9400fe91,Abril,Filial Nordeste,3368
+e4ed2f74,Julho,Filial Norte,1210
+02ca022f,Junho,Filial Nordeste,4095
+5a967d5f,Setembro,Filial Nordeste,1581
+c536f93b,Novembro,Filial Norte,952
+96fd33b2,Abril,Filial Norte,2980
+bc4ca08f,Maio,Matriz,1126
+06ae8913,Janeiro,Filial Sul,220
+f7d61e34,Fevereiro,Matriz,1376
+d07a4ec8,Janeiro,Filial Sul,3007
+5de33154,Marco,Filial Norte,252
+831fa42a,Abril,Matriz,1806
+5a571a7a,Junho,Filial Norte,1535
+9a290d78,Novembro,Filial Norte,3187
+f7b06a3d,Setembro,Matriz,2932
+803ad50e,Fevereiro,Filial Nordeste,4465
+b6dacc7b,Junho,Filial Sul,1752
+3ab6ca53,Abril,Matriz,4457
+7dd91c55,Fevereiro,Filial Sul,2855
+2ff8de22,Junho,Filial Nordeste,3355
+b916e93e,Fevereiro,Matriz,1483
+f1aa6dc4,Julho,Matriz,1707
+75d6c379,Setembro,Filial Norte,2200
+258bebb7,Fevereiro,Filial Nordeste,4960
+d3ac3289,Novembro,Filial Sul,1868
+177440f7,Fevereiro,Filial Sul,2623
+78483d29,Junho,Filial Nordeste,2132
+d600a6ec,Agosto,Filial Sul,1116
+24bb4b6e,Setembro,Filial Sul,4053
+6885ed9f,Setembro,Filial Norte,2250
+6ad803cf,Abril,Filial Sul,334
+3ab9ddd8,Janeiro,Matriz,1702
+c15ecc7c,Janeiro,Filial Sul,550
+9c2d1af9,Abril,Filial Nordeste,2840
+1c9b8cd6,Dezembro,Filial Nordeste,3519
+437a29a4,Novembro,Filial Norte,4438
+358e2fa3,Junho,Filial Nordeste,2701
+4287c256,Dezembro,Filial Nordeste,2362
+cb1c3512,Outubro,Filial Sul,2761
+5ff92551,Julho,Filial Sul,3965
+aeca6632,Junho,Matriz,1829
+6cac30c5,Outubro,Filial Sul,612
+5521a8f2,Outubro,Filial Sul,3399
+0033cb9b,Dezembro,Filial Norte,2290
+9ea1f0e6,Fevereiro,Matriz,3311
+c22db91c,Setembro,Filial Nordeste,3030
+ba855a5b,Abril,Filial Norte,4448
+5bf4e383,Abril,Filial Sul,1047
+8df0409f,Marco,Filial Sul,2184
+1859cc3d,Setembro,Filial Norte,896
+45ff23d7,Marco,Filial Nordeste,3069
+b24449b7,Maio,Filial Nordeste,3169
+a0369e26,Dezembro,Filial Norte,3846
+1e7b802e,Fevereiro,Filial Norte,3074
+7bc5e5da,Dezembro,Filial Sul,4412
+55012df7,Julho,Filial Sul,2316
+cb7cbf58,Maio,Filial Sul,3005
+5ee8eb1c,Novembro,Filial Nordeste,4021
+3e3a311a,Junho,Filial Norte,4512
+56821cfe,Agosto,Filial Sul,4248
+a645f200,Abril,Matriz,429
+1c25969d,Outubro,Filial Sul,1144
+95819769,Fevereiro,Filial Norte,505
+9d1eb1ce,Dezembro,Filial Nordeste,4757
+de09c6b6,Julho,Filial Nordeste,4634
+b6d10022,Setembro,Filial Norte,2548
+530fff01,Fevereiro,Filial Nordeste,3586
+a86a3d3e,Outubro,Filial Norte,881
+41cc1a50,Outubro,Matriz,211
+c6d10d3e,Maio,Filial Norte,3875
+a82936e8,Agosto,Filial Nordeste,2985
+6dc6d360,Junho,Filial Norte,2630
+c24ec5b2,Abril,Filial Norte,1757
+ee845d57,Dezembro,Filial Sul,228
+8f957641,Abril,Filial Nordeste,2781
+62e14154,Outubro,Filial Nordeste,912
+bc6bfcdd,Maio,Filial Sul,1942
+106cab4b,Agosto,Filial Norte,3599
+3d5b762d,Dezembro,Filial Norte,4563
+ee551b07,Janeiro,Filial Nordeste,1777
+488fa2bd,Setembro,Filial Nordeste,4761
+658c11b1,Novembro,Filial Sul,697
+6d63e291,Dezembro,Filial Sul,1077
+ba77c03d,Agosto,Filial Sul,3038
+dfbcb448,Novembro,Filial Sul,2242
+966426dc,Dezembro,Filial Nordeste,838
+946e2fcc,Julho,Filial Norte,164
+05f50e3a,Fevereiro,Matriz,1273
+ea7d4a36,Setembro,Matriz,1243
+9266700d,Setembro,Filial Norte,3267
+f3e3ae9f,Julho,Matriz,838
+5536394e,Dezembro,Filial Norte,4199
+de1e2b1b,Dezembro,Matriz,2006
+0d98088e,Outubro,Filial Sul,3644
+a8f63b2b,Junho,Filial Sul,4866
+2373b23f,Outubro,Filial Sul,1523
+4d0daa10,Junho,Filial Sul,683
+1a37633c,Marco,Matriz,4266
+8bc75424,Outubro,Filial Norte,996
+a80ebccc,Julho,Filial Norte,4390
+e97e9438,Marco,Matriz,104
+051c7f53,Novembro,Matriz,891
+b97480fa,Junho,Filial Nordeste,2516
+2e1ad69f,Agosto,Filial Sul,4891
+19589ef9,Outubro,Filial Norte,4279
+17bba41f,Novembro,Matriz,3325
+43dd8f07,Agosto,Filial Sul,568
+e4c0f9a8,Abril,Matriz,4437
+0749b1d8,Julho,Filial Sul,2925
+37587376,Abril,Matriz,2889
+4d489a70,Janeiro,Filial Sul,4434
+d242d942,Maio,Filial Sul,1357
+08f21a47,Janeiro,Matriz,669
+c2e74d8b,Setembro,Matriz,1077
+03f016f2,Julho,Matriz,1448
+2bb8b0a1,Maio,Filial Sul,336
+9a339f7a,Janeiro,Filial Norte,364
+0160b68f,Marco,Filial Sul,1931
+22c71e56,Outubro,Matriz,4940
+957fc128,Julho,Filial Sul,2442
+fa622eee,Janeiro,Filial Nordeste,3580
+3ed0141b,Agosto,Filial Nordeste,189
+a483ece4,Outubro,Filial Sul,2985
+62517c1c,Junho,Filial Nordeste,1890
+f5381e87,Novembro,Filial Sul,4861
+c26ab607,Maio,Filial Norte,709
+634cddbd,Agosto,Filial Nordeste,4765
+6077b906,Junho,Filial Sul,107
+5a2c1407,Agosto,Matriz,4945
+315ff215,Fevereiro,Filial Norte,1515
+c74a55cc,Marco,Matriz,1355
+2c562f29,Janeiro,Filial Norte,659
+c3535f45,Novembro,Filial Sul,1005
+0848b14d,Setembro,Filial Nordeste,4235
+c7367a85,Janeiro,Filial Sul,2157
+91615c78,Novembro,Matriz,2514
+8f1d2f2b,Abril,Filial Nordeste,2406
+6233eeb4,Setembro,Filial Norte,709
+7931dff4,Setembro,Filial Norte,958
+6c5d85fd,Outubro,Filial Nordeste,3084
+4733ceb6,Dezembro,Filial Nordeste,589
+69a7912c,Abril,Filial Sul,2592
+d5504282,Junho,Filial Norte,2133
+016095f9,Junho,Matriz,3911
+e5829a32,Janeiro,Filial Norte,2631
+83c203d4,Marco,Matriz,4767
+4e17401f,Junho,Filial Sul,682
+b6be5fa6,Abril,Matriz,2188
+1864588a,Abril,Filial Sul,3116
+9dd54e05,Junho,Filial Norte,3730
+278e5a29,Julho,Filial Nordeste,1182
+79f42652,Outubro,Matriz,4769
+af00948b,Janeiro,Filial Norte,308
+c734883e,Agosto,Filial Nordeste,4337
+58ec4478,Novembro,Filial Sul,1625
+c39d1eb0,Outubro,Filial Norte,1581
+4ff299fa,Dezembro,Filial Norte,1726
+2c345edf,Marco,Matriz,4134
+769efb15,Abril,Matriz,1109
+31113cc1,Novembro,Filial Sul,172
+4fd9aa6c,Abril,Filial Norte,3081
+e226a435,Agosto,Filial Sul,4923
+7b190df8,Agosto,Filial Nordeste,1606
+adfe2c15,Julho,Filial Norte,3879
+4ef624c7,Janeiro,Matriz,3929
+48f20afa,Setembro,Filial Nordeste,2772
+79a73d3a,Fevereiro,Filial Norte,1137
+5233fab3,Setembro,Matriz,2291
+e1c1bf25,Fevereiro,Filial Nordeste,3702
+2ceacb32,Maio,Filial Sul,2947
+7dea3dca,Outubro,Filial Sul,2588
+1d4ce9e0,Outubro,Filial Sul,4426
+83ed8c72,Fevereiro,Filial Sul,144
+ddf6e394,Agosto,Matriz,4090
+fc14f6bc,Junho,Filial Nordeste,4366
+c07c3758,Dezembro,Matriz,208
+29508656,Novembro,Filial Norte,4458
+c09bcb19,Dezembro,Filial Norte,1786
+e48449cf,Maio,Filial Sul,2218
+fce81e16,Setembro,Filial Nordeste,2199
+e771dd37,Marco,Filial Sul,2271
+f0c798c3,Abril,Filial Norte,1759
+34484887,Outubro,Filial Norte,406
+60b5ff97,Outubro,Filial Sul,3125
+ff1c071a,Junho,Matriz,3279
+8566e1fe,Dezembro,Filial Nordeste,2804
+9e6416ab,Julho,Filial Nordeste,1389
+d45087f5,Maio,Matriz,3514
+0bf2c9d8,Agosto,Filial Sul,1661
+8152f663,Julho,Filial Sul,1366
+83e09e5b,Marco,Filial Nordeste,3491
+69b60342,Dezembro,Filial Sul,3275
+90a06686,Janeiro,Matriz,4297
+bc7dda6f,Marco,Filial Norte,217
+62806188,Janeiro,Filial Nordeste,2865
+58cc06cd,Outubro,Matriz,558
+4d225397,Outubro,Filial Nordeste,1634
+839a5f49,Fevereiro,Filial Nordeste,2038
+9f760a0e,Agosto,Matriz,1352
+0554a602,Dezembro,Filial Sul,4751
+b01454c7,Fevereiro,Filial Norte,2139
+cc1cf0b6,Novembro,Filial Nordeste,1599
+1bbc0e13,Fevereiro,Filial Norte,1447
+e1c705c4,Janeiro,Filial Norte,2404
+bb852967,Agosto,Matriz,291
+9bf7d0c5,Outubro,Filial Sul,2438
+bc5e0ec8,Novembro,Filial Nordeste,820
+09b680a0,Setembro,Filial Nordeste,3843
+d7fa31bd,Dezembro,Filial Sul,1644
+94ac2987,Maio,Filial Norte,4577
+24aeb8ee,Setembro,Filial Sul,1311
+3ea20e55,Fevereiro,Filial Norte,3362
+b9efeddb,Julho,Filial Norte,2547
+22bb23c7,Dezembro,Filial Nordeste,4981
+62078a76,Novembro,Filial Norte,3153
+ad2541cc,Outubro,Filial Nordeste,1891
+d91bfca1,Janeiro,Matriz,828
+c44208ef,Abril,Filial Sul,3681
+c97ea8a5,Outubro,Filial Nordeste,2879
+04b991d7,Novembro,Filial Sul,1900
+9a557f24,Setembro,Filial Sul,2151
+4c6036cf,Fevereiro,Filial Sul,4558
+7df81521,Maio,Filial Norte,3055
+b8ece71c,Fevereiro,Filial Norte,4370
+28545193,Julho,Filial Nordeste,951
+4bc6703a,Novembro,Filial Sul,4087
+c45697d7,Abril,Filial Nordeste,2071
+f710353a,Maio,Matriz,4063
+3626247e,Abril,Filial Norte,317
+96f76f51,Marco,Matriz,2136
+6f1d05dd,Agosto,Filial Norte,2616
+bf0d6666,Fevereiro,Filial Sul,665
+b4612140,Janeiro,Filial Sul,460
+73e2a9eb,Julho,Matriz,4594
+110d3d20,Setembro,Filial Nordeste,1730
+86f9053c,Agosto,Filial Sul,4246
+9a7f10d5,Agosto,Filial Nordeste,578
+3b348899,Maio,Matriz,193
+f432981d,Fevereiro,Filial Sul,4803
+68265448,Outubro,Filial Sul,1184
+151f90c9,Novembro,Filial Norte,316
+b51064af,Agosto,Filial Nordeste,1750
+e3e82143,Setembro,Matriz,4509
+f6212046,Marco,Filial Nordeste,1220
+af5f36f1,Junho,Filial Nordeste,4730
+b64948b4,Dezembro,Matriz,876
+936f5ae7,Dezembro,Filial Nordeste,4227
+ee1e677c,Agosto,Filial Nordeste,4386
+e9fc8595,Janeiro,Matriz,3787
+d7ead93b,Dezembro,Filial Sul,1919
+e67dec3b,Agosto,Filial Nordeste,2271
+cbf41250,Agosto,Matriz,4935
+87076eab,Outubro,Filial Nordeste,701
+6c6bb1eb,Novembro,Filial Sul,3233
+af5270af,Dezembro,Filial Sul,1813
+643cf9ff,Abril,Filial Nordeste,4162
+dbc6740c,Marco,Filial Sul,693
+ab6f87d9,Agosto,Filial Nordeste,4684
+b75f429f,Agosto,Filial Norte,3410
+1d2b4345,Outubro,Filial Norte,1295
+c17bcb8d,Dezembro,Matriz,4123
+f9a57583,Agosto,Filial Sul,400
+2a402690,Fevereiro,Matriz,1606
+1a00f849,Marco,Filial Norte,3039
+fadc965b,Novembro,Filial Norte,2397
+1decf30b,Dezembro,Filial Norte,3286
+24a6a9bb,Fevereiro,Filial Nordeste,1704
+c0ea281e,Maio,Filial Nordeste,3812
+22649726,Agosto,Filial Sul,4030
+2f0071f0,Janeiro,Filial Sul,955
+482c93d7,Setembro,Filial Sul,2193
+a6d22a41,Maio,Filial Norte,118
+a280f15d,Fevereiro,Matriz,335
+41c7553c,Julho,Filial Norte,2575
+213d5341,Outubro,Filial Nordeste,3260
+2228a8ff,Dezembro,Matriz,1699
+0b6e20ae,Janeiro,Matriz,942
+2ac40ed9,Julho,Filial Norte,3470
+938300db,Agosto,Matriz,3005
+4a879128,Setembro,Filial Nordeste,1582
+e08a6f22,Fevereiro,Filial Nordeste,3830
+a47c6fa8,Maio,Filial Norte,3318
+af614f85,Novembro,Filial Norte,4823
+71dfbc3a,Fevereiro,Filial Nordeste,2459
+32cc7b3f,Outubro,Matriz,1121
+053b8ff8,Janeiro,Matriz,4011
+79565c69,Abril,Filial Nordeste,1691
+5c175acf,Fevereiro,Filial Nordeste,1812
+2e3f7237,Julho,Filial Sul,2107
+38f6843a,Maio,Matriz,1718
+563e9db4,Dezembro,Filial Nordeste,1213
+6e771cae,Setembro,Filial Norte,2257
+1fda758b,Novembro,Filial Norte,143
+313aff8d,Maio,Filial Sul,4901
+18106511,Janeiro,Filial Norte,2841
+027f3e8b,Janeiro,Filial Norte,3627
+a340bda3,Outubro,Matriz,4421
+d70f24d7,Agosto,Filial Sul,4895
+3b2b29ba,Abril,Matriz,2783
+3369921c,Agosto,Matriz,822
+63539145,Novembro,Matriz,846
+99283e6a,Outubro,Filial Nordeste,2437
+59e3772d,Maio,Matriz,4035
+3bb8927f,Marco,Filial Norte,2975
+56f02f41,Dezembro,Filial Sul,925
+6b417102,Dezembro,Matriz,4610
+e7b6134b,Marco,Filial Sul,1071
+519e63e9,Agosto,Filial Sul,859
+261b3e8f,Julho,Filial Sul,1544
+9d0e2be8,Janeiro,Filial Nordeste,339
+b3c47235,Setembro,Filial Sul,2756
+741c698b,Julho,Filial Nordeste,3350
+d6210e05,Dezembro,Filial Sul,4503
+326db65e,Junho,Filial Nordeste,187
+b5627e0c,Agosto,Filial Norte,2619
+fbbd0978,Marco,Filial Sul,1786
+d98098fb,Junho,Matriz,1174
+a6450e1c,Novembro,Filial Sul,236
+b26a8bbe,Setembro,Filial Sul,2309
+fded3a14,Maio,Matriz,4979
+b4c36274,Setembro,Filial Norte,4822
+f7ec4b61,Fevereiro,Filial Sul,4181
+fe1a65d9,Novembro,Filial Norte,1022
+6d4b3adf,Marco,Filial Norte,903
+758e5730,Novembro,Filial Sul,4527
+50d65042,Novembro,Filial Sul,3648
+5460d4e7,Setembro,Filial Norte,4818
+36b94b64,Maio,Filial Nordeste,4705
+e208caae,Maio,Filial Sul,468
+6f0284f0,Fevereiro,Filial Nordeste,3243
+b18d7a39,Fevereiro,Filial Nordeste,3951
+d131d6a6,Dezembro,Matriz,3515
+49282aca,Fevereiro,Filial Norte,593
+e2876e18,Agosto,Filial Sul,3298
+e83b4e65,Junho,Matriz,4983
+a31e153e,Outubro,Filial Norte,2240
+e34f7493,Janeiro,Filial Sul,2457
+f63fce70,Novembro,Filial Sul,3501
+95a47161,Abril,Matriz,2238
+eb05ee80,Marco,Filial Norte,4866
+b2eff697,Janeiro,Filial Sul,4952
+c4e9e2af,Janeiro,Matriz,3759
+ef21aa4e,Maio,Matriz,525
+ad69cbae,Julho,Matriz,267
+696474b7,Janeiro,Filial Nordeste,606
+212e2996,Outubro,Filial Nordeste,3681
+4788f391,Agosto,Filial Sul,542
+16d5aa3a,Fevereiro,Filial Norte,1451
+c07851cb,Abril,Filial Norte,2090
+351e42e9,Agosto,Matriz,2636
+b48dd076,Novembro,Filial Norte,1564
+446c9975,Junho,Filial Norte,2359
+bb71ce89,Agosto,Filial Nordeste,2621
+59161999,Marco,Filial Norte,3176
+7832bc0b,Novembro,Filial Norte,2453
+3268a0d3,Outubro,Filial Nordeste,4346
+afc6cfb0,Fevereiro,Filial Sul,640
+be841984,Agosto,Filial Nordeste,601
+1df4c8be,Janeiro,Filial Nordeste,3017
+bc40ea49,Setembro,Matriz,2617
+41107869,Setembro,Filial Sul,2506
+29ff1d4e,Setembro,Filial Sul,3549
+93747ee2,Janeiro,Filial Sul,3897
+c573e062,Marco,Filial Nordeste,2230
+cc6c8325,Junho,Filial Nordeste,3448
+04ded104,Julho,Matriz,3733
+e494cf2a,Novembro,Filial Nordeste,5000
+37990717,Novembro,Filial Norte,1843
+d4c79ec4,Outubro,Filial Nordeste,2670
+21da8387,Marco,Matriz,4443
+238d5cd1,Fevereiro,Filial Sul,2628
+fc17af03,Dezembro,Filial Norte,3331
+a835527b,Dezembro,Filial Nordeste,1858
+381528f8,Abril,Filial Norte,2347
+fc47c84a,Novembro,Filial Nordeste,3746
+b85ad879,Junho,Filial Sul,542
+001a1491,Dezembro,Filial Sul,1287
+aeadf02a,Julho,Matriz,3295
+feb8e2c8,Fevereiro,Filial Nordeste,4143
+0a1537cd,Fevereiro,Filial Norte,1902
+daba808d,Dezembro,Matriz,122
+003e1182,Dezembro,Filial Norte,1236
+587396c1,Novembro,Filial Norte,293
+2c7ef3e9,Janeiro,Matriz,2933
+29958bed,Setembro,Filial Sul,1184
+3b74d604,Agosto,Matriz,4969
+efed5b2a,Dezembro,Filial Norte,2471
+0c318b24,Abril,Filial Sul,1905
+2633b8df,Setembro,Filial Sul,3687
+c03b577f,Setembro,Filial Sul,1393
+c75f91ac,Abril,Filial Norte,2031
+8044e08e,Agosto,Filial Sul,4098
+db574935,Novembro,Filial Nordeste,2815
+eb650391,Marco,Matriz,716
+c535410d,Dezembro,Matriz,3355
+dc717e8c,Junho,Filial Nordeste,4450
+d5453895,Julho,Matriz,1906
+76c655b0,Setembro,Filial Nordeste,1189
+d3319579,Junho,Filial Norte,4212
+9f8e3258,Junho,Matriz,2748
+ccdfb04b,Junho,Filial Sul,4953
+6b913dc5,Maio,Filial Sul,2697
+4c1c8f6f,Janeiro,Matriz,3771
+933de0b3,Junho,Filial Nordeste,3112
+b7c3cbcd,Dezembro,Filial Sul,1281
+1692a0aa,Abril,Filial Norte,3072
+044a5df5,Abril,Filial Sul,233
+c3d72fe3,Junho,Filial Sul,2230
+5752982d,Janeiro,Matriz,404
+4724ab63,Abril,Matriz,3782
+6dd6a4b2,Dezembro,Matriz,2353
+641afc9c,Abril,Filial Nordeste,2995
+b42814f6,Agosto,Filial Sul,4325
+b8b9bd8a,Dezembro,Filial Norte,2080
+0077505c,Julho,Filial Norte,3936
+99846871,Outubro,Filial Norte,695
+8f889e17,Julho,Filial Norte,2113
+2588bd5f,Maio,Filial Norte,4442
+eafa1d10,Julho,Filial Nordeste,2417
+eb8d6252,Maio,Filial Nordeste,2923
+9955f75c,Fevereiro,Filial Sul,2874
+60d7242f,Janeiro,Matriz,2276
+95df6868,Janeiro,Filial Sul,4937
+d5619a4c,Setembro,Filial Nordeste,4093
+59b84d3c,Fevereiro,Filial Norte,3309
+cd4dad5d,Setembro,Filial Sul,1370
+3ba1ecb9,Fevereiro,Filial Nordeste,3758
+3851f591,Dezembro,Filial Sul,1386
+e1f8abda,Novembro,Filial Nordeste,1974
+58bcb79d,Novembro,Filial Sul,3702
+92f69eb0,Novembro,Filial Sul,3085
+616a3278,Agosto,Filial Sul,2040
+f82fc111,Novembro,Filial Norte,1577
+e4eb1a67,Junho,Filial Sul,4926
+003610bf,Dezembro,Matriz,4316
+0f38ef39,Maio,Filial Nordeste,3813
+f75639d8,Agosto,Filial Sul,3024
+5035b938,Outubro,Filial Sul,1566
+e96a3ff9,Dezembro,Filial Nordeste,4996
+7caa3a4f,Dezembro,Filial Sul,794
+1f133afc,Junho,Filial Sul,1292
+86139da8,Julho,Matriz,1837
+a47fe541,Junho,Filial Norte,1567
+dd2c2aff,Setembro,Matriz,491
+b5419668,Agosto,Filial Norte,4000
+13144fed,Agosto,Filial Sul,3223
+63be8a4d,Outubro,Filial Norte,4418
+65aed11e,Fevereiro,Filial Norte,2372
+61694e4c,Maio,Filial Norte,2418
+e4606ded,Dezembro,Matriz,3231
+91407f9e,Fevereiro,Filial Nordeste,3062
+90bde8b3,Fevereiro,Filial Nordeste,1536
+3cc4cc60,Janeiro,Filial Nordeste,3790
+3cd9e860,Marco,Filial Norte,4621
+ac484dcc,Abril,Filial Nordeste,552
+51eb90a6,Fevereiro,Filial Nordeste,1310
+14184f7f,Julho,Filial Norte,1762
+47ed1100,Janeiro,Matriz,4331
+768beadb,Maio,Filial Sul,331
+08e6bcd7,Junho,Filial Norte,1423
+fbf7e086,Maio,Filial Nordeste,4951
+f6679c51,Fevereiro,Filial Sul,725
+a0ee1de1,Junho,Filial Nordeste,1460
+ba1e481c,Maio,Matriz,3159
+096abcfe,Dezembro,Filial Norte,1211
+df27464c,Outubro,Filial Sul,436
+32c19a20,Novembro,Filial Norte,405
+3856d7cc,Outubro,Filial Sul,634
+20b4e98e,Abril,Filial Nordeste,3871
+2ccd31b6,Abril,Matriz,4950
+9e02a0ee,Novembro,Matriz,4780
+a3123f13,Novembro,Filial Sul,2603
+ba1772fa,Outubro,Filial Nordeste,1653
+aaea2528,Maio,Filial Nordeste,3580
+379012c8,Outubro,Filial Nordeste,164
+3e7da6d0,Novembro,Filial Norte,228
+9148ed1f,Fevereiro,Filial Sul,4282
+fa1f4723,Maio,Matriz,4399
+ee39a3af,Novembro,Matriz,818
+2598d553,Agosto,Filial Norte,2471
+3649a49e,Junho,Filial Norte,2435
+15f73771,Junho,Matriz,4657
+4f7122ef,Junho,Filial Sul,4360
+551f154d,Fevereiro,Filial Nordeste,4247
+a85f82ef,Dezembro,Filial Sul,539
+9eadae74,Marco,Filial Nordeste,651
+5d8ba644,Novembro,Filial Norte,4823
+e2c684e8,Dezembro,Filial Sul,213
+8d20c637,Maio,Filial Norte,1446
+058c414a,Abril,Filial Sul,4831
+2b909e43,Julho,Filial Sul,4032
+341cada3,Marco,Filial Nordeste,1939
+a9286ec9,Junho,Filial Nordeste,1452
+89502807,Outubro,Filial Norte,985
+71b766e9,Setembro,Filial Sul,3906
+e091b032,Fevereiro,Filial Sul,1893
+76d3427c,Agosto,Filial Sul,4528
+ac1593a8,Julho,Filial Sul,4713
+022053dd,Marco,Matriz,1503
+dcc3e972,Julho,Matriz,478
+ee723efa,Novembro,Filial Norte,168
+fb7d6589,Abril,Filial Nordeste,3522
+4f6cd22a,Fevereiro,Matriz,467
+e2976a3b,Outubro,Filial Norte,768
+be9c4777,Agosto,Matriz,1367
+ccc623ca,Dezembro,Filial Nordeste,2649
+b6b237b8,Outubro,Filial Norte,4825
+478e78a8,Fevereiro,Filial Nordeste,4978
+88c835e3,Junho,Filial Sul,4365
+2f55ceeb,Janeiro,Filial Norte,3982
+c79fb1b2,Junho,Filial Nordeste,1534
+b61a16ff,Julho,Filial Sul,4550
+dff0e773,Dezembro,Filial Nordeste,3007
+eff09280,Dezembro,Filial Sul,2822
+df6562c9,Setembro,Filial Sul,354
+94e90d61,Agosto,Filial Sul,1919
+9e0b661e,Abril,Filial Norte,3382
+b1ebd263,Janeiro,Filial Nordeste,2586
+e3ec918f,Setembro,Filial Nordeste,2308
+4754993b,Abril,Filial Norte,330
+aa346062,Abril,Matriz,2550
+f3635098,Fevereiro,Filial Sul,1431
+eec5cecf,Julho,Matriz,2845
+4bf523f6,Abril,Matriz,4403
+ae53418b,Setembro,Filial Norte,2446
+233ec9a6,Agosto,Filial Norte,3528
+7bab7740,Maio,Filial Nordeste,382
+b6928671,Outubro,Filial Nordeste,1540
+8e6c8dc0,Julho,Matriz,3590
+36e37301,Novembro,Filial Nordeste,2623
+2e511061,Agosto,Filial Nordeste,3124
+bc614155,Agosto,Filial Sul,1635
+938fa9bf,Outubro,Matriz,3428
+1b6c8688,Marco,Filial Norte,4017
+18de24e9,Agosto,Matriz,705
+4f4345d2,Abril,Filial Norte,2815
+0fad89d2,Junho,Filial Norte,1956
+77e277eb,Agosto,Filial Sul,2440
+534f50f9,Fevereiro,Filial Nordeste,982
+b7f49247,Outubro,Filial Norte,4821
+cfb00188,Abril,Filial Sul,4071
+96206385,Abril,Filial Norte,3000
+120d588a,Fevereiro,Filial Sul,3014
+bbd6035d,Setembro,Filial Nordeste,2888
+7996ad71,Janeiro,Matriz,730
+a7a887a3,Junho,Filial Nordeste,459
+1fcd79b9,Novembro,Matriz,1210
+0521026d,Junho,Matriz,1263
+5cb2e909,Novembro,Filial Sul,3122
+ac5e69ff,Janeiro,Matriz,2528
+9385e08f,Fevereiro,Matriz,1121
+416ce9c8,Novembro,Filial Nordeste,132
+85b16771,Novembro,Matriz,3358
+1a5d4ceb,Julho,Filial Norte,190
+75912a4c,Outubro,Filial Nordeste,2616
+aae7e175,Janeiro,Filial Sul,3852
+81dc53ab,Junho,Filial Sul,2384
+35248768,Abril,Filial Sul,2190
+45c4b396,Maio,Filial Nordeste,4649
+78262571,Setembro,Filial Norte,508
+f477c10b,Outubro,Matriz,454
+4c4838fd,Dezembro,Matriz,2075
+29ea5475,Julho,Matriz,4161
+dae67641,Setembro,Filial Nordeste,584
+e00c70c3,Abril,Filial Sul,1500
+485444e7,Maio,Matriz,3161
+584a86d5,Marco,Filial Norte,4108
+2e02688b,Junho,Matriz,231
+89b12013,Janeiro,Filial Sul,2453
+0d0f55a1,Dezembro,Matriz,660
+6e41711a,Dezembro,Filial Nordeste,280
+29f0bea0,Julho,Filial Sul,1905
+13c19602,Agosto,Matriz,241
+c7c404b4,Dezembro,Filial Norte,1478
+321bc015,Fevereiro,Filial Sul,1800
+35cbd4a4,Maio,Filial Sul,2146
+fede7662,Dezembro,Filial Sul,2416
+ed992214,Setembro,Matriz,211
+dd0172a1,Julho,Filial Nordeste,4834
+9e1a6251,Dezembro,Matriz,2395
+bbe472ed,Agosto,Filial Norte,4441
+f1928093,Outubro,Matriz,618
+eba9218b,Novembro,Matriz,724
+fe14615e,Novembro,Matriz,3889
+0f0cc431,Abril,Filial Nordeste,3163
+63b53bf5,Novembro,Filial Nordeste,3910
+b97525aa,Janeiro,Filial Norte,1108
+59bd116b,Outubro,Filial Norte,2356
+177b3079,Agosto,Filial Norte,3180
+38697a10,Setembro,Filial Nordeste,4267
+5d1accfe,Julho,Filial Norte,4892
+1d3f1e2a,Abril,Filial Nordeste,4054
+80288e80,Janeiro,Filial Nordeste,4003
+039730b7,Maio,Matriz,3834
+f3ac585a,Outubro,Filial Norte,4854
+fbc965de,Agosto,Filial Nordeste,1243
+c937ab30,Julho,Filial Nordeste,4402
+b402ee72,Agosto,Filial Sul,4616
+0874ffda,Abril,Matriz,1276
+35846cdd,Outubro,Filial Nordeste,2178
+d1d52b3c,Julho,Matriz,2651
+a5d8db7f,Junho,Matriz,3512
+dab41893,Outubro,Filial Nordeste,2051
+65068748,Setembro,Filial Sul,1124
+263e48a1,Junho,Filial Nordeste,2119
+79fa8fb7,Janeiro,Filial Sul,3259
+4697b314,Fevereiro,Filial Nordeste,763
+85805f7f,Outubro,Filial Norte,1936
+93cd3f0b,Julho,Filial Nordeste,2394
+16c7ebb4,Julho,Filial Nordeste,1332
+9090c158,Agosto,Matriz,4260
+5aa30ee6,Marco,Filial Sul,424
+2be121a2,Novembro,Matriz,3694
+50f117ef,Janeiro,Matriz,3144
+6421cc6e,Marco,Filial Nordeste,3586
+8839f14e,Maio,Matriz,2622
+fb194c8b,Marco,Filial Norte,2743
+739f829c,Outubro,Filial Norte,3703
+abd08ee0,Novembro,Filial Sul,3009
+10f642f0,Janeiro,Matriz,2489
+55f5e2dc,Setembro,Filial Norte,2847
+25246bf0,Abril,Filial Norte,260
+a72dc177,Agosto,Filial Nordeste,2192
+1382f935,Janeiro,Filial Norte,3916
+0e3fc994,Agosto,Matriz,2517
+26b16bca,Maio,Filial Sul,4725
+d303c5ad,Maio,Filial Nordeste,311
+e57fa114,Marco,Matriz,2082
+b03d8aad,Outubro,Filial Sul,835
+e14110b5,Outubro,Matriz,1656
+0438086e,Junho,Matriz,808
+1d9cf864,Fevereiro,Filial Nordeste,2506
+79dfa002,Fevereiro,Filial Nordeste,4952
+e56ec231,Novembro,Matriz,4816
+cca76e3e,Marco,Filial Sul,2257
+48c77d56,Junho,Filial Sul,1286
+ccb2ff44,Fevereiro,Matriz,4177
+ed968deb,Junho,Matriz,2922
+b0bcd946,Agosto,Matriz,1651
+15375893,Marco,Matriz,408
+5c208760,Fevereiro,Filial Sul,1852
+4f8a93bf,Novembro,Filial Nordeste,1941
+efdc820f,Maio,Filial Sul,481
+d6632901,Novembro,Filial Nordeste,413
+abb80bf3,Marco,Filial Norte,4946
+087bf454,Agosto,Filial Sul,1296
+e96a9243,Junho,Matriz,1779
+02394dc6,Fevereiro,Filial Norte,2242
+1d589e57,Fevereiro,Matriz,4898
+9ad4b8b5,Abril,Filial Nordeste,4040
+f36fb673,Dezembro,Matriz,1575
+ce944a01,Dezembro,Filial Sul,4489
+232a43bb,Marco,Filial Sul,595
+7fc74c63,Dezembro,Filial Nordeste,799
+6e4b5aac,Janeiro,Filial Norte,4621
+169dc05e,Marco,Filial Norte,838
+d5a28211,Fevereiro,Filial Norte,1883
+3491f157,Junho,Filial Nordeste,3100
+2a098e6a,Julho,Filial Norte,2147
+b609b93e,Julho,Filial Nordeste,682
+b4a4bf51,Novembro,Filial Sul,4767
+a873c176,Maio,Filial Nordeste,2256
+5c6a4fb9,Junho,Filial Norte,1514
+50b9ba99,Janeiro,Filial Sul,953
+9a5db414,Novembro,Matriz,960
+5dc41264,Janeiro,Filial Nordeste,4521
+5b4ccd6b,Outubro,Filial Norte,473
+97dc1de2,Outubro,Filial Sul,2874
+ab4e4a15,Marco,Filial Norte,1761
+4e5fe2d7,Dezembro,Matriz,4801
+27ab20dc,Abril,Filial Nordeste,1996
+8667951c,Novembro,Filial Norte,134
+1c4c1d2c,Fevereiro,Filial Sul,1051
+7ff962fc,Fevereiro,Filial Nordeste,2387
+d0dd53b5,Agosto,Matriz,834
+71468139,Junho,Filial Sul,161
+2a304973,Janeiro,Filial Norte,291
+3d43e64d,Setembro,Filial Sul,1745
+340ef422,Maio,Filial Sul,2310
+f42b80e6,Setembro,Matriz,1774
+98ad5a76,Janeiro,Filial Norte,2009
+b8fd3095,Marco,Filial Nordeste,4380
+61596474,Maio,Filial Norte,3849
+b36b5d35,Setembro,Matriz,4118
+a81bdb12,Janeiro,Filial Nordeste,155
+b96000e3,Outubro,Filial Nordeste,657
+94302f52,Maio,Matriz,2816
+97cd7eb7,Abril,Filial Sul,3234
+3a48f092,Dezembro,Filial Norte,1805
+54d0b7ad,Julho,Filial Sul,4573
+3137a034,Outubro,Matriz,561
+30f45727,Setembro,Matriz,4809
+0fc4feb7,Setembro,Matriz,1294
+74515d1c,Agosto,Filial Norte,307
+c7696cdc,Agosto,Filial Norte,3977
+7e319059,Agosto,Filial Nordeste,1503
+433c246a,Agosto,Filial Nordeste,1073
+bd7483b1,Julho,Filial Norte,4895
+67ca663a,Novembro,Filial Nordeste,1391
+417a3607,Novembro,Matriz,3187
+ea358c09,Agosto,Filial Nordeste,3235
+dd98e75c,Janeiro,Matriz,2745
+e78d60ab,Novembro,Filial Norte,827
+9138f708,Setembro,Filial Sul,1218
+9a37697e,Agosto,Matriz,1852
+b9b6c9d3,Setembro,Matriz,4606
+95c05c38,Janeiro,Filial Sul,1973
+95773d23,Novembro,Filial Norte,2362
+1c77d00e,Julho,Filial Sul,3847
+6d551896,Julho,Matriz,2536
+32c7895e,Maio,Matriz,4687
+2126a1f0,Outubro,Filial Sul,1000
+16bfa757,Fevereiro,Filial Norte,527
+4be564c1,Marco,Filial Nordeste,4606
+04b8e01f,Maio,Filial Nordeste,4003
+e2753857,Agosto,Filial Norte,1024
+a586c7fa,Fevereiro,Filial Sul,489
+8f6f1579,Dezembro,Filial Nordeste,1661
+2968c5fd,Dezembro,Filial Sul,4468
+468060ff,Setembro,Matriz,548
+35b94a3c,Junho,Filial Norte,3284
+08e2459a,Setembro,Filial Sul,3463
+7c7b1eec,Fevereiro,Filial Sul,2559
+476c1b2e,Marco,Matriz,2156
+98b844f3,Maio,Filial Nordeste,3504
+65c8db9b,Janeiro,Filial Sul,2346
+42bb1a42,Junho,Filial Norte,3015
+62d58cb9,Novembro,Filial Nordeste,821
+1629d74b,Setembro,Filial Norte,378
+8a2daf26,Maio,Filial Norte,3510
+97a3f78c,Novembro,Matriz,2205
+efb1d02a,Junho,Filial Nordeste,3591
+25c9c1ec,Outubro,Filial Sul,3673
+7078a372,Junho,Matriz,753
+01c6c201,Junho,Matriz,3231
+fe42a7d8,Janeiro,Filial Norte,2512
+af695f35,Julho,Filial Nordeste,2919
+a4b18a72,Fevereiro,Filial Nordeste,3429
+f799f99e,Junho,Filial Nordeste,4306
+fe366830,Junho,Matriz,3696
+2ebdd828,Novembro,Filial Sul,3836
+c90da991,Janeiro,Filial Norte,1437
+6fcbd42e,Marco,Filial Sul,1967
+b91d6cd4,Setembro,Filial Nordeste,1819
+62ced681,Marco,Filial Nordeste,2814
+a5c882dd,Agosto,Filial Nordeste,3985
+1c201008,Maio,Filial Sul,4871
+eee00003,Fevereiro,Filial Sul,3488
+6d1f7517,Fevereiro,Filial Nordeste,4246
+db4a7fa3,Fevereiro,Filial Norte,3452
+ebe7ae02,Maio,Matriz,1387
+4741244b,Maio,Matriz,3131
+bab2d11c,Fevereiro,Filial Nordeste,683
+1297fb69,Agosto,Matriz,3966
+81767d5d,Novembro,Filial Sul,2129
+34131e2c,Novembro,Filial Sul,4489
+4113f13c,Janeiro,Matriz,800
+7bd62f0d,Agosto,Filial Norte,2669
+b19ba228,Outubro,Matriz,901
+8aa1f85c,Fevereiro,Filial Norte,2639
+63379716,Setembro,Filial Norte,1259
+65487002,Maio,Filial Nordeste,1548
+ddca464f,Agosto,Filial Norte,562
+2c6da8a6,Abril,Filial Norte,4960
+f703da35,Fevereiro,Filial Norte,4562
+c0a71bcb,Dezembro,Filial Nordeste,3240
+413c7a13,Marco,Matriz,1075
+55323621,Dezembro,Matriz,3569
+97bf8d73,Fevereiro,Matriz,1523
+5dbc762b,Setembro,Filial Norte,4834
+97c526a5,Janeiro,Matriz,1340
+5dbaa32d,Marco,Filial Sul,3365
+0e8150aa,Agosto,Filial Norte,4471
+52622813,Janeiro,Filial Nordeste,1564
+bedb8ba4,Maio,Filial Norte,4098
+ebcfcbc0,Marco,Filial Sul,3222
+fb37041f,Julho,Matriz,801
+d6c5aa2a,Janeiro,Filial Norte,4004
+b23691ab,Fevereiro,Filial Sul,3418
+d5bf37cb,Agosto,Matriz,980
+809bd678,Novembro,Filial Norte,2233
+9b94e087,Dezembro,Matriz,4537
+4a7463c4,Maio,Matriz,1370
+9f7dd1de,Agosto,Filial Norte,2063
+c6d0a934,Fevereiro,Matriz,2793
+c4748c78,Setembro,Matriz,879
+6b691825,Julho,Matriz,2388
+80b9c2fe,Janeiro,Filial Norte,1914
+b402bc7d,Abril,Filial Norte,2828
+74579862,Janeiro,Filial Norte,1662
+0302a2ec,Setembro,Filial Nordeste,3900
+af15b4d6,Novembro,Filial Norte,3016
+35f89ebf,Junho,Filial Norte,2229
+170f3b75,Setembro,Filial Norte,2952
+27d7e604,Agosto,Filial Nordeste,2411
+9248b255,Abril,Matriz,718
+759ca792,Junho,Matriz,1215
+ec05a3a8,Setembro,Filial Sul,4893
+07eef353,Junho,Filial Sul,3279
+e17d4875,Fevereiro,Filial Norte,1537
+243903bc,Maio,Filial Nordeste,1731
+f44d9e09,Abril,Filial Nordeste,1528
+39a304c2,Maio,Filial Sul,3007
+cec69513,Abril,Filial Nordeste,1588
+04915796,Marco,Filial Norte,3674
+11ae300f,Janeiro,Filial Nordeste,3141
+c1bcdac7,Junho,Matriz,771
+f7472e8a,Julho,Filial Norte,1586
+250e1ba3,Janeiro,Filial Norte,4018
+16b4742b,Outubro,Filial Norte,542
+40040685,Marco,Filial Sul,3655
+f45f07e9,Agosto,Filial Norte,3208
+7f8dbf7c,Dezembro,Filial Norte,3806
+680cecb6,Junho,Filial Sul,1929
+4adfd724,Fevereiro,Filial Sul,4725
+da404d42,Dezembro,Filial Sul,4188
+823d36c9,Abril,Matriz,1075
+d588a9d8,Maio,Filial Sul,580
+6f88f087,Janeiro,Filial Norte,3499
+f181f57b,Abril,Filial Norte,4621
+094cec31,Julho,Filial Nordeste,3622
+ada350f0,Junho,Matriz,2343
+b5f1f43a,Abril,Matriz,4660
+19529e06,Maio,Filial Norte,1674
+fff792a3,Fevereiro,Filial Sul,1570
+27303a3d,Setembro,Filial Sul,3664
+1d69bb6a,Abril,Matriz,3336
+2e925df6,Agosto,Matriz,2260
+2011e1fe,Marco,Filial Norte,3527
+c4974f4e,Novembro,Matriz,3763
+7bb91410,Outubro,Filial Nordeste,686
+42ff3eda,Junho,Filial Norte,4172
+2ef7afe3,Agosto,Filial Nordeste,4206
+09321cd4,Setembro,Filial Norte,2549
+53509cbb,Agosto,Matriz,2451
+32e30c22,Outubro,Matriz,2772
+fe087a46,Agosto,Filial Nordeste,1204
+07a974ba,Dezembro,Filial Norte,4824
+623958d8,Setembro,Matriz,2941
+b6793cf5,Maio,Filial Nordeste,4472
+a95d586b,Setembro,Filial Norte,2472
+7442a9d2,Abril,Filial Nordeste,2777
+7ff1d944,Janeiro,Matriz,1873
+f22980b0,Novembro,Filial Norte,2360
+c2c6eb74,Marco,Filial Norte,510
+9b7a7253,Fevereiro,Matriz,4248
+2307c61b,Novembro,Filial Norte,3634
+918fdcd0,Junho,Filial Sul,4709
+1643cfd9,Janeiro,Filial Nordeste,2173
+e72bec6c,Maio,Filial Nordeste,3338
+5594d5c1,Outubro,Filial Nordeste,682
+99375702,Setembro,Filial Norte,1616
+62ccb8a4,Abril,Matriz,3707
+209ab2ea,Janeiro,Filial Norte,4372
+3fca940a,Junho,Filial Nordeste,167
+f0cd2809,Junho,Filial Nordeste,4960
+826c20c6,Outubro,Filial Sul,1127
+817a0568,Marco,Matriz,3282
+7a8fc40a,Marco,Matriz,208
+cdb57cc2,Fevereiro,Matriz,4182
+093a4ae1,Fevereiro,Matriz,2451
+eea5c069,Marco,Filial Nordeste,1405
+248bfe93,Setembro,Filial Sul,2356
+8b376fd8,Maio,Filial Nordeste,3839
+68fcebb1,Dezembro,Matriz,694
+cb6c4f02,Abril,Matriz,1168
+ce47ecc2,Fevereiro,Filial Sul,232
+f5b83097,Abril,Filial Norte,920
+7383009f,Marco,Filial Sul,776
+589c5119,Abril,Filial Nordeste,1237
+ea68baf7,Dezembro,Filial Sul,2696
+44b36eaa,Fevereiro,Filial Sul,1289
+2172edfb,Junho,Filial Norte,2121
+4aaae4a9,Julho,Matriz,1174
+f496a20e,Marco,Matriz,919
+71c9faed,Julho,Filial Norte,3929
+e1eecfc7,Fevereiro,Filial Sul,1833
+084b55d7,Outubro,Filial Nordeste,2679
+c29b37c9,Dezembro,Filial Nordeste,1564
+a57fed76,Fevereiro,Filial Nordeste,4873
+c57ab1ee,Julho,Matriz,1272
+e7271dd3,Julho,Filial Norte,326
+44f4d46a,Fevereiro,Matriz,426
+7e7cd6d5,Julho,Filial Sul,3975
+bca827a3,Novembro,Matriz,1605
+a2aaee7d,Maio,Filial Nordeste,3949
+2018f4c3,Janeiro,Filial Nordeste,4428
+e1883140,Dezembro,Matriz,3455
+90c9d620,Dezembro,Filial Nordeste,1931
+ea36ff3e,Abril,Filial Nordeste,2148
+191ef0a5,Junho,Filial Nordeste,753
+89ac126e,Agosto,Filial Nordeste,2104
+ac89d7fd,Agosto,Filial Sul,4431
+3f8fa486,Setembro,Filial Nordeste,4654
+5a4fde3a,Maio,Filial Norte,1429
+0db67802,Maio,Matriz,4012
+ca880240,Dezembro,Filial Nordeste,471
+55080adb,Junho,Filial Sul,2776
+e649819f,Novembro,Filial Nordeste,3615
+d7a5802a,Outubro,Filial Sul,2656
+0c63a80c,Junho,Filial Nordeste,911
+4e700422,Novembro,Filial Nordeste,2708
+c352d1ff,Fevereiro,Filial Sul,3667
+08ce3ae4,Janeiro,Matriz,363
+3126fa50,Agosto,Filial Sul,1013
+24e6b9d9,Maio,Filial Norte,3440
+ca36dd06,Marco,Filial Norte,4054
+37087bf7,Outubro,Filial Nordeste,3764
+9168b27f,Marco,Matriz,4825
+a1148f24,Agosto,Filial Norte,223
+9cfba603,Marco,Filial Nordeste,3263
+6ef8b260,Outubro,Filial Nordeste,3866
+e8b66882,Agosto,Filial Sul,1282
+d8df06de,Fevereiro,Filial Sul,3329
+c9eb74af,Julho,Matriz,3012
+21f71980,Agosto,Filial Norte,4834
+deddc8b4,Fevereiro,Filial Norte,4697
+fae96526,Setembro,Filial Norte,4286

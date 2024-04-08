@@ -1,0 +1,14 @@
+Matriz de vendas
+Jan Fev Mar Abr Mai Jun Jul Ago Set Out Nov Dez
+-1 0 0 6052 0 0 0 0 3793 4798 1205 905 4668 
+-1 0 0 0 0 2089 0 0 0 0 0 0 1497 
+-1 4132 0 0 0 0 0 4736 0 0 0 0 0 
+-1 0 0 7215 7420 0 4064 398 0 0 3250 906 4088 
+Três meses com mais vendas
+-1 6052
+-1 4798
+-1 4668
+Mês com menor venda
+-1 0
+Total geral de vendas
+61216

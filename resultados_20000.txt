@@ -1,0 +1,18 @@
+
+                    Janeiro     Fevereiro   Marco       Abril       Maio        Junho       Julho       Agosto      Setembro    Outubro     Novembro    Dezembro    
+Matriz              1066425     1182861     1133805     1110967     1080355     1090160     1025908     1038715     1130741     941545      1057357     1174004     
+Filial Sul          1021661     1077936     1106624     1111396     1089666     1069259     989817      1118462     1006106     1060386     1073300     1047433     
+Filial Norte        1031332     1129360     1003256     1064738     1037107     1037116     1053676     1011700     1044254     1144724     1093199     1014348     
+Filial Nordeste     972754      1034492     1060693     1031414     1033942     1092142     1118248     1018770     1006226     1080974     981371      1065564     
+
+Tres meses com maior venda
+Fevereiro 4424649
+Abril 4318515
+Marco 4304378
+
+Mes com menos vendas
+Janeiro 4092172
+
+Total geral de vendas: 50966289
+
+Média por transação: 2548.31445
